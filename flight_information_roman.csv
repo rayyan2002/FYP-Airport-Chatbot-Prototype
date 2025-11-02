@@ -1,0 +1,121 @@
+id,user_query,intent,airport,flight_number,origin_city,arrival_time,flight_status,response
+1,Flight PK184 kis waqt Islamabad land kare gi?,flight_information,ISB,PK184,Abu Dhabi,20:32,On-Time,Flight PK184 Abu Dhabi se 20:32 par ISB pohanchne wali hai aur status On-Time hai.
+2,Flight QR967 Istanbul se ISB kab pohanche gi?,flight_information,ISB,QR967,Istanbul,07:26,Landed,Flight QR967 Istanbul se 07:26 par ISB pohanchne wali hai aur status Landed hai.
+3,Flight EK406 kis waqt Islamabad land kare gi?,flight_information,ISB,EK406,Riyadh,07:23,Landed,Flight EK406 Riyadh se 07:23 par ISB pohanchne wali hai aur status Landed hai.
+4,Flight TK706 Islamabad kis time aayegi?,flight_information,ISB,TK706,Doha,05:05,Delayed,Flight TK706 Doha se 05:05 par ISB pohanchne wali hai aur status Delayed hai.
+5,Flight PK881 ka arrival time kya hai?,flight_information,ISB,PK881,Lahore,17:38,Delayed,Flight PK881 Lahore se 17:38 par ISB pohanchne wali hai aur status Delayed hai.
+6,Flight TK677 kis waqt Islamabad land kare gi?,flight_information,ISB,TK677,Lahore,12:44,Delayed,Flight TK677 Lahore se 12:44 par ISB pohanchne wali hai aur status Delayed hai.
+7,Kya flight SV735 Jeddah se delay hai?,flight_information,ISB,SV735,Jeddah,21:38,On-Time,Flight SV735 Jeddah se 21:38 par ISB pohanchne wali hai aur status On-Time hai.
+8,Kya flight BA626 London se delay hai?,flight_information,ISB,BA626,London,01:09,On-Time,Flight BA626 London se 01:09 par ISB pohanchne wali hai aur status On-Time hai.
+9,Kya flight PK745 Riyadh se delay hai?,flight_information,ISB,PK745,Riyadh,13:12,Delayed,Flight PK745 Riyadh se 13:12 par ISB pohanchne wali hai aur status Delayed hai.
+10,Flight PK411 kis waqt Islamabad land kare gi?,flight_information,ISB,PK411,London,03:09,Landed,Flight PK411 London se 03:09 par ISB pohanchne wali hai aur status Landed hai.
+11,Flight PK819 Riyadh se ISB kab pohanche gi?,flight_information,ISB,PK819,Riyadh,22:07,On-Time,Flight PK819 Riyadh se 22:07 par ISB pohanchne wali hai aur status On-Time hai.
+12,Flight BA441 ka arrival time kya hai?,flight_information,ISB,BA441,Istanbul,07:09,Landed,Flight BA441 Istanbul se 07:09 par ISB pohanchne wali hai aur status Landed hai.
+13,Kya flight SV432 Istanbul se delay hai?,flight_information,ISB,SV432,Istanbul,07:42,Landed,Flight SV432 Istanbul se 07:42 par ISB pohanchne wali hai aur status Landed hai.
+14,Flight EK480 ki arrival status bata dein?,flight_information,ISB,EK480,London,05:47,On-Time,Flight EK480 London se 05:47 par ISB pohanchne wali hai aur status On-Time hai.
+15,Flight QR715 Karachi se ISB kab pohanche gi?,flight_information,ISB,QR715,Karachi,19:57,Delayed,Flight QR715 Karachi se 19:57 par ISB pohanchne wali hai aur status Delayed hai.
+16,Flight EK409 kis waqt Islamabad land kare gi?,flight_information,ISB,EK409,Istanbul,12:26,Delayed,Flight EK409 Istanbul se 12:26 par ISB pohanchne wali hai aur status Delayed hai.
+17,Flight SV272 Sharjah se ISB kab pohanche gi?,flight_information,ISB,SV272,Sharjah,10:39,Delayed,Flight SV272 Sharjah se 10:39 par ISB pohanchne wali hai aur status Delayed hai.
+18,Flight QR929 kis waqt Islamabad land kare gi?,flight_information,ISB,QR929,Karachi,12:27,Delayed,Flight QR929 Karachi se 12:27 par ISB pohanchne wali hai aur status Delayed hai.
+19,Flight SV905 ki arrival status bata dein?,flight_information,ISB,SV905,London,01:10,Landed,Flight SV905 London se 01:10 par ISB pohanchne wali hai aur status Landed hai.
+20,Flight EY867 ka arrival time kya hai?,flight_information,ISB,EY867,Jeddah,04:10,Landed,Flight EY867 Jeddah se 04:10 par ISB pohanchne wali hai aur status Landed hai.
+21,Flight PK288 Islamabad kis time aayegi?,flight_information,ISB,PK288,Riyadh,10:46,Landed,Flight PK288 Riyadh se 10:46 par ISB pohanchne wali hai aur status Landed hai.
+22,Kya flight QR825 Lahore se delay hai?,flight_information,ISB,QR825,Lahore,19:34,Delayed,Flight QR825 Lahore se 19:34 par ISB pohanchne wali hai aur status Delayed hai.
+23,Flight TK573 Abu Dhabi se ISB kab pohanche gi?,flight_information,ISB,TK573,Abu Dhabi,14:03,Delayed,Flight TK573 Abu Dhabi se 14:03 par ISB pohanchne wali hai aur status Delayed hai.
+24,Flight SV671 Islamabad kis time aayegi?,flight_information,ISB,SV671,Doha,01:07,Delayed,Flight SV671 Doha se 01:07 par ISB pohanchne wali hai aur status Delayed hai.
+25,Flight BA869 Islamabad kis time aayegi?,flight_information,ISB,BA869,Doha,07:12,On-Time,Flight BA869 Doha se 07:12 par ISB pohanchne wali hai aur status On-Time hai.
+26,Flight EK504 Karachi se ISB kab pohanche gi?,flight_information,ISB,EK504,Karachi,04:46,On-Time,Flight EK504 Karachi se 04:46 par ISB pohanchne wali hai aur status On-Time hai.
+27,Flight EY449 Islamabad kis time aayegi?,flight_information,ISB,EY449,London,15:06,On-Time,Flight EY449 London se 15:06 par ISB pohanchne wali hai aur status On-Time hai.
+28,Flight EK727 ka arrival time kya hai?,flight_information,ISB,EK727,Lahore,12:46,Landed,Flight EK727 Lahore se 12:46 par ISB pohanchne wali hai aur status Landed hai.
+29,Flight BA691 ki arrival status bata dein?,flight_information,ISB,BA691,Istanbul,15:56,Delayed,Flight BA691 Istanbul se 15:56 par ISB pohanchne wali hai aur status Delayed hai.
+30,Kya flight EY563 Karachi se delay hai?,flight_information,ISB,EY563,Karachi,19:01,Delayed,Flight EY563 Karachi se 19:01 par ISB pohanchne wali hai aur status Delayed hai.
+31,Flight EK768 kis waqt Islamabad land kare gi?,flight_information,ISB,EK768,Riyadh,23:58,On-Time,Flight EK768 Riyadh se 23:58 par ISB pohanchne wali hai aur status On-Time hai.
+32,Kya flight BA693 Lahore se delay hai?,flight_information,ISB,BA693,Lahore,17:48,Delayed,Flight BA693 Lahore se 17:48 par ISB pohanchne wali hai aur status Delayed hai.
+33,Flight TK902 Islamabad kis time aayegi?,flight_information,ISB,TK902,Riyadh,11:09,Landed,Flight TK902 Riyadh se 11:09 par ISB pohanchne wali hai aur status Landed hai.
+34,Flight SV639 ki arrival status bata dein?,flight_information,ISB,SV639,Abu Dhabi,18:26,Landed,Flight SV639 Abu Dhabi se 18:26 par ISB pohanchne wali hai aur status Landed hai.
+35,Flight TK412 Islamabad kis time aayegi?,flight_information,ISB,TK412,Istanbul,08:46,Landed,Flight TK412 Istanbul se 08:46 par ISB pohanchne wali hai aur status Landed hai.
+36,Flight QR521 Abu Dhabi se ISB kab pohanche gi?,flight_information,ISB,QR521,Abu Dhabi,07:19,Landed,Flight QR521 Abu Dhabi se 07:19 par ISB pohanchne wali hai aur status Landed hai.
+37,Flight QR760 Istanbul se ISB kab pohanche gi?,flight_information,ISB,QR760,Istanbul,02:07,Landed,Flight QR760 Istanbul se 02:07 par ISB pohanchne wali hai aur status Landed hai.
+38,Kya flight EY803 Dubai se delay hai?,flight_information,ISB,EY803,Dubai,06:42,On-Time,Flight EY803 Dubai se 06:42 par ISB pohanchne wali hai aur status On-Time hai.
+39,Flight TK967 kis waqt Islamabad land kare gi?,flight_information,ISB,TK967,Doha,11:18,On-Time,Flight TK967 Doha se 11:18 par ISB pohanchne wali hai aur status On-Time hai.
+40,Flight EK895 Islamabad kis time aayegi?,flight_information,ISB,EK895,Riyadh,23:43,Delayed,Flight EK895 Riyadh se 23:43 par ISB pohanchne wali hai aur status Delayed hai.
+41,Flight TK556 Lahore se ISB kab pohanche gi?,flight_information,ISB,TK556,Lahore,08:57,Landed,Flight TK556 Lahore se 08:57 par ISB pohanchne wali hai aur status Landed hai.
+42,Flight EY549 Islamabad kis time aayegi?,flight_information,ISB,EY549,London,07:11,Landed,Flight EY549 London se 07:11 par ISB pohanchne wali hai aur status Landed hai.
+43,Flight EK159 kis waqt Islamabad land kare gi?,flight_information,ISB,EK159,Riyadh,21:09,Delayed,Flight EK159 Riyadh se 21:09 par ISB pohanchne wali hai aur status Delayed hai.
+44,Flight BA776 Istanbul se ISB kab pohanche gi?,flight_information,ISB,BA776,Istanbul,22:53,Delayed,Flight BA776 Istanbul se 22:53 par ISB pohanchne wali hai aur status Delayed hai.
+45,Flight EK106 kis waqt Islamabad land kare gi?,flight_information,ISB,EK106,Riyadh,05:42,Delayed,Flight EK106 Riyadh se 05:42 par ISB pohanchne wali hai aur status Delayed hai.
+46,Flight EY274 ki arrival status bata dein?,flight_information,ISB,EY274,Abu Dhabi,07:39,On-Time,Flight EY274 Abu Dhabi se 07:39 par ISB pohanchne wali hai aur status On-Time hai.
+47,Flight SV638 Islamabad kis time aayegi?,flight_information,ISB,SV638,London,21:15,On-Time,Flight SV638 London se 21:15 par ISB pohanchne wali hai aur status On-Time hai.
+48,Flight BA306 Jeddah se ISB kab pohanche gi?,flight_information,ISB,BA306,Jeddah,18:42,Delayed,Flight BA306 Jeddah se 18:42 par ISB pohanchne wali hai aur status Delayed hai.
+49,Flight EY807 ka arrival time kya hai?,flight_information,ISB,EY807,Jeddah,09:27,Landed,Flight EY807 Jeddah se 09:27 par ISB pohanchne wali hai aur status Landed hai.
+50,Flight TK665 London se ISB kab pohanche gi?,flight_information,ISB,TK665,London,08:50,On-Time,Flight TK665 London se 08:50 par ISB pohanchne wali hai aur status On-Time hai.
+51,Flight SV920 kis waqt Islamabad land kare gi?,flight_information,ISB,SV920,Istanbul,13:52,On-Time,Flight SV920 Istanbul se 13:52 par ISB pohanchne wali hai aur status On-Time hai.
+52,Kya flight EY306 Sharjah se delay hai?,flight_information,ISB,EY306,Sharjah,05:59,On-Time,Flight EY306 Sharjah se 05:59 par ISB pohanchne wali hai aur status On-Time hai.
+53,Flight SV250 ka arrival time kya hai?,flight_information,ISB,SV250,Abu Dhabi,04:29,Landed,Flight SV250 Abu Dhabi se 04:29 par ISB pohanchne wali hai aur status Landed hai.
+54,Flight BA176 Islamabad kis time aayegi?,flight_information,ISB,BA176,Sharjah,22:16,On-Time,Flight BA176 Sharjah se 22:16 par ISB pohanchne wali hai aur status On-Time hai.
+55,Flight PK177 ki arrival status bata dein?,flight_information,ISB,PK177,Sharjah,14:44,Delayed,Flight PK177 Sharjah se 14:44 par ISB pohanchne wali hai aur status Delayed hai.
+56,Flight PK522 ki arrival status bata dein?,flight_information,ISB,PK522,Abu Dhabi,23:13,On-Time,Flight PK522 Abu Dhabi se 23:13 par ISB pohanchne wali hai aur status On-Time hai.
+57,Flight PK136 ki arrival status bata dein?,flight_information,ISB,PK136,Dubai,09:53,Delayed,Flight PK136 Dubai se 09:53 par ISB pohanchne wali hai aur status Delayed hai.
+58,Flight EK990 ki arrival status bata dein?,flight_information,ISB,EK990,Sharjah,01:01,Landed,Flight EK990 Sharjah se 01:01 par ISB pohanchne wali hai aur status Landed hai.
+59,Flight EK131 ki arrival status bata dein?,flight_information,ISB,EK131,Doha,08:49,Landed,Flight EK131 Doha se 08:49 par ISB pohanchne wali hai aur status Landed hai.
+60,Flight BA978 Islamabad kis time aayegi?,flight_information,ISB,BA978,Karachi,22:51,On-Time,Flight BA978 Karachi se 22:51 par ISB pohanchne wali hai aur status On-Time hai.
+61,Flight EY461 Islamabad kis time aayegi?,flight_information,ISB,EY461,Jeddah,14:32,On-Time,Flight EY461 Jeddah se 14:32 par ISB pohanchne wali hai aur status On-Time hai.
+62,Flight SV672 kis waqt Islamabad land kare gi?,flight_information,ISB,SV672,Lahore,11:53,Landed,Flight SV672 Lahore se 11:53 par ISB pohanchne wali hai aur status Landed hai.
+63,Flight EY793 ka arrival time kya hai?,flight_information,ISB,EY793,Istanbul,00:39,Delayed,Flight EY793 Istanbul se 00:39 par ISB pohanchne wali hai aur status Delayed hai.
+64,Flight TK748 Abu Dhabi se ISB kab pohanche gi?,flight_information,ISB,TK748,Abu Dhabi,21:15,Delayed,Flight TK748 Abu Dhabi se 21:15 par ISB pohanchne wali hai aur status Delayed hai.
+65,Kya flight EY307 Lahore se delay hai?,flight_information,ISB,EY307,Lahore,17:15,Delayed,Flight EY307 Lahore se 17:15 par ISB pohanchne wali hai aur status Delayed hai.
+66,Flight EY384 kis waqt Islamabad land kare gi?,flight_information,ISB,EY384,Lahore,21:46,On-Time,Flight EY384 Lahore se 21:46 par ISB pohanchne wali hai aur status On-Time hai.
+67,Flight PK820 Islamabad kis time aayegi?,flight_information,ISB,PK820,Abu Dhabi,04:04,On-Time,Flight PK820 Abu Dhabi se 04:04 par ISB pohanchne wali hai aur status On-Time hai.
+68,Flight TK607 kis waqt Islamabad land kare gi?,flight_information,ISB,TK607,Lahore,23:37,On-Time,Flight TK607 Lahore se 23:37 par ISB pohanchne wali hai aur status On-Time hai.
+69,Flight SV673 Islamabad kis time aayegi?,flight_information,ISB,SV673,Doha,06:57,Landed,Flight SV673 Doha se 06:57 par ISB pohanchne wali hai aur status Landed hai.
+70,Flight QR721 London se ISB kab pohanche gi?,flight_information,ISB,QR721,London,14:25,Landed,Flight QR721 London se 14:25 par ISB pohanchne wali hai aur status Landed hai.
+71,Kya flight SV948 Doha se delay hai?,flight_information,ISB,SV948,Doha,03:54,On-Time,Flight SV948 Doha se 03:54 par ISB pohanchne wali hai aur status On-Time hai.
+72,Kya flight QR623 Sharjah se delay hai?,flight_information,ISB,QR623,Sharjah,23:38,Landed,Flight QR623 Sharjah se 23:38 par ISB pohanchne wali hai aur status Landed hai.
+73,Flight SV792 ka arrival time kya hai?,flight_information,ISB,SV792,Dubai,19:31,On-Time,Flight SV792 Dubai se 19:31 par ISB pohanchne wali hai aur status On-Time hai.
+74,Flight QR499 kis waqt Islamabad land kare gi?,flight_information,ISB,QR499,Lahore,02:36,Delayed,Flight QR499 Lahore se 02:36 par ISB pohanchne wali hai aur status Delayed hai.
+75,Kya flight SV382 Abu Dhabi se delay hai?,flight_information,ISB,SV382,Abu Dhabi,07:56,Delayed,Flight SV382 Abu Dhabi se 07:56 par ISB pohanchne wali hai aur status Delayed hai.
+76,Flight TK768 Islamabad kis time aayegi?,flight_information,ISB,TK768,Doha,05:01,Landed,Flight TK768 Doha se 05:01 par ISB pohanchne wali hai aur status Landed hai.
+77,Flight PK289 Doha se ISB kab pohanche gi?,flight_information,ISB,PK289,Doha,19:40,On-Time,Flight PK289 Doha se 19:40 par ISB pohanchne wali hai aur status On-Time hai.
+78,Flight SV389 ki arrival status bata dein?,flight_information,ISB,SV389,Lahore,20:24,Delayed,Flight SV389 Lahore se 20:24 par ISB pohanchne wali hai aur status Delayed hai.
+79,Flight BA671 Karachi se ISB kab pohanche gi?,flight_information,ISB,BA671,Karachi,20:27,Delayed,Flight BA671 Karachi se 20:27 par ISB pohanchne wali hai aur status Delayed hai.
+80,Flight SV472 ka arrival time kya hai?,flight_information,ISB,SV472,Sharjah,00:20,Delayed,Flight SV472 Sharjah se 00:20 par ISB pohanchne wali hai aur status Delayed hai.
+81,Flight QR491 kis waqt Islamabad land kare gi?,flight_information,ISB,QR491,Jeddah,06:17,On-Time,Flight QR491 Jeddah se 06:17 par ISB pohanchne wali hai aur status On-Time hai.
+82,Flight QR342 ki arrival status bata dein?,flight_information,ISB,QR342,London,08:22,Delayed,Flight QR342 London se 08:22 par ISB pohanchne wali hai aur status Delayed hai.
+83,Flight EK668 Islamabad kis time aayegi?,flight_information,ISB,EK668,Dubai,02:10,On-Time,Flight EK668 Dubai se 02:10 par ISB pohanchne wali hai aur status On-Time hai.
+84,Kya flight EK222 Dubai se delay hai?,flight_information,ISB,EK222,Dubai,03:24,On-Time,Flight EK222 Dubai se 03:24 par ISB pohanchne wali hai aur status On-Time hai.
+85,Flight PK231 Karachi se ISB kab pohanche gi?,flight_information,ISB,PK231,Karachi,05:20,On-Time,Flight PK231 Karachi se 05:20 par ISB pohanchne wali hai aur status On-Time hai.
+86,Kya flight QR816 London se delay hai?,flight_information,ISB,QR816,London,18:05,On-Time,Flight QR816 London se 18:05 par ISB pohanchne wali hai aur status On-Time hai.
+87,Flight SV680 kis waqt Islamabad land kare gi?,flight_information,ISB,SV680,Abu Dhabi,17:28,On-Time,Flight SV680 Abu Dhabi se 17:28 par ISB pohanchne wali hai aur status On-Time hai.
+88,Kya flight SV209 Karachi se delay hai?,flight_information,ISB,SV209,Karachi,03:11,Delayed,Flight SV209 Karachi se 03:11 par ISB pohanchne wali hai aur status Delayed hai.
+89,Flight QR570 ka arrival time kya hai?,flight_information,ISB,QR570,Karachi,09:54,Delayed,Flight QR570 Karachi se 09:54 par ISB pohanchne wali hai aur status Delayed hai.
+90,Flight EY373 ki arrival status bata dein?,flight_information,ISB,EY373,Doha,13:10,On-Time,Flight EY373 Doha se 13:10 par ISB pohanchne wali hai aur status On-Time hai.
+91,Flight TK624 Doha se ISB kab pohanche gi?,flight_information,ISB,TK624,Doha,12:50,Landed,Flight TK624 Doha se 12:50 par ISB pohanchne wali hai aur status Landed hai.
+92,Flight SV626 Islamabad kis time aayegi?,flight_information,ISB,SV626,Istanbul,20:53,Landed,Flight SV626 Istanbul se 20:53 par ISB pohanchne wali hai aur status Landed hai.
+93,Flight EY352 Islamabad kis time aayegi?,flight_information,ISB,EY352,Sharjah,20:11,Landed,Flight EY352 Sharjah se 20:11 par ISB pohanchne wali hai aur status Landed hai.
+94,Kya flight EK430 Lahore se delay hai?,flight_information,ISB,EK430,Lahore,20:54,Landed,Flight EK430 Lahore se 20:54 par ISB pohanchne wali hai aur status Landed hai.
+95,Kya flight PK601 Karachi se delay hai?,flight_information,ISB,PK601,Karachi,13:05,Delayed,Flight PK601 Karachi se 13:05 par ISB pohanchne wali hai aur status Delayed hai.
+96,Flight PK808 London se ISB kab pohanche gi?,flight_information,ISB,PK808,London,03:53,On-Time,Flight PK808 London se 03:53 par ISB pohanchne wali hai aur status On-Time hai.
+97,Kya flight SV109 Doha se delay hai?,flight_information,ISB,SV109,Doha,21:46,On-Time,Flight SV109 Doha se 21:46 par ISB pohanchne wali hai aur status On-Time hai.
+98,Flight BA489 kis waqt Islamabad land kare gi?,flight_information,ISB,BA489,Riyadh,21:21,Landed,Flight BA489 Riyadh se 21:21 par ISB pohanchne wali hai aur status Landed hai.
+99,Flight TK139 ki arrival status bata dein?,flight_information,ISB,TK139,Riyadh,01:52,Delayed,Flight TK139 Riyadh se 01:52 par ISB pohanchne wali hai aur status Delayed hai.
+100,Flight PK771 ka arrival time kya hai?,flight_information,ISB,PK771,Karachi,12:53,Delayed,Flight PK771 Karachi se 12:53 par ISB pohanchne wali hai aur status Delayed hai.
+101,Flight SV160 Karachi se ISB kab pohanche gi?,flight_information,ISB,SV160,Karachi,13:59,Landed,Flight SV160 Karachi se 13:59 par ISB pohanchne wali hai aur status Landed hai.
+102,Flight PK136 kis waqt Islamabad land kare gi?,flight_information,ISB,PK136,Doha,07:59,On-Time,Flight PK136 Doha se 07:59 par ISB pohanchne wali hai aur status On-Time hai.
+103,Flight QR861 kis waqt Islamabad land kare gi?,flight_information,ISB,QR861,Doha,10:05,Landed,Flight QR861 Doha se 10:05 par ISB pohanchne wali hai aur status Landed hai.
+104,Flight EK534 ki arrival status bata dein?,flight_information,ISB,EK534,Riyadh,18:03,Delayed,Flight EK534 Riyadh se 18:03 par ISB pohanchne wali hai aur status Delayed hai.
+105,Flight TK696 kis waqt Islamabad land kare gi?,flight_information,ISB,TK696,Jeddah,03:05,On-Time,Flight TK696 Jeddah se 03:05 par ISB pohanchne wali hai aur status On-Time hai.
+106,Flight QR967 ki arrival status bata dein?,flight_information,ISB,QR967,Sharjah,14:13,Delayed,Flight QR967 Sharjah se 14:13 par ISB pohanchne wali hai aur status Delayed hai.
+107,Flight TK425 ki arrival status bata dein?,flight_information,ISB,TK425,Sharjah,20:52,Landed,Flight TK425 Sharjah se 20:52 par ISB pohanchne wali hai aur status Landed hai.
+108,Flight TK586 kis waqt Islamabad land kare gi?,flight_information,ISB,TK586,Lahore,06:58,Delayed,Flight TK586 Lahore se 06:58 par ISB pohanchne wali hai aur status Delayed hai.
+109,Flight QR126 ki arrival status bata dein?,flight_information,ISB,QR126,Sharjah,11:24,On-Time,Flight QR126 Sharjah se 11:24 par ISB pohanchne wali hai aur status On-Time hai.
+110,Kya flight EY707 Sharjah se delay hai?,flight_information,ISB,EY707,Sharjah,15:39,On-Time,Flight EY707 Sharjah se 15:39 par ISB pohanchne wali hai aur status On-Time hai.
+111,Flight SV104 Islamabad kis time aayegi?,flight_information,ISB,SV104,Abu Dhabi,08:16,Delayed,Flight SV104 Abu Dhabi se 08:16 par ISB pohanchne wali hai aur status Delayed hai.
+112,Kya flight EY317 Lahore se delay hai?,flight_information,ISB,EY317,Lahore,15:35,On-Time,Flight EY317 Lahore se 15:35 par ISB pohanchne wali hai aur status On-Time hai.
+113,Kya flight SV381 Istanbul se delay hai?,flight_information,ISB,SV381,Istanbul,04:14,On-Time,Flight SV381 Istanbul se 04:14 par ISB pohanchne wali hai aur status On-Time hai.
+114,Flight SV500 Istanbul se ISB kab pohanche gi?,flight_information,ISB,SV500,Istanbul,13:51,On-Time,Flight SV500 Istanbul se 13:51 par ISB pohanchne wali hai aur status On-Time hai.
+115,Flight EK438 ka arrival time kya hai?,flight_information,ISB,EK438,Sharjah,11:32,Landed,Flight EK438 Sharjah se 11:32 par ISB pohanchne wali hai aur status Landed hai.
+116,Kya flight PK101 Abu Dhabi se delay hai?,flight_information,ISB,PK101,Abu Dhabi,04:32,On-Time,Flight PK101 Abu Dhabi se 04:32 par ISB pohanchne wali hai aur status On-Time hai.
+117,Flight EY312 ka arrival time kya hai?,flight_information,ISB,EY312,Doha,04:24,Delayed,Flight EY312 Doha se 04:24 par ISB pohanchne wali hai aur status Delayed hai.
+118,Flight SV740 Islamabad kis time aayegi?,flight_information,ISB,SV740,London,02:13,Landed,Flight SV740 London se 02:13 par ISB pohanchne wali hai aur status Landed hai.
+119,Flight BA779 Karachi se ISB kab pohanche gi?,flight_information,ISB,BA779,Karachi,12:41,Delayed,Flight BA779 Karachi se 12:41 par ISB pohanchne wali hai aur status Delayed hai.
+120,Flight BA678 ka arrival time kya hai?,flight_information,ISB,BA678,Dubai,01:52,On-Time,Flight BA678 Dubai se 01:52 par ISB pohanchne wali hai aur status On-Time hai.
