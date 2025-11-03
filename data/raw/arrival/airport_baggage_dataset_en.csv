@@ -1,0 +1,51 @@
+﻿Query,Language,Intent,Terminal,Response
+Where do I collect my luggage?,en,Find_Baggage_Belt,Arrival,Please check the flight information display screens for your flight's assigned baggage belt number. They are located throughout the arrivals hall.
+Can you tell me the belt for flight QR604?,en,Find_Baggage_Belt,Arrival,Please check the flight information display screens for your flight's assigned baggage belt number. They are located throughout the arrivals hall.
+Baggage claim location?,en,Find_Baggage_Belt,Arrival,The baggage claim area is located directly after you pass through immigration. Please look for the signs.
+Which carousel has the bags from the London flight?,en,Find_Baggage_Belt,Arrival,Flight-specific belt information is displayed on the screens above the carousels. Please find your flight number.
+Where will our suitcases come out?,en,Find_Baggage_Belt,Arrival,Your suitcases will arrive on the belt assigned to your flight. Please check the information screens for the correct number.
+I need to know my baggage belt number.,en,Find_Baggage_Belt,Arrival,Please check the flight information display screens for your flight's assigned baggage belt number. They are located throughout the arrivals hall.
+Is there a screen showing luggage belts?,en,Find_Baggage_Belt,Arrival,"Yes, flight information display screens are located throughout the arrivals hall showing baggage belt assignments."
+"My flight has landed, where are the bags?",en,Find_Baggage_Belt,Arrival,Your baggage will be on the assigned belt shortly. Please check the screens for the correct belt number.
+My suitcase hasn't arrived.,en,Report_Lost_Baggage,Arrival,I am sorry to hear that. Please proceed to the Baggage Services counter for immediate assistance. They will help you file a report.
+I can't find my bag.,en,Report_Lost_Baggage,Arrival,"If your bag is not on the belt, please go to the Baggage Services office to report it missing."
+What do I do if my luggage is missing?,en,Report_Lost_Baggage,Arrival,"For any missing luggage, please contact the staff at the Baggage Services counter immediately."
+The conveyor belt is empty but my bag is not here.,en,Report_Lost_Baggage,Arrival,I am sorry to hear that. Please proceed to the Baggage Services counter for immediate assistance. They will help you file a report.
+Who should I talk to about a lost suitcase?,en,Report_Lost_Baggage,Arrival,The Baggage Services desk is the correct place to report a lost suitcase. Please have your luggage tag receipt ready.
+My bag from flight EK201 is lost.,en,Report_Lost_Baggage,Arrival,Please proceed to the Baggage Services counter to file a report for your missing bag from flight EK201.
+How do I file a report for a missing bag?,en,Report_Lost_Baggage,Arrival,The staff at the Baggage Services counter will provide you with a form to file a missing baggage report.
+My suitcase is damaged.,en,Report_Damaged_Baggage,Arrival,Please report any damaged luggage at the Baggage Services counter before leaving the airport. They will assist you with the claim process.
+The wheel of my bag is broken.,en,Report_Damaged_Baggage,Arrival,I am sorry about that. Please go to the Baggage Services counter to file a damage report.
+How can I claim for a broken suitcase?,en,Report_Damaged_Baggage,Arrival,"To make a claim, please report the damage at the Baggage Services desk. Make sure to do this before you exit the airport."
+"My bag is cracked, what's the procedure?",en,Report_Damaged_Baggage,Arrival,Please show the damaged bag to the staff at the Baggage Services counter to start the claim procedure.
+Where to report damaged luggage?,en,Report_Damaged_Baggage,Arrival,The Baggage Services counter is the designated area for reporting any damage to your luggage.
+Where can I find a luggage trolley?,en,Find_Trolley,Arrival,Baggage trolleys are available free of charge near all baggage claim belts and at various points in the arrivals hall.
+Are there any baggage carts here?,en,Find_Trolley,Arrival,"Yes, you can find baggage carts located conveniently near the baggage carousels."
+I need a trolley for my bags.,en,Find_Trolley,Arrival,Baggage trolleys are available for your use. You can find them near the entrance of the baggage claim hall.
+Do I have to pay for the luggage cart?,en,Find_Trolley,Arrival,"No, the luggage carts in the arrivals hall are complimentary for all passengers."
+Where are the trolleys?,en,Find_Trolley,Arrival,You can find trolleys located all around the baggage claim area.
+How long until the bags start arriving?,en,Query_Wait_Time,Arrival,Baggage typically starts arriving 20-30 minutes after the flight has landed. Please keep an eye on the information screens.
+What is the waiting time for luggage?,en,Query_Wait_Time,Arrival,"The wait time is usually between 20 to 40 minutes, depending on the aircraft. Thank you for your patience."
+Any update on the baggage for flight SV700?,en,Query_Wait_Time,Arrival,Please check the flight information display screen for the status. It will show 'Bags on Belt' when they start arriving.
+How long do I have to wait for my suitcase?,en,Query_Wait_Time,Arrival,Baggage delivery usually begins shortly. The typical wait time is around 20-30 minutes after landing.
+When will baggage claim start?,en,Query_Wait_Time,Arrival,Baggage should be on the belt soon. Thank you for your patience.
+Where is the collection point for oversized baggage?,en,Find_Oversized_Baggage,Arrival,Oversized items can be collected from the special baggage handling counter. Please look for signs or ask ground staff for directions.
+"I have a stroller, where do I pick it up?",en,Find_Oversized_Baggage,Arrival,Items like strollers are considered oversized baggage. Please check the special handling counter.
+Where can I get my sports equipment?,en,Find_Oversized_Baggage,Arrival,"Large sports equipment is delivered to the oversized baggage area, not the regular belt."
+Collection for large items?,en,Find_Oversized_Baggage,Arrival,Please proceed to the oversized baggage counter to collect your large items.
+Where is the baggage services desk?,en,Baggage_Services_Location,Arrival,The Baggage Services counter is located near the main baggage claim area. Look for signs that say 'Baggage Services' or 'Lost & Found'.
+I need to find the lost luggage office.,en,Baggage_Services_Location,Arrival,"The lost luggage office, also called Baggage Services, is situated at the end of the baggage claim hall."
+Where is the help desk for baggage issues?,en,Baggage_Services_Location,Arrival,"For any baggage issues, please go to the Baggage Services counter located within the baggage claim area."
+Location of the baggage office please.,en,Baggage_Services_Location,Arrival,You can find the baggage office near the carousels. Please look for the 'Baggage Services' sign.
+I think someone took my bag by mistake.,en,Mistaken_Baggage,Arrival,"If you believe someone has taken your bag, please report it to the Baggage Services counter immediately for assistance."
+"This is not my suitcase, it just looks like mine.",en,Mistaken_Baggage,Arrival,Please return the incorrect suitcase to the Baggage Services counter and report that you have picked up the wrong bag.
+What if I accidentally took the wrong luggage?,en,Mistaken_Baggage,Arrival,Please bring the luggage to the Baggage Services counter immediately so we can help you find your correct bag.
+I have someone else's bag.,en,Mistaken_Baggage,Arrival,Please do not leave the airport. Report this at the Baggage Services desk right away.
+Can I leave my bags somewhere?,en,General_Inquiry,Arrival,"For security reasons, please keep your bags with you at all times. There are no storage facilities in the arrivals area."
+Is there a baggage wrapping service here?,en,General_Inquiry,Arrival,"Baggage wrapping services are typically available in the departures hall, not in arrivals."
+How many bags am I allowed to have?,en,General_Inquiry,Arrival,Your baggage allowance is determined by your airline. The airport does not set these limits.
+Help with my luggage please.,en,General_Inquiry,Arrival,Porter services are available to help you with your luggage. You can find them in the arrivals hall.
+Can I get help carrying my bags?,en,General_Inquiry,Arrival,"Yes, porter services are available for a fee to assist you with your luggage."
+Are there customs checks after baggage claim?,en,General_Inquiry,Arrival,"Yes, after collecting your bags, you must proceed through customs inspection before exiting the airport."
+I left something on the plane.,en,General_Inquiry,Arrival,"For items left on the aircraft, please contact your airline's counter, which is located in the arrivals hall."
+Is there a porter service?,en,General_Inquiry,Arrival,"Yes, you can hire a porter to assist you with your luggage. They are located near the baggage claim exit."
