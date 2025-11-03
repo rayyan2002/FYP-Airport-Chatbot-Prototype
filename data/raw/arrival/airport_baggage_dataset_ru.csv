@@ -1,0 +1,51 @@
+Query,Language,Intent,Terminal,Response
+Mein apna saman kahan se collect karun?,ro,Find_Baggage_Belt,Arrival,Meherbani karke apne baggage belt number ke liye flight information screens check karein. Woh arrival hall mein lagi hui hain.
+Kya aap flight QR604 ke liye belt bata sakte hain?,ro,Find_Baggage_Belt,Arrival,Meherbani karke apne baggage belt number ke liye flight information screens check karein. Woh arrival hall mein lagi hui hain.
+Saman wasool karne ki jagah?,ro,Find_Baggage_Belt,Arrival,Baggage claim area immigration se guzarnay ke foran baad hai. Meherbani karke nishaniyon ko dekhein.
+London ki flight ka saman kis belt par ayega?,ro,Find_Baggage_Belt,Arrival,Flight ke liye makhsoos belt ki maloomat carousel ke upar lagi screens par dikhai jati hain. Meherbani karke apna flight number talash karein.
+Hamare suitcase kahan se niklenge?,ro,Find_Baggage_Belt,Arrival,Aap ke suitcase aap ki flight ke liye makhsoos belt par ayenge. Sahi number ke liye information screens check karein.
+Mujhe apne saman ka belt number janna hai.,ro,Find_Baggage_Belt,Arrival,Meherbani karke apne baggage belt number ke liye flight information screens check karein. Woh arrival hall mein lagi hui hain.
+Kya saman ke belt dikhane wali koi screen hai?,ro,Find_Baggage_Belt,Arrival,"Jee haan, flight information display screens poore arrival hall mein maujood hain jo saman ke belt ki tafseelat dikhati hain."
+"Meri flight land kar gayi hai, bags kahan hain?",ro,Find_Baggage_Belt,Arrival,Aap ka saman jald hi makhsoos belt par aa jayega. Sahi belt number ke liye screens check karein.
+Mera suitcase nahi aya.,ro,Report_Lost_Baggage,Arrival,"Mujhe yeh sun kar afsos hua. Fori madad ke liye, please Baggage Services counter par jayen. Woh aapki report darj karne mein madad karenge."
+Mujhe apna bag nahi mil raha.,ro,Report_Lost_Baggage,Arrival,"Agar aapka bag belt par nahi hai, to please iski gumshudgi ki itla dene ke liye Baggage Services office jayen."
+Agar mera saman gum ho jaye to main kya karun?,ro,Report_Lost_Baggage,Arrival,"Kisi bhi gumshuda saman ke liye, foran Baggage Services counter par staff se rabta karein."
+Conveyor belt khali hai lekin mera bag yahan nahi hai.,ro,Report_Lost_Baggage,Arrival,"Mujhe yeh sun kar afsos hua. Fori madad ke liye, please Baggage Services counter par jayen. Woh aapki report darj karne mein madad karenge."
+Gumshuda suitcase ke baray mein kis se baat karun?,ro,Report_Lost_Baggage,Arrival,Baggage Services desk gumshuda suitcase ki itla dene ke liye sahi jagah hai. Meherbani karke apni luggage tag ki raseed tayyar rakhein.
+Flight EK201 se mera bag gum ho gaya hai.,ro,Report_Lost_Baggage,Arrival,Meherbani karke flight EK201 se apne gumshuda bag ki report darj karwane ke liye Baggage Services counter par jayen.
+Main gumshuda bag ki report kaise darj karwaun?,ro,Report_Lost_Baggage,Arrival,Baggage Services counter par staff aap ko gumshuda saman ki report darj karne ke liye ek form dega.
+Mera suitcase kharab ho gaya hai.,ro,Report_Damaged_Baggage,Arrival,Meherbani karke kisi bhi kharab saman ki itla airport se nikalne se pehle Baggage Services counter par dein. Woh daway ke amal mein aapki madad karenge.
+Mere bag ka wheel toot gaya hai.,ro,Report_Damaged_Baggage,Arrival,Mujhe is par afsos hai. Meherbani karke nuqsan ki report darj karwane ke liye Baggage Services counter par jayen.
+Main toote hue suitcase ka claim kaise kar sakta hoon?,ro,Report_Damaged_Baggage,Arrival,"Dawa karne ke liye, meherbani karke Baggage Services desk par nuqsan ki itla dein. Yaqeen banayein ke yeh aap airport se bahar nikalne se pehle karein."
+"Mera bag crack ho gaya hai, iska kya procedure hai?",ro,Report_Damaged_Baggage,Arrival,Meherbani karke daway ka procedure shuru karne ke liye Baggage Services counter par staff ko kharab bag dikhayein.
+Kharab saman ki itla kahan deni hai?,ro,Report_Damaged_Baggage,Arrival,Baggage Services counter aap ke saman ko pohanchne wale kisi bhi nuqsan ki itla dene ke liye makhsoos area hai.
+Mujhe luggage trolley kahan se mil sakti hai?,ro,Find_Trolley,Arrival,Saman ki trolleys sabhi baggage claim belts ke paas aur arrival hall mein mukhtalif jaghon par muft dastyab hain.
+Kya yahan koi baggage carts hain?,ro,Find_Trolley,Arrival,"Jee haan, aap baggage carts baggage carousels ke paas aasani se dhoond sakte hain."
+Mujhe apne bags ke liye ek trolley chahiye.,ro,Find_Trolley,Arrival,Saman ki trolleys aap ke istemal ke liye dastyab hain. Aap unhein baggage claim hall ke dakhli raaste ke paas dhoond sakte hain.
+Kya mujhe luggage cart ke liye pay karna hoga?,ro,Find_Trolley,Arrival,"Nahi, arrival hall mein luggage carts sabhi musafiron ke liye muft hain."
+Trolleys kahan hain?,ro,Find_Trolley,Arrival,Aap trolleys baggage claim area ke aas paas har jagah dhoond sakte hain.
+Bags anay mein kitna waqt lagega?,ro,Query_Wait_Time,Arrival,Saman aam tor par flight land karne ke 20-30 minute baad ana shuru ho jata hai. Meherbani karke information screens par nazar rakhein.
+Luggage ke liye intezar ka waqt kya hai?,ro,Query_Wait_Time,Arrival,"Intezar ka waqt aam tor par 20 se 40 minute ke darmiyan hota hai, jo hawai jahaz par munhasir hai. Aap ke sabr ka shukriya."
+Flight SV700 ke baggage ke baray mein koi update?,ro,Query_Wait_Time,Arrival,Meherbani karke status ke liye flight information display screen check karein. Jab bags ana shuru honge to yeh 'Bags on Belt' dikhayega.
+Mujhe apne suitcase ka kitna intezar karna padega?,ro,Query_Wait_Time,Arrival,Saman ki delivery aam tor par jald hi shuru ho jati hai. Landing ke baad aam intezar ka waqt taqreeban 20-30 minute hota hai.
+Baggage claim kab shuru hoga?,ro,Query_Wait_Time,Arrival,Saman jald hi belt par hona chahiye. Aap ke sabr ka shukriya.
+Oversized baggage ke liye collection point kahan hai?,ro,Find_Oversized_Baggage,Arrival,Baray size ki cheezein special baggage handling counter se wasool ki ja sakti hain. Meherbani karke nishan talash karein ya zameeni amlay se hidayat lein.
+"Mere paas ek stroller hai, main use kahan se uthaun?",ro,Find_Oversized_Baggage,Arrival,Stroller jaisi cheezein oversized baggage samjhi jati hain. Meherbani karke special handling counter check karein.
+Main apne sports ka saman kahan se hasil kar sakta hoon?,ro,Find_Oversized_Baggage,Arrival,"Baray sports ka saman oversized baggage area mein pohanchaya jata hai, na ke regular belt par."
+Bari cheezon ke liye collection?,ro,Find_Oversized_Baggage,Arrival,Meherbani karke apni bari cheezein wasool karne ke liye oversized baggage counter par jayen.
+Baggage services desk kahan hai?,ro,Baggage_Services_Location,Arrival,Baggage Services counter markazi baggage claim area ke paas waqe hai. 'Baggage Services' ya 'Lost & Found' ke nishan talash karein.
+Mujhe gumshuda saman ka daftar talash karna hai.,ro,Baggage_Services_Location,Arrival,"Gumshuda saman ka daftar, jise Baggage Services bhi kehte hain, baggage claim hall ke آخر mein waqe hai."
+Saman ke masail ke liye help desk kahan hai?,ro,Baggage_Services_Location,Arrival,"Saman ke kisi bhi masle ke liye, meherbani karke baggage claim area mein mojood Baggage Services counter par jayen."
+Baggage office ki location please.,ro,Baggage_Services_Location,Arrival,Aap baggage office carousels ke paas dhoond sakte hain. Meherbani karke 'Baggage Services' ka nishan talash karein.
+Mujhe lagta hai kisi ne ghalti se mera bag le liya hai.,ro,Mistaken_Baggage,Arrival,"Agar aap ko yaqeen hai ke kisi ne aap ka bag le liya hai, to meherbani karke madad ke liye foran Baggage Services counter par iski itla dein."
+"Yeh mera suitcase nahi hai, yeh sirf mere jaisa dikhta hai.",ro,Mistaken_Baggage,Arrival,Meherbani karke ghalat suitcase Baggage Services counter par wapas karein aur itla dein ke aap ne ghalat bag utha liya hai.
+Agar maine ghalti se ghalat saman le liya to kya hoga?,ro,Mistaken_Baggage,Arrival,Meherbani karke saman ko foran Baggage Services counter par layen taake hum aapka sahi bag talash karne mein aapki madad kar sakein.
+Mere paas kisi aur ka bag hai.,ro,Mistaken_Baggage,Arrival,Meherbani karke airport na chorein. Iski itla foran Baggage Services desk par dein.
+Kya main apne bags kahin chorr sakta hoon?,ro,General_Inquiry,Arrival,"Security وجوہات ki bina par, meherbani karke apne bags har waqt apne saath rakhein. Arrivals area mein saman rakhne ki koi sahulat nahi hai."
+Kya yahan baggage wrapping ki koi service hai?,ro,General_Inquiry,Arrival,"Baggage wrapping services aam tor par departures hall mein dastyab hoti hain, arrivals mein nahi."
+Mujhe kitne bags rakhne ki ijazat hai?,ro,General_Inquiry,Arrival,Aap ke saman ki ijazat ka ta'ayun aap ki airline karti hai. Airport yeh hudood muqarrar nahi karta.
+Meherbani karke mere saman mein madad karein.,ro,General_Inquiry,Arrival,Porter services aap ke saman mein madad ke liye dastyab hain. Aap unhein arrivals hall mein dhoond sakte hain.
+Kya mujhe apne bags uthane mein madad mil sakti hai?,ro,General_Inquiry,Arrival,"Jee haan, porter services fees ke ewaz aap ke saman mein madad ke liye dastyab hain."
+Kya baggage claim ke baad customs checks hote hain?,ro,General_Inquiry,Arrival,"Jee haan, apne bags wasool karne ke baad, aap ko airport se bahar nikalne se pehle customs muayene se guzarna hoga."
+Maine jahaz mein kuch chorr diya hai.,ro,General_Inquiry,Arrival,"Hawai jahaz mein reh jane वाली cheezon ke liye, meherbani karke apni airline ke counter se rabta karein, jo arrivals hall mein waqe hai."
+Kya koi porter service hai?,ro,General_Inquiry,Arrival,"Jee haan, aap apne saman mein madad ke liye ek porter کی khidmat hasil kar sakte hain. Woh baggage claim exit ke paas mojood hain."
