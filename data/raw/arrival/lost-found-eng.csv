@@ -1,0 +1,51 @@
+﻿#,Intent,Language,User Query (English),Chatbot Response (English),Context
+1,Lost & Found,English,I lost my luggage after arrival. Where should I report it?,Please visit the Lost & Found desk located near Baggage Belt 3 at Islamabad Airport.,Arrival
+2,Lost & Found,English,Who should I contact if my baggage didn’t arrive?,Contact the Lost & Found counter beside the customs exit area.,Arrival
+3,Lost & Found,English,Is there a Lost & Found section at the airport?,"Yes, it’s located in the Arrival Hall near the information counter.",Arrival
+4,Lost & Found,English,What are the Lost & Found office hours?,The office operates 24/7 at Islamabad International Airport.,Arrival
+5,Lost & Found,English,I left my passport on the plane. What should I do?,Report immediately to your airline counter or the Lost & Found office.,Arrival
+6,Lost & Found,English,How can I file a lost baggage complaint?,You can file a complaint at the Lost & Found counter or call +92-51-111-786-787.,Arrival
+7,Lost & Found,English,My suitcase is damaged. Who handles it?,File a report at your airline’s baggage claim counter in the arrival area.,Arrival
+8,Lost & Found,English,I lost my wallet near immigration. Can someone help?,"Yes, contact the airport security or Lost & Found section right away.",Arrival
+9,Lost & Found,English,Where can I collect my recovered items?,Recovered items can be collected from the Lost & Found office with valid ID proof.,Arrival
+10,Lost & Found,English,I forgot my phone in the washroom. What should I do?,Visit the Lost & Found desk and provide details; staff will help you locate it.,Arrival
+11,Lost & Found,English,How long does it take to recover lost baggage?,"Usually within 24–48 hours, depending on airline tracking.",Arrival
+12,Lost & Found,English,Is there a helpline for missing items?,"Yes, call the Islamabad Airport helpline at +92-51-111-786-787.",Arrival
+13,Lost & Found,English,Can I check the status of my lost item online?,"Currently, only in-person or phone inquiries are available.",Arrival
+14,Lost & Found,English,My Airblue bag didn’t arrive. Where should I go?,Visit Airblue’s arrival counter or the Lost & Found desk near Belt 4.,Arrival
+15,Lost & Found,English,What documents do I need to collect a lost item?,Bring your CNIC/passport and proof of item ownership.,Arrival
+16,Lost & Found,English,I lost my boarding pass. Can I still claim my bag?,"Yes, show your ID and flight details at the Lost & Found office.",Arrival
+17,Lost & Found,English,I think someone took my bag by mistake. What now?,Report immediately to Lost & Found; they’ll check CCTV footage.,Arrival
+18,Lost & Found,English,Is there CCTV in the baggage claim area?,"Yes, the entire baggage hall is covered with CCTV cameras.",Arrival
+19,Lost & Found,English,My bag was delayed. Will it be delivered to my home?,Some airlines offer delivery; check with your airline representative.,Arrival
+20,Lost & Found,English,I lost a gold chain. How do I report it?,File a detailed report at the Lost & Found section near customs.,Arrival
+21,Lost & Found,English,I found someone’s bag on the trolley. What should I do?,Hand it over to the nearest security officer or Lost & Found desk.,Arrival
+22,Lost & Found,English,Can I email about my lost item?,"Yes, email details to lostfound@islamabadairport.com.",Arrival
+23,Lost & Found,English,Where is the Lost & Found office located exactly?,"It’s beside the international arrivals exit, near Belt 2.",Arrival
+24,Lost & Found,English,I lost my CNIC inside the terminal.,Please report at the information counter; they’ll guide you to Lost & Found.,Arrival
+25,Lost & Found,English,My flight arrived yesterday; can I still claim my lost bag today?,"Yes, unclaimed items are stored safely for up to 30 days.",Arrival
+26,Lost & Found,English,What happens if no one claims an item?,"After 90 days, unclaimed items are handed to airport authorities.",Arrival
+27,Lost & Found,English,My baggage tag is missing. Can I still track my bag?,"Yes, provide your flight and bag details to the airline staff.",Arrival
+28,Lost & Found,English,Can someone else collect my lost item on my behalf?,"Yes, with an authorization letter and copy of your CNIC.",Arrival
+29,Lost & Found,English,I lost my laptop charger. How can I check if it’s found?,Ask at the Lost & Found counter with your arrival date and flight number.,Arrival
+30,Lost & Found,English,Is there a separate Lost & Found for domestic flights?,"Yes, near the domestic arrivals area, beside Belt 1.",Arrival
+31,Lost & Found,English,I lost my baby stroller. Where do I go?,Lost strollers are kept at the baggage claim help desk.,Arrival
+32,Lost & Found,English,Can I track my lost item by phone number?,"No, you need your item’s description and flight details.",Arrival
+33,Lost & Found,English,I lost my glasses. Can someone help?,"Yes, Lost & Found maintains a list of found accessories; please check there.",Arrival
+34,Lost & Found,English,What if I lost my mobile charger?,Visit Lost & Found and describe your charger; they’ll verify and return it.,Arrival
+35,Lost & Found,English,I found someone’s passport. What should I do?,Hand it immediately to immigration or the Lost & Found office.,Arrival
+36,Lost & Found,English,Can I check CCTV footage myself?,"No, only authorized staff can review footage after a written request.",Arrival
+37,Lost & Found,English,I lost my bag trolley token. Do I need to pay again?,"Yes, a new token costs Rs. 100 at the trolley counter.",Arrival
+38,Lost & Found,English,Who is in charge of the Lost & Found section?,It’s managed by the Airport Facilitation Department.,Arrival
+39,Lost & Found,English,My baggage was opened. Who do I report this to?,Report it to the airline baggage supervisor immediately.,Arrival
+40,Lost & Found,English,I forgot my earphones in the waiting area.,Check with Lost & Found; staff collect all items from seating zones daily.,Arrival
+41,Lost & Found,English,Is there a WhatsApp number for Lost & Found?,No official WhatsApp yet; please call the helpline.,Arrival
+42,Lost & Found,English,Can I claim someone else’s item if it looks like mine?,"No, you must provide proof of ownership.",Arrival
+43,Lost & Found,English,How long are lost items kept?,Lost items are stored up to 90 days before disposal.,Arrival
+44,Lost & Found,English,My bag arrived damaged. Will the airport compensate me?,Compensation depends on your airline’s baggage policy.,Arrival
+45,Lost & Found,English,What is the average claim processing time?,"Around 15–30 minutes, depending on verification.",Arrival
+46,Lost & Found,English,Can I get updates about my lost item via SMS?,"Currently, SMS tracking is not available.",Arrival
+47,Lost & Found,English,I left my jacket near the arrival gate.,Visit Lost & Found with flight details; they’ll help locate it.,Arrival
+48,Lost & Found,English,What if I lost a valuable item like jewelry?,Inform Lost & Found and file a high-value report immediately.,Arrival
+49,Lost & Found,English,Can I recover something I lost last week?,"Yes, visit the office with your flight details and description.",Arrival
+50,Lost & Found,English,Is there any charge for using Lost & Found services?,"No, the service is completely free for passengers.",Arrival
