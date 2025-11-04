@@ -1,0 +1,51 @@
+id,user_query,intent,airport,flight_number,origin_city,arrival_time,flight_status,response,language
+1,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Baggage claim Immigration ke baad hota hai.,Roman Urdu
+2,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Landing ke baad Immigration → Baggage → Exit.,Roman Urdu
+3,Baggage claim kahan hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+4,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Baggage claim Immigration ke baad hota hai.,Roman Urdu
+5,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+6,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Baggage claim Immigration ke baad hota hai.,Roman Urdu
+7,Baggage claim kahan hai?,arrival_guidance,ISB,,,,,Landing ke baad Immigration → Baggage → Exit.,Roman Urdu
+8,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Baggage claim Immigration ke baad hota hai.,Roman Urdu
+9,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Landing ke baad Immigration → Baggage → Exit.,Roman Urdu
+10,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Baggage claim Immigration ke baad hota hai.,Roman Urdu
+11,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Landing ke baad Immigration → Baggage → Exit.,Roman Urdu
+12,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Landing ke baad Immigration → Baggage → Exit.,Roman Urdu
+13,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+14,Baggage claim kahan hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+15,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Baggage claim Immigration ke baad hota hai.,Roman Urdu
+16,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+17,Baggage claim kahan hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+18,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Baggage claim Immigration ke baad hota hai.,Roman Urdu
+19,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+20,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+21,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Landing ke baad Immigration → Baggage → Exit.,Roman Urdu
+22,Baggage claim kahan hai?,arrival_guidance,ISB,,,,,Landing ke baad Immigration → Baggage → Exit.,Roman Urdu
+23,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Landing ke baad Immigration → Baggage → Exit.,Roman Urdu
+24,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Baggage claim Immigration ke baad hota hai.,Roman Urdu
+25,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Landing ke baad Immigration → Baggage → Exit.,Roman Urdu
+26,Baggage claim kahan hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+27,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Baggage claim Immigration ke baad hota hai.,Roman Urdu
+28,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Landing ke baad Immigration → Baggage → Exit.,Roman Urdu
+29,Baggage claim kahan hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+30,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Landing ke baad Immigration → Baggage → Exit.,Roman Urdu
+31,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Baggage claim Immigration ke baad hota hai.,Roman Urdu
+32,Baggage claim kahan hai?,arrival_guidance,ISB,,,,,Baggage claim Immigration ke baad hota hai.,Roman Urdu
+33,Baggage claim kahan hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+34,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+35,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Landing ke baad Immigration → Baggage → Exit.,Roman Urdu
+36,Baggage claim kahan hai?,arrival_guidance,ISB,,,,,Landing ke baad Immigration → Baggage → Exit.,Roman Urdu
+37,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+38,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Baggage claim Immigration ke baad hota hai.,Roman Urdu
+39,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Baggage claim Immigration ke baad hota hai.,Roman Urdu
+40,Baggage claim kahan hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+41,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Landing ke baad Immigration → Baggage → Exit.,Roman Urdu
+42,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+43,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+44,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Landing ke baad Immigration → Baggage → Exit.,Roman Urdu
+45,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+46,Landing ke baad kaha jana hota hai?,arrival_guidance,ISB,,,,,Immigration arrival ke baad hota hai.,Roman Urdu
+47,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Baggage claim Immigration ke baad hota hai.,Roman Urdu
+48,Immigration kahan hota hai?,arrival_guidance,ISB,,,,,Landing ke baad Immigration → Baggage → Exit.,Roman Urdu
+49,Baggage claim kahan hai?,arrival_guidance,ISB,,,,,Baggage claim Immigration ke baad hota hai.,Roman Urdu
+50,Baggage claim kahan hai?,arrival_guidance,ISB,,,,,Baggage claim Immigration ke baad hota hai.,Roman Urdu

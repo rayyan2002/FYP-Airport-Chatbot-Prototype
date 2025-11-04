@@ -1,0 +1,51 @@
+id,user_query,intent,airport,flight_number,origin_city,arrival_time,flight_status,response,language
+1,Kya flight BA619 Sharjah se delay hai?,flight_information,ISB,BA619,Sharjah,12:03,Delayed,Flight BA619 Sharjah se 12:03 par ISB aayegi. Status: Delayed.,Roman Urdu
+2,Flight PK287 kis time Islamabad land kare gi?,flight_information,ISB,PK287,Sharjah,04:10,Landed,Flight PK287 Sharjah se 04:10 par ISB aayegi. Status: Landed.,Roman Urdu
+3,Flight PK783 Dubai se ISB kab pohanchay gi?,flight_information,ISB,PK783,Dubai,05:23,On-Time,Flight PK783 Dubai se 05:23 par ISB aayegi. Status: On-Time.,Roman Urdu
+4,Flight EK847 kis time Islamabad land kare gi?,flight_information,ISB,EK847,Dubai,12:03,Landed,Flight EK847 Dubai se 12:03 par ISB aayegi. Status: Landed.,Roman Urdu
+5,Flight EK120 kis time Islamabad land kare gi?,flight_information,ISB,EK120,Jeddah,22:13,Delayed,Flight EK120 Jeddah se 22:13 par ISB aayegi. Status: Delayed.,Roman Urdu
+6,Kya flight EY647 Jeddah se delay hai?,flight_information,ISB,EY647,Jeddah,22:06,Delayed,Flight EY647 Jeddah se 22:06 par ISB aayegi. Status: Delayed.,Roman Urdu
+7,Flight TK385 Lahore se ISB kab pohanchay gi?,flight_information,ISB,TK385,Lahore,05:16,Delayed,Flight TK385 Lahore se 05:16 par ISB aayegi. Status: Delayed.,Roman Urdu
+8,Flight QR976 Jeddah se ISB kab pohanchay gi?,flight_information,ISB,QR976,Jeddah,20:45,Landed,Flight QR976 Jeddah se 20:45 par ISB aayegi. Status: Landed.,Roman Urdu
+9,Flight BA234 kis time Islamabad land kare gi?,flight_information,ISB,BA234,Lahore,10:26,Landed,Flight BA234 Lahore se 10:26 par ISB aayegi. Status: Landed.,Roman Urdu
+10,Flight QR776 Sharjah se ISB kab pohanchay gi?,flight_information,ISB,QR776,Sharjah,02:21,On-Time,Flight QR776 Sharjah se 02:21 par ISB aayegi. Status: On-Time.,Roman Urdu
+11,Kya flight BA162 Doha se delay hai?,flight_information,ISB,BA162,Doha,15:16,Delayed,Flight BA162 Doha se 15:16 par ISB aayegi. Status: Delayed.,Roman Urdu
+12,Flight SV804 kis time Islamabad land kare gi?,flight_information,ISB,SV804,Istanbul,16:45,Delayed,Flight SV804 Istanbul se 16:45 par ISB aayegi. Status: Delayed.,Roman Urdu
+13,Flight PK745 Riyadh se ISB kab pohanchay gi?,flight_information,ISB,PK745,Riyadh,03:22,Delayed,Flight PK745 Riyadh se 03:22 par ISB aayegi. Status: Delayed.,Roman Urdu
+14,Kya flight EY708 Riyadh se delay hai?,flight_information,ISB,EY708,Riyadh,21:39,On-Time,Flight EY708 Riyadh se 21:39 par ISB aayegi. Status: On-Time.,Roman Urdu
+15,Kya flight PK116 Dubai se delay hai?,flight_information,ISB,PK116,Dubai,02:55,Landed,Flight PK116 Dubai se 02:55 par ISB aayegi. Status: Landed.,Roman Urdu
+16,Flight TK685 Riyadh se ISB kab pohanchay gi?,flight_information,ISB,TK685,Riyadh,01:06,Delayed,Flight TK685 Riyadh se 01:06 par ISB aayegi. Status: Delayed.,Roman Urdu
+17,Flight EY188 Jeddah se ISB kab pohanchay gi?,flight_information,ISB,EY188,Jeddah,07:28,On-Time,Flight EY188 Jeddah se 07:28 par ISB aayegi. Status: On-Time.,Roman Urdu
+18,Kya flight BA931 Istanbul se delay hai?,flight_information,ISB,BA931,Istanbul,22:13,Delayed,Flight BA931 Istanbul se 22:13 par ISB aayegi. Status: Delayed.,Roman Urdu
+19,Flight TK103 London se ISB kab pohanchay gi?,flight_information,ISB,TK103,London,08:19,Delayed,Flight TK103 London se 08:19 par ISB aayegi. Status: Delayed.,Roman Urdu
+20,Flight TK358 kis time Islamabad land kare gi?,flight_information,ISB,TK358,Karachi,07:18,Delayed,Flight TK358 Karachi se 07:18 par ISB aayegi. Status: Delayed.,Roman Urdu
+21,Flight EK346 Istanbul se ISB kab pohanchay gi?,flight_information,ISB,EK346,Istanbul,06:54,On-Time,Flight EK346 Istanbul se 06:54 par ISB aayegi. Status: On-Time.,Roman Urdu
+22,Flight EK914 kis time Islamabad land kare gi?,flight_information,ISB,EK914,Sharjah,16:55,On-Time,Flight EK914 Sharjah se 16:55 par ISB aayegi. Status: On-Time.,Roman Urdu
+23,Flight SV265 Karachi se ISB kab pohanchay gi?,flight_information,ISB,SV265,Karachi,18:52,Delayed,Flight SV265 Karachi se 18:52 par ISB aayegi. Status: Delayed.,Roman Urdu
+24,Flight EK333 Doha se ISB kab pohanchay gi?,flight_information,ISB,EK333,Doha,13:55,On-Time,Flight EK333 Doha se 13:55 par ISB aayegi. Status: On-Time.,Roman Urdu
+25,Flight SV690 Riyadh se ISB kab pohanchay gi?,flight_information,ISB,SV690,Riyadh,04:25,Landed,Flight SV690 Riyadh se 04:25 par ISB aayegi. Status: Landed.,Roman Urdu
+26,Flight EK893 Istanbul se ISB kab pohanchay gi?,flight_information,ISB,EK893,Istanbul,06:19,Landed,Flight EK893 Istanbul se 06:19 par ISB aayegi. Status: Landed.,Roman Urdu
+27,Kya flight BA526 Doha se delay hai?,flight_information,ISB,BA526,Doha,16:45,On-Time,Flight BA526 Doha se 16:45 par ISB aayegi. Status: On-Time.,Roman Urdu
+28,Kya flight BA836 Istanbul se delay hai?,flight_information,ISB,BA836,Istanbul,21:41,On-Time,Flight BA836 Istanbul se 21:41 par ISB aayegi. Status: On-Time.,Roman Urdu
+29,Flight EY875 kis time Islamabad land kare gi?,flight_information,ISB,EY875,Istanbul,23:11,Delayed,Flight EY875 Istanbul se 23:11 par ISB aayegi. Status: Delayed.,Roman Urdu
+30,Flight EK252 Lahore se ISB kab pohanchay gi?,flight_information,ISB,EK252,Lahore,12:13,Landed,Flight EK252 Lahore se 12:13 par ISB aayegi. Status: Landed.,Roman Urdu
+31,Flight BA441 kis time Islamabad land kare gi?,flight_information,ISB,BA441,Riyadh,22:43,Delayed,Flight BA441 Riyadh se 22:43 par ISB aayegi. Status: Delayed.,Roman Urdu
+32,Flight EK587 kis time Islamabad land kare gi?,flight_information,ISB,EK587,Jeddah,12:20,Delayed,Flight EK587 Jeddah se 12:20 par ISB aayegi. Status: Delayed.,Roman Urdu
+33,Flight TK876 kis time Islamabad land kare gi?,flight_information,ISB,TK876,Riyadh,18:21,Landed,Flight TK876 Riyadh se 18:21 par ISB aayegi. Status: Landed.,Roman Urdu
+34,Flight TK749 kis time Islamabad land kare gi?,flight_information,ISB,TK749,Lahore,07:01,On-Time,Flight TK749 Lahore se 07:01 par ISB aayegi. Status: On-Time.,Roman Urdu
+35,Flight EY701 Istanbul se ISB kab pohanchay gi?,flight_information,ISB,EY701,Istanbul,10:36,Delayed,Flight EY701 Istanbul se 10:36 par ISB aayegi. Status: Delayed.,Roman Urdu
+36,Flight TK432 kis time Islamabad land kare gi?,flight_information,ISB,TK432,Doha,00:38,On-Time,Flight TK432 Doha se 00:38 par ISB aayegi. Status: On-Time.,Roman Urdu
+37,Flight EY984 kis time Islamabad land kare gi?,flight_information,ISB,EY984,Jeddah,18:20,Delayed,Flight EY984 Jeddah se 18:20 par ISB aayegi. Status: Delayed.,Roman Urdu
+38,Flight BA399 Dubai se ISB kab pohanchay gi?,flight_information,ISB,BA399,Dubai,22:10,On-Time,Flight BA399 Dubai se 22:10 par ISB aayegi. Status: On-Time.,Roman Urdu
+39,Kya flight SV976 Jeddah se delay hai?,flight_information,ISB,SV976,Jeddah,15:10,Landed,Flight SV976 Jeddah se 15:10 par ISB aayegi. Status: Landed.,Roman Urdu
+40,Kya flight TK831 London se delay hai?,flight_information,ISB,TK831,London,05:01,Delayed,Flight TK831 London se 05:01 par ISB aayegi. Status: Delayed.,Roman Urdu
+41,Flight QR942 Lahore se ISB kab pohanchay gi?,flight_information,ISB,QR942,Lahore,11:46,Delayed,Flight QR942 Lahore se 11:46 par ISB aayegi. Status: Delayed.,Roman Urdu
+42,Flight SV267 kis time Islamabad land kare gi?,flight_information,ISB,SV267,Riyadh,07:03,Delayed,Flight SV267 Riyadh se 07:03 par ISB aayegi. Status: Delayed.,Roman Urdu
+43,Flight EK653 kis time Islamabad land kare gi?,flight_information,ISB,EK653,Karachi,17:37,On-Time,Flight EK653 Karachi se 17:37 par ISB aayegi. Status: On-Time.,Roman Urdu
+44,Flight EK677 kis time Islamabad land kare gi?,flight_information,ISB,EK677,Lahore,22:59,On-Time,Flight EK677 Lahore se 22:59 par ISB aayegi. Status: On-Time.,Roman Urdu
+45,Kya flight BA137 Dubai se delay hai?,flight_information,ISB,BA137,Dubai,02:42,Landed,Flight BA137 Dubai se 02:42 par ISB aayegi. Status: Landed.,Roman Urdu
+46,Kya flight TK362 Abu Dhabi se delay hai?,flight_information,ISB,TK362,Abu Dhabi,10:12,Landed,Flight TK362 Abu Dhabi se 10:12 par ISB aayegi. Status: Landed.,Roman Urdu
+47,Kya flight TK189 Doha se delay hai?,flight_information,ISB,TK189,Doha,06:21,Delayed,Flight TK189 Doha se 06:21 par ISB aayegi. Status: Delayed.,Roman Urdu
+48,Flight QR478 Karachi se ISB kab pohanchay gi?,flight_information,ISB,QR478,Karachi,11:27,Landed,Flight QR478 Karachi se 11:27 par ISB aayegi. Status: Landed.,Roman Urdu
+49,Flight QR718 kis time Islamabad land kare gi?,flight_information,ISB,QR718,Jeddah,08:45,Landed,Flight QR718 Jeddah se 08:45 par ISB aayegi. Status: Landed.,Roman Urdu
+50,Kya flight QR758 Jeddah se delay hai?,flight_information,ISB,QR758,Jeddah,21:01,Landed,Flight QR758 Jeddah se 21:01 par ISB aayegi. Status: Landed.,Roman Urdu

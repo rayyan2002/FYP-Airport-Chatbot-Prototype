@@ -1,0 +1,51 @@
+id,user_query,intent,airport,flight_number,origin_city,arrival_time,flight_status,response,language
+1,What is the arrival process at Islamabad Airport?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+2,Where do I go after landing?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+3,What is the arrival process at Islamabad Airport?,arrival_guidance,ISB,,,,,"After landing, go to Immigration → Baggage Claim → Customs → Exit.",English
+4,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+5,What is the arrival process at Islamabad Airport?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+6,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,"After landing, go to Immigration → Baggage Claim → Customs → Exit.",English
+7,What is the arrival process at Islamabad Airport?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+8,What is the arrival process at Islamabad Airport?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English
+9,What is the arrival process at Islamabad Airport?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+10,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English
+11,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English
+12,What is the arrival process at Islamabad Airport?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English
+13,Where do I go after landing?,arrival_guidance,ISB,,,,,"After landing, go to Immigration → Baggage Claim → Customs → Exit.",English
+14,What is the arrival process at Islamabad Airport?,arrival_guidance,ISB,,,,,"After landing, go to Immigration → Baggage Claim → Customs → Exit.",English
+15,Where do I go after landing?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+16,Where do I go after landing?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English
+17,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English
+18,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English
+19,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+20,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+21,Where do I go after landing?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English
+22,Where do I go after landing?,arrival_guidance,ISB,,,,,"After landing, go to Immigration → Baggage Claim → Customs → Exit.",English
+23,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,"After landing, go to Immigration → Baggage Claim → Customs → Exit.",English
+24,What is the arrival process at Islamabad Airport?,arrival_guidance,ISB,,,,,"After landing, go to Immigration → Baggage Claim → Customs → Exit.",English
+25,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,"After landing, go to Immigration → Baggage Claim → Customs → Exit.",English
+26,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English
+27,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,"After landing, go to Immigration → Baggage Claim → Customs → Exit.",English
+28,What is the arrival process at Islamabad Airport?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English
+29,Where do I go after landing?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English
+30,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English
+31,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English
+32,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,"After landing, go to Immigration → Baggage Claim → Customs → Exit.",English
+33,Where do I go after landing?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+34,Where do I go after landing?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+35,What is the arrival process at Islamabad Airport?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English
+36,What is the arrival process at Islamabad Airport?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+37,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,"After landing, go to Immigration → Baggage Claim → Customs → Exit.",English
+38,Where do I go after landing?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English
+39,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,"After landing, go to Immigration → Baggage Claim → Customs → Exit.",English
+40,Where do I go after landing?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+41,Where do I go after landing?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+42,What is the arrival process at Islamabad Airport?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+43,Where do I go after landing?,arrival_guidance,ISB,,,,,"After landing, go to Immigration → Baggage Claim → Customs → Exit.",English
+44,Where do I go after landing?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+45,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+46,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+47,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,Baggage claim is past Immigration; follow signs.,English
+48,What is the arrival process at Islamabad Airport?,arrival_guidance,ISB,,,,,"After landing, go to Immigration → Baggage Claim → Customs → Exit.",English
+49,Where do I go after landing?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English
+50,How do I collect baggage at ISB?,arrival_guidance,ISB,,,,,"Follow Immigration first, then collect baggage and exit.",English

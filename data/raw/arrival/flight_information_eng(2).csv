@@ -1,0 +1,51 @@
+id,user_query,intent,airport,flight_number,origin_city,arrival_time,flight_status,response,language
+1,When will flight EY380 from Sharjah arrive?,flight_information,ISB,EY380,Sharjah,02:01,Delayed,Flight EY380 from Sharjah will arrive at 02:01. Status: Delayed.,English
+2,What time will flight EY713 land in Islamabad?,flight_information,ISB,EY713,Jeddah,13:59,On-Time,Flight EY713 from Jeddah will arrive at 13:59. Status: On-Time.,English
+3,What time will flight BA782 land in Islamabad?,flight_information,ISB,BA782,Lahore,04:38,Delayed,Flight BA782 from Lahore will arrive at 04:38. Status: Delayed.,English
+4,When will flight BA758 from Doha arrive?,flight_information,ISB,BA758,Doha,08:16,Landed,Flight BA758 from Doha will arrive at 08:16. Status: Landed.,English
+5,What time will flight SV628 land in Islamabad?,flight_information,ISB,SV628,Doha,06:23,Landed,Flight SV628 from Doha will arrive at 06:23. Status: Landed.,English
+6,When will flight BA456 from Dubai arrive?,flight_information,ISB,BA456,Dubai,06:36,Landed,Flight BA456 from Dubai will arrive at 06:36. Status: Landed.,English
+7,When will flight EK593 from Sharjah arrive?,flight_information,ISB,EK593,Sharjah,19:58,Delayed,Flight EK593 from Sharjah will arrive at 19:58. Status: Delayed.,English
+8,When will flight EY718 from Doha arrive?,flight_information,ISB,EY718,Doha,20:32,Delayed,Flight EY718 from Doha will arrive at 20:32. Status: Delayed.,English
+9,Is flight EK940 from Dubai delayed?,flight_information,ISB,EK940,Dubai,03:51,Delayed,Flight EK940 from Dubai will arrive at 03:51. Status: Delayed.,English
+10,When will flight EK729 from Riyadh arrive?,flight_information,ISB,EK729,Riyadh,00:05,Landed,Flight EK729 from Riyadh will arrive at 00:05. Status: Landed.,English
+11,Is flight PK747 from Riyadh delayed?,flight_information,ISB,PK747,Riyadh,00:58,Landed,Flight PK747 from Riyadh will arrive at 00:58. Status: Landed.,English
+12,When will flight QR703 from Karachi arrive?,flight_information,ISB,QR703,Karachi,23:27,Landed,Flight QR703 from Karachi will arrive at 23:27. Status: Landed.,English
+13,When will flight TK439 from London arrive?,flight_information,ISB,TK439,London,08:40,Delayed,Flight TK439 from London will arrive at 08:40. Status: Delayed.,English
+14,What time will flight EK948 land in Islamabad?,flight_information,ISB,EK948,Sharjah,13:55,On-Time,Flight EK948 from Sharjah will arrive at 13:55. Status: On-Time.,English
+15,Is flight EK608 from Dubai delayed?,flight_information,ISB,EK608,Dubai,13:18,Delayed,Flight EK608 from Dubai will arrive at 13:18. Status: Delayed.,English
+16,What time will flight PK622 land in Islamabad?,flight_information,ISB,PK622,London,21:45,On-Time,Flight PK622 from London will arrive at 21:45. Status: On-Time.,English
+17,Is flight TK808 from Doha delayed?,flight_information,ISB,TK808,Doha,14:16,Landed,Flight TK808 from Doha will arrive at 14:16. Status: Landed.,English
+18,What time will flight BA315 land in Islamabad?,flight_information,ISB,BA315,Lahore,14:25,On-Time,Flight BA315 from Lahore will arrive at 14:25. Status: On-Time.,English
+19,What time will flight EY995 land in Islamabad?,flight_information,ISB,EY995,Riyadh,07:58,On-Time,Flight EY995 from Riyadh will arrive at 07:58. Status: On-Time.,English
+20,Is flight BA502 from Lahore delayed?,flight_information,ISB,BA502,Lahore,10:27,Delayed,Flight BA502 from Lahore will arrive at 10:27. Status: Delayed.,English
+21,When will flight SV346 from Doha arrive?,flight_information,ISB,SV346,Doha,08:14,On-Time,Flight SV346 from Doha will arrive at 08:14. Status: On-Time.,English
+22,When will flight EK633 from Sharjah arrive?,flight_information,ISB,EK633,Sharjah,07:03,On-Time,Flight EK633 from Sharjah will arrive at 07:03. Status: On-Time.,English
+23,What time will flight EY586 land in Islamabad?,flight_information,ISB,EY586,Riyadh,12:08,Delayed,Flight EY586 from Riyadh will arrive at 12:08. Status: Delayed.,English
+24,What time will flight BA210 land in Islamabad?,flight_information,ISB,BA210,Dubai,04:30,On-Time,Flight BA210 from Dubai will arrive at 04:30. Status: On-Time.,English
+25,When will flight PK397 from Karachi arrive?,flight_information,ISB,PK397,Karachi,05:11,On-Time,Flight PK397 from Karachi will arrive at 05:11. Status: On-Time.,English
+26,What time will flight TK102 land in Islamabad?,flight_information,ISB,TK102,Sharjah,10:01,Landed,Flight TK102 from Sharjah will arrive at 10:01. Status: Landed.,English
+27,Is flight EK949 from Riyadh delayed?,flight_information,ISB,EK949,Riyadh,11:37,Delayed,Flight EK949 from Riyadh will arrive at 11:37. Status: Delayed.,English
+28,When will flight QR491 from Karachi arrive?,flight_information,ISB,QR491,Karachi,06:49,Delayed,Flight QR491 from Karachi will arrive at 06:49. Status: Delayed.,English
+29,When will flight SV455 from London arrive?,flight_information,ISB,SV455,London,13:33,Landed,Flight SV455 from London will arrive at 13:33. Status: Landed.,English
+30,What time will flight BA783 land in Islamabad?,flight_information,ISB,BA783,Dubai,21:19,On-Time,Flight BA783 from Dubai will arrive at 21:19. Status: On-Time.,English
+31,What time will flight EK215 land in Islamabad?,flight_information,ISB,EK215,Riyadh,22:33,Delayed,Flight EK215 from Riyadh will arrive at 22:33. Status: Delayed.,English
+32,Is flight PK338 from Istanbul delayed?,flight_information,ISB,PK338,Istanbul,00:49,Delayed,Flight PK338 from Istanbul will arrive at 00:49. Status: Delayed.,English
+33,When will flight PK170 from Abu Dhabi arrive?,flight_information,ISB,PK170,Abu Dhabi,22:13,Landed,Flight PK170 from Abu Dhabi will arrive at 22:13. Status: Landed.,English
+34,Is flight EY428 from London delayed?,flight_information,ISB,EY428,London,19:57,On-Time,Flight EY428 from London will arrive at 19:57. Status: On-Time.,English
+35,When will flight SV215 from Dubai arrive?,flight_information,ISB,SV215,Dubai,11:16,Landed,Flight SV215 from Dubai will arrive at 11:16. Status: Landed.,English
+36,What time will flight PK147 land in Islamabad?,flight_information,ISB,PK147,Karachi,23:52,On-Time,Flight PK147 from Karachi will arrive at 23:52. Status: On-Time.,English
+37,Is flight BA232 from Sharjah delayed?,flight_information,ISB,BA232,Sharjah,02:49,Delayed,Flight BA232 from Sharjah will arrive at 02:49. Status: Delayed.,English
+38,What time will flight PK401 land in Islamabad?,flight_information,ISB,PK401,Lahore,20:34,Delayed,Flight PK401 from Lahore will arrive at 20:34. Status: Delayed.,English
+39,Is flight PK126 from Abu Dhabi delayed?,flight_information,ISB,PK126,Abu Dhabi,12:33,Landed,Flight PK126 from Abu Dhabi will arrive at 12:33. Status: Landed.,English
+40,What time will flight SV591 land in Islamabad?,flight_information,ISB,SV591,Istanbul,04:09,Delayed,Flight SV591 from Istanbul will arrive at 04:09. Status: Delayed.,English
+41,When will flight QR441 from Doha arrive?,flight_information,ISB,QR441,Doha,21:57,Landed,Flight QR441 from Doha will arrive at 21:57. Status: Landed.,English
+42,Is flight BA175 from Jeddah delayed?,flight_information,ISB,BA175,Jeddah,21:38,Delayed,Flight BA175 from Jeddah will arrive at 21:38. Status: Delayed.,English
+43,What time will flight BA214 land in Islamabad?,flight_information,ISB,BA214,Sharjah,01:40,On-Time,Flight BA214 from Sharjah will arrive at 01:40. Status: On-Time.,English
+44,When will flight EK836 from Jeddah arrive?,flight_information,ISB,EK836,Jeddah,02:14,Delayed,Flight EK836 from Jeddah will arrive at 02:14. Status: Delayed.,English
+45,Is flight BA118 from Doha delayed?,flight_information,ISB,BA118,Doha,20:44,Landed,Flight BA118 from Doha will arrive at 20:44. Status: Landed.,English
+46,What time will flight EY610 land in Islamabad?,flight_information,ISB,EY610,Jeddah,05:09,On-Time,Flight EY610 from Jeddah will arrive at 05:09. Status: On-Time.,English
+47,Is flight QR876 from Jeddah delayed?,flight_information,ISB,QR876,Jeddah,18:32,On-Time,Flight QR876 from Jeddah will arrive at 18:32. Status: On-Time.,English
+48,Is flight TK896 from Riyadh delayed?,flight_information,ISB,TK896,Riyadh,08:38,Delayed,Flight TK896 from Riyadh will arrive at 08:38. Status: Delayed.,English
+49,Is flight BA814 from Dubai delayed?,flight_information,ISB,BA814,Dubai,23:48,On-Time,Flight BA814 from Dubai will arrive at 23:48. Status: On-Time.,English
+50,Is flight EK980 from Abu Dhabi delayed?,flight_information,ISB,EK980,Abu Dhabi,21:41,Delayed,Flight EK980 from Abu Dhabi will arrive at 21:41. Status: Delayed.,English
