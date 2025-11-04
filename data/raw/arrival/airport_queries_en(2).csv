@@ -1,0 +1,93 @@
+Query,Language,Intent,Terminal,Response
+Where is the immigration counter?,en,Find_Immigration,Arrival,Please follow the signs for 'Passport Control' or 'Immigration'. It is the first checkpoint after you disembark the aircraft.
+How long is the queue for passport control?,en,Find_Immigration,Arrival,"Wait times can vary, but staff are working to process all passengers as quickly as possible. Please have your passport and landing card ready."
+I need an immigration form.,en,Find_Immigration,Arrival,"Landing cards are usually distributed by the cabin crew before landing. If you do not have one, please ask an immigration officer for assistance."
+Which line is for foreign passport holders?,en,Find_Immigration,Arrival,Please look for the signs indicating 'Foreign Passports' or 'All Passports'. There are separate lines for local citizens.
+Do I need a visa to enter?,en,Find_Immigration,Arrival,Visa requirements depend on your nationality. Please have your travel documents ready for the immigration officer to review.
+My passport is not scanning.,en,Find_Immigration,Arrival,Please proceed to a manned immigration counter for assistance. An officer will be able to process your entry manually.
+What questions will the immigration officer ask?,en,Find_Immigration,Arrival,Officers typically ask about the purpose of your visit and the duration of your stay. Please answer their questions honestly.
+Where do I get my passport stamped?,en,Find_Immigration,Arrival,The immigration officer will stamp your passport after reviewing your documents at the counter.
+Is there a separate line for families with children?,en,Find_Immigration,Arrival,"Yes, there are often designated counters for families and passengers requiring special assistance. Please look for the signs or ask a staff member."
+"I have an e-visa, where do I go?",en,Find_Immigration,Arrival,Please proceed to any of the immigration counters. They are equipped to handle e-visas and traditional visas.
+Where is the customs declaration desk?,en,Find_Customs,Arrival,"The customs desk is located after the baggage claim area, just before the final exit. Please proceed there if you have goods to declare."
+Do I need to declare this item?,en,Find_Customs,Arrival,Please check the customs information posters or speak with a customs officer at the 'Red Channel' if you are unsure.
+What is the duty-free allowance?,en,Find_Customs,Arrival,Duty-free allowances vary by country. Please refer to the information provided by the customs authority or ask an officer.
+Which way is the green channel?,en,Find_Customs,Arrival,"If you have nothing to declare, please proceed through the 'Green Channel' exit after collecting your luggage."
+"I have items to declare, where do I go?",en,Find_Customs,Arrival,"If you have goods to declare, you must go through the 'Red Channel'. Please have your receipts ready."
+Can I bring food items into the country?,en,Find_Customs,Arrival,There are restrictions on certain agricultural and food products. It is best to declare any food items to a customs officer.
+What happens if I don't declare something?,en,Find_Customs,Arrival,Failure to declare dutiable goods can result in fines or confiscation of the items. It is always best to declare if you are in doubt.
+Where can I find a customs form?,en,Find_Customs,Arrival,Customs declaration forms are available at counters before the customs checkpoint if required by your destination.
+How do I pay customs duty?,en,Find_Customs,Arrival,"You can pay any applicable duties at the customs office, which accepts cash and major credit cards."
+Is there a limit on how much currency I can bring in?,en,Find_Customs,Arrival,Most countries have a limit on the amount of cash you can bring in without declaring it. Please check with a customs officer for the specific limit.
+Where is the transfer desk?,en,Find_Transfer_Desk,Arrival,"For connecting flights, please follow the signs for 'Transfers' or 'Flight Connections' immediately after you disembark. Do not go to immigration."
+"I have a connecting flight, do I need to collect my bags?",en,Find_Transfer_Desk,Arrival,This depends on your airline and ticket. Please check with the transfer desk staff to confirm if your baggage has been checked through to your final destination.
+Do I need to go through security again for a connecting flight?,en,Find_Transfer_Desk,Arrival,"Yes, all transfer passengers must go through a security screening before proceeding to their next departure gate."
+How much time do I have for my connection?,en,Find_Transfer_Desk,Arrival,Please check your boarding pass for the departure time of your next flight. The transfer desk can advise you on the time needed to get to the gate.
+Where can I get my next boarding pass?,en,Find_Transfer_Desk,Arrival,"If you do not have your boarding pass for your connecting flight, the staff at the airline's transfer desk will issue one for you."
+"Help, I think I will miss my connection!",en,Find_Transfer_Desk,Arrival,Please speak with the transfer desk staff immediately. They can assist you and communicate with the airline.
+Which terminal is my connecting flight from?,en,Find_Transfer_Desk,Arrival,The transfer desk staff can provide you with the terminal and gate information for your onward flight.
+Is there a shuttle to the other terminal?,en,Find_Transfer_Desk,Arrival,"Yes, if your connecting flight is from another terminal, a complimentary shuttle bus service is available. Follow the signs for 'Terminal Transfer'."
+Where can I wait for my connecting flight?,en,Find_Transfer_Desk,Arrival,"After clearing transfer security, you can wait in the main departure lounge, which has seating, food outlets, and shops."
+Do I need a transit visa?,en,Find_Transfer_Desk,Arrival,Transit visa requirements depend on your nationality and the country you are in. The transfer desk staff or an immigration officer can provide guidance.
+Where is the exit to the city?,en,Find_Exit,Arrival,"After you clear customs, please proceed straight ahead through the glass doors to enter the public arrivals hall and exit the airport."
+How do I get out of the airport?,en,Find_Exit,Arrival,"The main exit is located at the end of the arrivals hall, past the customs area and the greeter's lounge."
+Which way to the arrivals hall?,en,Find_Exit,Arrival,You are currently in the baggage claim area. The arrivals hall is the public area located just after you pass through customs.
+I'm looking for the exit.,en,Find_Exit,Arrival,Please follow the 'Exit' signs. They will lead you through the baggage claim and customs area to the public hall.
+Where is the meeting point for passengers?,en,Find_Meeting_Point,Arrival,"The designated meeting point is in the arrivals hall, just after you exit the customs area. You will see a waiting area for greeters."
+"My family is picking me up, where should I look for them?",en,Find_Meeting_Point,Arrival,"Greeters and family members will be waiting for you in the public arrivals hall, behind the barriers."
+Where is the arrivals waiting area?,en,Find_Meeting_Point,Arrival,The waiting area is located in the main arrivals concourse. You will see it as soon as you exit from customs.
+Is there a specific point to meet drivers?,en,Find_Meeting_Point,Arrival,Hotel shuttles and pre-booked drivers often hold signs with the passenger's name in the arrivals hall.
+Where can I find wheelchair assistance?,en,Special_Assistance,Arrival,"Wheelchair assistance should be pre-booked with your airline. If you require help now, please ask any airport staff or visit the information desk."
+I need help with my elderly mother.,en,Special_Assistance,Arrival,Please contact an airport staff member. Special assistance services are available to help passengers with reduced mobility.
+Is there an elevator or ramp?,en,Special_Assistance,Arrival,"Yes, the airport is fully accessible with elevators and ramps. Please follow the signs for accessible routes."
+I need a porter to help with my bags.,en,Special_Assistance,Arrival,Porter services are available for a fee in the baggage claim hall. They can assist you with your luggage all the way to your transport.
+Can I rent a car from here?,en,Find_Transport,Arrival,"Yes, car rental desks are located in the arrivals hall. You can book a vehicle there."
+Where are the car rental counters?,en,Find_Transport,Arrival,The car rental counters are located at the far end of the arrivals hall. Please look for signs for 'Car Rentals'.
+Where is the pickup area for ride-sharing apps like Uber?,en,Find_Transport,Arrival,The designated pickup zone for ride-sharing services is located outside the terminal building. Please check your app for the specific location and follow the signs.
+How do I get a local taxi?,en,Find_Transport,Arrival,The official airport taxi rank is located just outside the arrivals exit. Please follow the signs and use the designated service.
+Where do I catch the airport shuttle bus?,en,Find_Transport,Arrival,The shuttle bus stop is located on the curb outside the arrivals terminal. Timetables are posted at the bus stop.
+Is there a train or metro from the airport?,en,Find_Transport,Arrival,Please check with the information desk for public transport options. Some airports have direct metro or train links to the city.
+Where is the hotel shuttle pickup point?,en,Find_Transport,Arrival,Hotel shuttles typically pick up passengers from a designated area outside the arrivals hall. Please check with your hotel for the exact location.
+How much is a taxi to the city center?,en,Find_Transport,Arrival,Fares can vary. It is best to use the official airport taxi service which has regulated fares. You can ask for an estimated price at the taxi counter.
+Can I pre-pay for a taxi?,en,Find_Transport,Arrival,"Yes, many airports have pre-paid taxi counters located in the arrivals hall to ensure you pay a fixed, official rate."
+Where is the bus station?,en,Find_Transport,Arrival,The public bus stop is located outside the main terminal. Please follow the signs for 'Public Transport'.
+I have lost my passport.,en,Report_Lost_Item,Arrival,Please contact the airport police or the information desk immediately for assistance. They will guide you on the necessary steps.
+I left my phone on the airplane.,en,Report_Lost_Item,Arrival,"For items left on the aircraft, you must contact your airline's baggage services counter. It is located in the baggage claim area."
+Where is the lost and found office?,en,Report_Lost_Item,Arrival,"The airport's general Lost and Found office is in the main arrivals hall. They handle items lost within the terminal building, not on the aircraft."
+I can't find my child's stroller.,en,Report_Lost_Item,Arrival,"Strollers are often delivered to the oversized baggage area. If it's not there, please report it at the airline's baggage services counter."
+My laptop bag is missing.,en,Report_Lost_Item,Arrival,"If you lost it in the terminal, please go to the Lost and Found office. If you think it was in your checked luggage, report it to the airline."
+Is there a tourist information desk?,en,Find_Info_Desk,Arrival,"Yes, a tourist information desk is located in the arrivals hall. They can provide maps, brochures, and local information."
+Can you give me a map of the city?,en,Find_Info_Desk,Arrival,Certainly. You can get a free city map from the tourist information desk.
+Where can I get information about hotels?,en,Find_Hotel_Desk,Arrival,"You can find hotel booking counters in the arrivals hall, or the tourist information desk can provide you with a list of options."
+Can I book a tour from here?,en,Find_Info_Desk,Arrival,"Yes, the tourist information desk can often assist with booking city tours and excursions."
+I need to make a phone call.,en,Find_Services_Arrivals,Arrival,"Public telephones are available in the arrivals hall. Alternatively, you can buy a local SIM card to use your mobile phone."
+Where can I buy a bottle of water?,en,Find_Services_Arrivals,Arrival,There are convenience stores and vending machines in the arrivals hall where you can purchase drinks and snacks.
+Are there any cafes open?,en,Find_Services_Arrivals,Arrival,"Yes, several cafes are open in the arrivals hall to serve arriving passengers and greeters."
+I need to find an ATM.,en,Find_Services_Arrivals,Arrival,"ATMs are located throughout the arrivals hall, usually near the currency exchange counters and the exit."
+Where can I change my money?,en,Find_Services_Arrivals,Arrival,Currency exchange counters are available in the baggage claim area and in the main arrivals hall.
+What is the exchange rate for USD?,en,Find_Services_Arrivals,Arrival,The current exchange rates are displayed on electronic boards at the currency exchange counters.
+Is it better to exchange money here or in the city?,en,Find_Services_Arrivals,Arrival,Airport exchange rates may be slightly lower than in the city. It is often a good idea to exchange a small amount for immediate needs.
+Can I buy a local SIM card here?,en,Find_Services_Arrivals,Arrival,"Yes, kiosks for major mobile providers are located in the arrivals hall. You can buy a SIM card and data plan there."
+What documents do I need to buy a SIM card?,en,Find_Services_Arrivals,Arrival,You will typically need to show your passport to purchase a local SIM card.
+Which mobile company is the best?,en,Find_Services_Arrivals,Arrival,All providers at the airport offer reliable service. You can compare their tourist plans at the kiosks to see which best fits your needs.
+How do I activate the SIM card?,en,Find_Services_Arrivals,Arrival,The staff at the mobile kiosk will activate the SIM card and ensure it is working in your phone before you leave.
+Is there a pharmacy in the arrivals area?,en,Find_Services_Arrivals,Arrival,"Yes, a pharmacy is located in the public area of the arrivals hall."
+Where can I find a prayer room?,en,Find_Services_Arrivals,Arrival,A multi-faith prayer room is available in the arrivals hall. Please follow the signs.
+Are there showers I can use?,en,Find_Services_Arrivals,Arrival,Arrivals terminals do not typically have public shower facilities. They are sometimes available in airport hotels.
+Where can I find the airport information desk?,en,Find_Info_Desk,Arrival,The main information desk is centrally located in the arrivals hall. The staff can help with any questions you may have.
+"Help, I'm lost.",en,General_Inquiry,Arrival,"You are in the arrivals hall. Please tell me where you would like to go, or visit the information desk for directions."
+What is the current local time?,en,General_Inquiry,Arrival,The current local time is displayed on clocks throughout the terminal.
+What is the weather like outside?,en,General_Inquiry,Arrival,You can check the weather forecast on the information screens or by asking at the information desk.
+Can I connect to the WiFi?,en,Find_Services_Arrivals,Arrival,"Yes, please connect to the 'Airport_Free_WiFi' network. A browser window will open for you to log in."
+Where are the toilets?,en,Find_Services_Arrivals,Arrival,Restrooms are located in the baggage claim area and at several points in the arrivals hall.
+Is the tap water safe to drink?,en,General_Inquiry,Arrival,It is generally recommended for visitors to drink bottled water. You can purchase it from any shop in the arrivals hall.
+Where can I claim my VAT refund?,en,General_Inquiry,Arrival,"The VAT refund desk for tourists is typically located in the departures terminal, before you check in for your flight home."
+"I am a diplomat, is there a special channel?",en,Find_Immigration,Arrival,"Yes, please look for the counter marked 'Diplomats' or 'Special Services' at the immigration checkpoint."
+My baggage is damaged.,en,Report_Damaged_Baggage,Arrival,Please report any damaged luggage at your airline's baggage services counter before leaving the baggage claim area.
+The handle on my suitcase is broken.,en,Report_Damaged_Baggage,Arrival,I am sorry to hear that. Please go to the baggage services desk to file a damage report.
+How do I get to the airport hotel?,en,Find_Transport,Arrival,The airport hotel is located a short walk from the terminal. Please follow the signs for 'Airport Hotel' from the arrivals hall.
+Is there a baggage storage service?,en,Find_Services_Arrivals,Arrival,Baggage storage or left luggage facilities are sometimes available. Please check with the information desk for location and pricing.
+Can I smoke here?,en,Find_Smoking_Area,Arrival,This is a smoke-free building. Designated smoking areas are located outside the terminal exits.
+Where is the nearest exit?,en,Find_Exit,Arrival,"The main exit is straight ahead, past the crowd of greeters in the arrivals hall."
+I need a taxi with a baby seat.,en,Find_Transport,Arrival,You can request a taxi with a child safety seat at the official taxi dispatch counter. There may be a short wait.
+Is the airport open 24 hours?,en,General_Inquiry,Arrival,"Yes, the airport operates 24 hours a day, 7 days a week."
