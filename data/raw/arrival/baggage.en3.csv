@@ -1,0 +1,101 @@
+Query,Language,Intent,Terminal,Response
+Where is the baggage belt?,English,Baggage,Arrival,The baggage belt is located near the arrival baggage area at Belt 1.
+Where is the lost luggage?,English,Baggage,Arrival,The lost luggage is located near the arrival baggage area at Belt 2.
+Where is the oversized baggage?,English,Baggage,Arrival,The oversized baggage is located near the arrival baggage area at Belt 3.
+Where is the baggage claim?,English,Baggage,Arrival,The baggage claim is located near the arrival baggage area at Belt 4.
+Where is the trolley?,English,Baggage,Arrival,The trolley is located near the arrival baggage area at Belt 5.
+Where is the baggage wrapping?,English,Baggage,Arrival,The baggage wrapping is located near the arrival baggage area at Belt 6.
+Where is the damaged bag?,English,Baggage,Arrival,The damaged bag is located near the arrival baggage area at Belt 7.
+Where is the missing bag?,English,Baggage,Arrival,The missing bag is located near the arrival baggage area at Belt 8.
+Where is the baggage inquiry desk?,English,Baggage,Arrival,The baggage inquiry desk is located near the arrival baggage area at Belt 1.
+Where is the luggage storage?,English,Baggage,Arrival,The luggage storage is located near the arrival baggage area at Belt 2.
+Where is the priority baggage?,English,Baggage,Arrival,The priority baggage is located near the arrival baggage area at Belt 3.
+Where is the baggage weight limit?,English,Baggage,Arrival,The baggage weight limit is located near the arrival baggage area at Belt 4.
+Where is the baggage delay?,English,Baggage,Arrival,The baggage delay is located near the arrival baggage area at Belt 5.
+Where is the customs area?,English,Baggage,Arrival,The customs area is located near the arrival baggage area at Belt 6.
+Where is the baggage scanner?,English,Baggage,Arrival,The baggage scanner is located near the arrival baggage area at Belt 7.
+Where is the security check?,English,Baggage,Arrival,The security check is located near the arrival baggage area at Belt 8.
+Where is the bag drop?,English,Baggage,Arrival,The bag drop is located near the arrival baggage area at Belt 1.
+Where is the bag collection?,English,Baggage,Arrival,The bag collection is located near the arrival baggage area at Belt 2.
+Where is the left luggage?,English,Baggage,Arrival,The left luggage is located near the arrival baggage area at Belt 3.
+Where is the bag recheck?,English,Baggage,Arrival,The bag recheck is located near the arrival baggage area at Belt 4.
+Where is the baggage belt?,English,Baggage,Arrival,The baggage belt is located near the arrival baggage area at Belt 5.
+Where is the lost luggage?,English,Baggage,Arrival,The lost luggage is located near the arrival baggage area at Belt 6.
+Where is the oversized baggage?,English,Baggage,Arrival,The oversized baggage is located near the arrival baggage area at Belt 7.
+Where is the baggage claim?,English,Baggage,Arrival,The baggage claim is located near the arrival baggage area at Belt 8.
+Where is the trolley?,English,Baggage,Arrival,The trolley is located near the arrival baggage area at Belt 1.
+Where is the baggage wrapping?,English,Baggage,Arrival,The baggage wrapping is located near the arrival baggage area at Belt 2.
+Where is the damaged bag?,English,Baggage,Arrival,The damaged bag is located near the arrival baggage area at Belt 3.
+Where is the missing bag?,English,Baggage,Arrival,The missing bag is located near the arrival baggage area at Belt 4.
+Where is the baggage inquiry desk?,English,Baggage,Arrival,The baggage inquiry desk is located near the arrival baggage area at Belt 5.
+Where is the luggage storage?,English,Baggage,Arrival,The luggage storage is located near the arrival baggage area at Belt 6.
+Where is the priority baggage?,English,Baggage,Arrival,The priority baggage is located near the arrival baggage area at Belt 7.
+Where is the baggage weight limit?,English,Baggage,Arrival,The baggage weight limit is located near the arrival baggage area at Belt 8.
+Where is the baggage delay?,English,Baggage,Arrival,The baggage delay is located near the arrival baggage area at Belt 1.
+Where is the customs area?,English,Baggage,Arrival,The customs area is located near the arrival baggage area at Belt 2.
+Where is the baggage scanner?,English,Baggage,Arrival,The baggage scanner is located near the arrival baggage area at Belt 3.
+Where is the security check?,English,Baggage,Arrival,The security check is located near the arrival baggage area at Belt 4.
+Where is the bag drop?,English,Baggage,Arrival,The bag drop is located near the arrival baggage area at Belt 5.
+Where is the bag collection?,English,Baggage,Arrival,The bag collection is located near the arrival baggage area at Belt 6.
+Where is the left luggage?,English,Baggage,Arrival,The left luggage is located near the arrival baggage area at Belt 7.
+Where is the bag recheck?,English,Baggage,Arrival,The bag recheck is located near the arrival baggage area at Belt 8.
+Where is the baggage belt?,English,Baggage,Arrival,The baggage belt is located near the arrival baggage area at Belt 1.
+Where is the lost luggage?,English,Baggage,Arrival,The lost luggage is located near the arrival baggage area at Belt 2.
+Where is the oversized baggage?,English,Baggage,Arrival,The oversized baggage is located near the arrival baggage area at Belt 3.
+Where is the baggage claim?,English,Baggage,Arrival,The baggage claim is located near the arrival baggage area at Belt 4.
+Where is the trolley?,English,Baggage,Arrival,The trolley is located near the arrival baggage area at Belt 5.
+Where is the baggage wrapping?,English,Baggage,Arrival,The baggage wrapping is located near the arrival baggage area at Belt 6.
+Where is the damaged bag?,English,Baggage,Arrival,The damaged bag is located near the arrival baggage area at Belt 7.
+Where is the missing bag?,English,Baggage,Arrival,The missing bag is located near the arrival baggage area at Belt 8.
+Where is the baggage inquiry desk?,English,Baggage,Arrival,The baggage inquiry desk is located near the arrival baggage area at Belt 1.
+Where is the luggage storage?,English,Baggage,Arrival,The luggage storage is located near the arrival baggage area at Belt 2.
+Where is the priority baggage?,English,Baggage,Arrival,The priority baggage is located near the arrival baggage area at Belt 3.
+Where is the baggage weight limit?,English,Baggage,Arrival,The baggage weight limit is located near the arrival baggage area at Belt 4.
+Where is the baggage delay?,English,Baggage,Arrival,The baggage delay is located near the arrival baggage area at Belt 5.
+Where is the customs area?,English,Baggage,Arrival,The customs area is located near the arrival baggage area at Belt 6.
+Where is the baggage scanner?,English,Baggage,Arrival,The baggage scanner is located near the arrival baggage area at Belt 7.
+Where is the security check?,English,Baggage,Arrival,The security check is located near the arrival baggage area at Belt 8.
+Where is the bag drop?,English,Baggage,Arrival,The bag drop is located near the arrival baggage area at Belt 1.
+Where is the bag collection?,English,Baggage,Arrival,The bag collection is located near the arrival baggage area at Belt 2.
+Where is the left luggage?,English,Baggage,Arrival,The left luggage is located near the arrival baggage area at Belt 3.
+Where is the bag recheck?,English,Baggage,Arrival,The bag recheck is located near the arrival baggage area at Belt 4.
+Where is the baggage belt?,English,Baggage,Arrival,The baggage belt is located near the arrival baggage area at Belt 5.
+Where is the lost luggage?,English,Baggage,Arrival,The lost luggage is located near the arrival baggage area at Belt 6.
+Where is the oversized baggage?,English,Baggage,Arrival,The oversized baggage is located near the arrival baggage area at Belt 7.
+Where is the baggage claim?,English,Baggage,Arrival,The baggage claim is located near the arrival baggage area at Belt 8.
+Where is the trolley?,English,Baggage,Arrival,The trolley is located near the arrival baggage area at Belt 1.
+Where is the baggage wrapping?,English,Baggage,Arrival,The baggage wrapping is located near the arrival baggage area at Belt 2.
+Where is the damaged bag?,English,Baggage,Arrival,The damaged bag is located near the arrival baggage area at Belt 3.
+Where is the missing bag?,English,Baggage,Arrival,The missing bag is located near the arrival baggage area at Belt 4.
+Where is the baggage inquiry desk?,English,Baggage,Arrival,The baggage inquiry desk is located near the arrival baggage area at Belt 5.
+Where is the luggage storage?,English,Baggage,Arrival,The luggage storage is located near the arrival baggage area at Belt 6.
+Where is the priority baggage?,English,Baggage,Arrival,The priority baggage is located near the arrival baggage area at Belt 7.
+Where is the baggage weight limit?,English,Baggage,Arrival,The baggage weight limit is located near the arrival baggage area at Belt 8.
+Where is the baggage delay?,English,Baggage,Arrival,The baggage delay is located near the arrival baggage area at Belt 1.
+Where is the customs area?,English,Baggage,Arrival,The customs area is located near the arrival baggage area at Belt 2.
+Where is the baggage scanner?,English,Baggage,Arrival,The baggage scanner is located near the arrival baggage area at Belt 3.
+Where is the security check?,English,Baggage,Arrival,The security check is located near the arrival baggage area at Belt 4.
+Where is the bag drop?,English,Baggage,Arrival,The bag drop is located near the arrival baggage area at Belt 5.
+Where is the bag collection?,English,Baggage,Arrival,The bag collection is located near the arrival baggage area at Belt 6.
+Where is the left luggage?,English,Baggage,Arrival,The left luggage is located near the arrival baggage area at Belt 7.
+Where is the bag recheck?,English,Baggage,Arrival,The bag recheck is located near the arrival baggage area at Belt 8.
+Where is the baggage belt?,English,Baggage,Arrival,The baggage belt is located near the arrival baggage area at Belt 1.
+Where is the lost luggage?,English,Baggage,Arrival,The lost luggage is located near the arrival baggage area at Belt 2.
+Where is the oversized baggage?,English,Baggage,Arrival,The oversized baggage is located near the arrival baggage area at Belt 3.
+Where is the baggage claim?,English,Baggage,Arrival,The baggage claim is located near the arrival baggage area at Belt 4.
+Where is the trolley?,English,Baggage,Arrival,The trolley is located near the arrival baggage area at Belt 5.
+Where is the baggage wrapping?,English,Baggage,Arrival,The baggage wrapping is located near the arrival baggage area at Belt 6.
+Where is the damaged bag?,English,Baggage,Arrival,The damaged bag is located near the arrival baggage area at Belt 7.
+Where is the missing bag?,English,Baggage,Arrival,The missing bag is located near the arrival baggage area at Belt 8.
+Where is the baggage inquiry desk?,English,Baggage,Arrival,The baggage inquiry desk is located near the arrival baggage area at Belt 1.
+Where is the luggage storage?,English,Baggage,Arrival,The luggage storage is located near the arrival baggage area at Belt 2.
+Where is the priority baggage?,English,Baggage,Arrival,The priority baggage is located near the arrival baggage area at Belt 3.
+Where is the baggage weight limit?,English,Baggage,Arrival,The baggage weight limit is located near the arrival baggage area at Belt 4.
+Where is the baggage delay?,English,Baggage,Arrival,The baggage delay is located near the arrival baggage area at Belt 5.
+Where is the customs area?,English,Baggage,Arrival,The customs area is located near the arrival baggage area at Belt 6.
+Where is the baggage scanner?,English,Baggage,Arrival,The baggage scanner is located near the arrival baggage area at Belt 7.
+Where is the security check?,English,Baggage,Arrival,The security check is located near the arrival baggage area at Belt 8.
+Where is the bag drop?,English,Baggage,Arrival,The bag drop is located near the arrival baggage area at Belt 1.
+Where is the bag collection?,English,Baggage,Arrival,The bag collection is located near the arrival baggage area at Belt 2.
+Where is the left luggage?,English,Baggage,Arrival,The left luggage is located near the arrival baggage area at Belt 3.
+Where is the bag recheck?,English,Baggage,Arrival,The bag recheck is located near the arrival baggage area at Belt 4.

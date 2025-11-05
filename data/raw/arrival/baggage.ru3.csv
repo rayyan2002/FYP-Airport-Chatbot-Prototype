@@ -1,0 +1,101 @@
+Query,Language,Intent,Terminal,Response
+baggage belt kahan hai?,Roman Urdu,Baggage,Arrival,baggage belt Arrival baggage area mein Belt 1 ke paas hai.
+lost luggage kahan hai?,Roman Urdu,Baggage,Arrival,lost luggage Arrival baggage area mein Belt 2 ke paas hai.
+oversized baggage kahan hai?,Roman Urdu,Baggage,Arrival,oversized baggage Arrival baggage area mein Belt 3 ke paas hai.
+baggage claim kahan hai?,Roman Urdu,Baggage,Arrival,baggage claim Arrival baggage area mein Belt 4 ke paas hai.
+trolley kahan hai?,Roman Urdu,Baggage,Arrival,trolley Arrival baggage area mein Belt 5 ke paas hai.
+baggage wrapping kahan hai?,Roman Urdu,Baggage,Arrival,baggage wrapping Arrival baggage area mein Belt 6 ke paas hai.
+damaged bag kahan hai?,Roman Urdu,Baggage,Arrival,damaged bag Arrival baggage area mein Belt 7 ke paas hai.
+missing bag kahan hai?,Roman Urdu,Baggage,Arrival,missing bag Arrival baggage area mein Belt 8 ke paas hai.
+baggage inquiry desk kahan hai?,Roman Urdu,Baggage,Arrival,baggage inquiry desk Arrival baggage area mein Belt 1 ke paas hai.
+luggage storage kahan hai?,Roman Urdu,Baggage,Arrival,luggage storage Arrival baggage area mein Belt 2 ke paas hai.
+priority baggage kahan hai?,Roman Urdu,Baggage,Arrival,priority baggage Arrival baggage area mein Belt 3 ke paas hai.
+baggage weight limit kahan hai?,Roman Urdu,Baggage,Arrival,baggage weight limit Arrival baggage area mein Belt 4 ke paas hai.
+baggage delay kahan hai?,Roman Urdu,Baggage,Arrival,baggage delay Arrival baggage area mein Belt 5 ke paas hai.
+customs area kahan hai?,Roman Urdu,Baggage,Arrival,customs area Arrival baggage area mein Belt 6 ke paas hai.
+baggage scanner kahan hai?,Roman Urdu,Baggage,Arrival,baggage scanner Arrival baggage area mein Belt 7 ke paas hai.
+security check kahan hai?,Roman Urdu,Baggage,Arrival,security check Arrival baggage area mein Belt 8 ke paas hai.
+bag drop kahan hai?,Roman Urdu,Baggage,Arrival,bag drop Arrival baggage area mein Belt 1 ke paas hai.
+bag collection kahan hai?,Roman Urdu,Baggage,Arrival,bag collection Arrival baggage area mein Belt 2 ke paas hai.
+left luggage kahan hai?,Roman Urdu,Baggage,Arrival,left luggage Arrival baggage area mein Belt 3 ke paas hai.
+bag recheck kahan hai?,Roman Urdu,Baggage,Arrival,bag recheck Arrival baggage area mein Belt 4 ke paas hai.
+baggage belt kahan hai?,Roman Urdu,Baggage,Arrival,baggage belt Arrival baggage area mein Belt 5 ke paas hai.
+lost luggage kahan hai?,Roman Urdu,Baggage,Arrival,lost luggage Arrival baggage area mein Belt 6 ke paas hai.
+oversized baggage kahan hai?,Roman Urdu,Baggage,Arrival,oversized baggage Arrival baggage area mein Belt 7 ke paas hai.
+baggage claim kahan hai?,Roman Urdu,Baggage,Arrival,baggage claim Arrival baggage area mein Belt 8 ke paas hai.
+trolley kahan hai?,Roman Urdu,Baggage,Arrival,trolley Arrival baggage area mein Belt 1 ke paas hai.
+baggage wrapping kahan hai?,Roman Urdu,Baggage,Arrival,baggage wrapping Arrival baggage area mein Belt 2 ke paas hai.
+damaged bag kahan hai?,Roman Urdu,Baggage,Arrival,damaged bag Arrival baggage area mein Belt 3 ke paas hai.
+missing bag kahan hai?,Roman Urdu,Baggage,Arrival,missing bag Arrival baggage area mein Belt 4 ke paas hai.
+baggage inquiry desk kahan hai?,Roman Urdu,Baggage,Arrival,baggage inquiry desk Arrival baggage area mein Belt 5 ke paas hai.
+luggage storage kahan hai?,Roman Urdu,Baggage,Arrival,luggage storage Arrival baggage area mein Belt 6 ke paas hai.
+priority baggage kahan hai?,Roman Urdu,Baggage,Arrival,priority baggage Arrival baggage area mein Belt 7 ke paas hai.
+baggage weight limit kahan hai?,Roman Urdu,Baggage,Arrival,baggage weight limit Arrival baggage area mein Belt 8 ke paas hai.
+baggage delay kahan hai?,Roman Urdu,Baggage,Arrival,baggage delay Arrival baggage area mein Belt 1 ke paas hai.
+customs area kahan hai?,Roman Urdu,Baggage,Arrival,customs area Arrival baggage area mein Belt 2 ke paas hai.
+baggage scanner kahan hai?,Roman Urdu,Baggage,Arrival,baggage scanner Arrival baggage area mein Belt 3 ke paas hai.
+security check kahan hai?,Roman Urdu,Baggage,Arrival,security check Arrival baggage area mein Belt 4 ke paas hai.
+bag drop kahan hai?,Roman Urdu,Baggage,Arrival,bag drop Arrival baggage area mein Belt 5 ke paas hai.
+bag collection kahan hai?,Roman Urdu,Baggage,Arrival,bag collection Arrival baggage area mein Belt 6 ke paas hai.
+left luggage kahan hai?,Roman Urdu,Baggage,Arrival,left luggage Arrival baggage area mein Belt 7 ke paas hai.
+bag recheck kahan hai?,Roman Urdu,Baggage,Arrival,bag recheck Arrival baggage area mein Belt 8 ke paas hai.
+baggage belt kahan hai?,Roman Urdu,Baggage,Arrival,baggage belt Arrival baggage area mein Belt 1 ke paas hai.
+lost luggage kahan hai?,Roman Urdu,Baggage,Arrival,lost luggage Arrival baggage area mein Belt 2 ke paas hai.
+oversized baggage kahan hai?,Roman Urdu,Baggage,Arrival,oversized baggage Arrival baggage area mein Belt 3 ke paas hai.
+baggage claim kahan hai?,Roman Urdu,Baggage,Arrival,baggage claim Arrival baggage area mein Belt 4 ke paas hai.
+trolley kahan hai?,Roman Urdu,Baggage,Arrival,trolley Arrival baggage area mein Belt 5 ke paas hai.
+baggage wrapping kahan hai?,Roman Urdu,Baggage,Arrival,baggage wrapping Arrival baggage area mein Belt 6 ke paas hai.
+damaged bag kahan hai?,Roman Urdu,Baggage,Arrival,damaged bag Arrival baggage area mein Belt 7 ke paas hai.
+missing bag kahan hai?,Roman Urdu,Baggage,Arrival,missing bag Arrival baggage area mein Belt 8 ke paas hai.
+baggage inquiry desk kahan hai?,Roman Urdu,Baggage,Arrival,baggage inquiry desk Arrival baggage area mein Belt 1 ke paas hai.
+luggage storage kahan hai?,Roman Urdu,Baggage,Arrival,luggage storage Arrival baggage area mein Belt 2 ke paas hai.
+priority baggage kahan hai?,Roman Urdu,Baggage,Arrival,priority baggage Arrival baggage area mein Belt 3 ke paas hai.
+baggage weight limit kahan hai?,Roman Urdu,Baggage,Arrival,baggage weight limit Arrival baggage area mein Belt 4 ke paas hai.
+baggage delay kahan hai?,Roman Urdu,Baggage,Arrival,baggage delay Arrival baggage area mein Belt 5 ke paas hai.
+customs area kahan hai?,Roman Urdu,Baggage,Arrival,customs area Arrival baggage area mein Belt 6 ke paas hai.
+baggage scanner kahan hai?,Roman Urdu,Baggage,Arrival,baggage scanner Arrival baggage area mein Belt 7 ke paas hai.
+security check kahan hai?,Roman Urdu,Baggage,Arrival,security check Arrival baggage area mein Belt 8 ke paas hai.
+bag drop kahan hai?,Roman Urdu,Baggage,Arrival,bag drop Arrival baggage area mein Belt 1 ke paas hai.
+bag collection kahan hai?,Roman Urdu,Baggage,Arrival,bag collection Arrival baggage area mein Belt 2 ke paas hai.
+left luggage kahan hai?,Roman Urdu,Baggage,Arrival,left luggage Arrival baggage area mein Belt 3 ke paas hai.
+bag recheck kahan hai?,Roman Urdu,Baggage,Arrival,bag recheck Arrival baggage area mein Belt 4 ke paas hai.
+baggage belt kahan hai?,Roman Urdu,Baggage,Arrival,baggage belt Arrival baggage area mein Belt 5 ke paas hai.
+lost luggage kahan hai?,Roman Urdu,Baggage,Arrival,lost luggage Arrival baggage area mein Belt 6 ke paas hai.
+oversized baggage kahan hai?,Roman Urdu,Baggage,Arrival,oversized baggage Arrival baggage area mein Belt 7 ke paas hai.
+baggage claim kahan hai?,Roman Urdu,Baggage,Arrival,baggage claim Arrival baggage area mein Belt 8 ke paas hai.
+trolley kahan hai?,Roman Urdu,Baggage,Arrival,trolley Arrival baggage area mein Belt 1 ke paas hai.
+baggage wrapping kahan hai?,Roman Urdu,Baggage,Arrival,baggage wrapping Arrival baggage area mein Belt 2 ke paas hai.
+damaged bag kahan hai?,Roman Urdu,Baggage,Arrival,damaged bag Arrival baggage area mein Belt 3 ke paas hai.
+missing bag kahan hai?,Roman Urdu,Baggage,Arrival,missing bag Arrival baggage area mein Belt 4 ke paas hai.
+baggage inquiry desk kahan hai?,Roman Urdu,Baggage,Arrival,baggage inquiry desk Arrival baggage area mein Belt 5 ke paas hai.
+luggage storage kahan hai?,Roman Urdu,Baggage,Arrival,luggage storage Arrival baggage area mein Belt 6 ke paas hai.
+priority baggage kahan hai?,Roman Urdu,Baggage,Arrival,priority baggage Arrival baggage area mein Belt 7 ke paas hai.
+baggage weight limit kahan hai?,Roman Urdu,Baggage,Arrival,baggage weight limit Arrival baggage area mein Belt 8 ke paas hai.
+baggage delay kahan hai?,Roman Urdu,Baggage,Arrival,baggage delay Arrival baggage area mein Belt 1 ke paas hai.
+customs area kahan hai?,Roman Urdu,Baggage,Arrival,customs area Arrival baggage area mein Belt 2 ke paas hai.
+baggage scanner kahan hai?,Roman Urdu,Baggage,Arrival,baggage scanner Arrival baggage area mein Belt 3 ke paas hai.
+security check kahan hai?,Roman Urdu,Baggage,Arrival,security check Arrival baggage area mein Belt 4 ke paas hai.
+bag drop kahan hai?,Roman Urdu,Baggage,Arrival,bag drop Arrival baggage area mein Belt 5 ke paas hai.
+bag collection kahan hai?,Roman Urdu,Baggage,Arrival,bag collection Arrival baggage area mein Belt 6 ke paas hai.
+left luggage kahan hai?,Roman Urdu,Baggage,Arrival,left luggage Arrival baggage area mein Belt 7 ke paas hai.
+bag recheck kahan hai?,Roman Urdu,Baggage,Arrival,bag recheck Arrival baggage area mein Belt 8 ke paas hai.
+baggage belt kahan hai?,Roman Urdu,Baggage,Arrival,baggage belt Arrival baggage area mein Belt 1 ke paas hai.
+lost luggage kahan hai?,Roman Urdu,Baggage,Arrival,lost luggage Arrival baggage area mein Belt 2 ke paas hai.
+oversized baggage kahan hai?,Roman Urdu,Baggage,Arrival,oversized baggage Arrival baggage area mein Belt 3 ke paas hai.
+baggage claim kahan hai?,Roman Urdu,Baggage,Arrival,baggage claim Arrival baggage area mein Belt 4 ke paas hai.
+trolley kahan hai?,Roman Urdu,Baggage,Arrival,trolley Arrival baggage area mein Belt 5 ke paas hai.
+baggage wrapping kahan hai?,Roman Urdu,Baggage,Arrival,baggage wrapping Arrival baggage area mein Belt 6 ke paas hai.
+damaged bag kahan hai?,Roman Urdu,Baggage,Arrival,damaged bag Arrival baggage area mein Belt 7 ke paas hai.
+missing bag kahan hai?,Roman Urdu,Baggage,Arrival,missing bag Arrival baggage area mein Belt 8 ke paas hai.
+baggage inquiry desk kahan hai?,Roman Urdu,Baggage,Arrival,baggage inquiry desk Arrival baggage area mein Belt 1 ke paas hai.
+luggage storage kahan hai?,Roman Urdu,Baggage,Arrival,luggage storage Arrival baggage area mein Belt 2 ke paas hai.
+priority baggage kahan hai?,Roman Urdu,Baggage,Arrival,priority baggage Arrival baggage area mein Belt 3 ke paas hai.
+baggage weight limit kahan hai?,Roman Urdu,Baggage,Arrival,baggage weight limit Arrival baggage area mein Belt 4 ke paas hai.
+baggage delay kahan hai?,Roman Urdu,Baggage,Arrival,baggage delay Arrival baggage area mein Belt 5 ke paas hai.
+customs area kahan hai?,Roman Urdu,Baggage,Arrival,customs area Arrival baggage area mein Belt 6 ke paas hai.
+baggage scanner kahan hai?,Roman Urdu,Baggage,Arrival,baggage scanner Arrival baggage area mein Belt 7 ke paas hai.
+security check kahan hai?,Roman Urdu,Baggage,Arrival,security check Arrival baggage area mein Belt 8 ke paas hai.
+bag drop kahan hai?,Roman Urdu,Baggage,Arrival,bag drop Arrival baggage area mein Belt 1 ke paas hai.
+bag collection kahan hai?,Roman Urdu,Baggage,Arrival,bag collection Arrival baggage area mein Belt 2 ke paas hai.
+left luggage kahan hai?,Roman Urdu,Baggage,Arrival,left luggage Arrival baggage area mein Belt 3 ke paas hai.
+bag recheck kahan hai?,Roman Urdu,Baggage,Arrival,bag recheck Arrival baggage area mein Belt 4 ke paas hai.
