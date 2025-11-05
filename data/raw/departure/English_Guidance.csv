@@ -1,0 +1,51 @@
+id,language,question,answer,intent,category
+1,English,Where can I find the check-in area?,"The check-in area is on the departure level, just after the main entrance. You’ll see counters for all airlines with digital signs showing flight numbers.",guidance,departure
+2,English,How do I reach the departure terminal from the parking area?,"From the parking area, follow the signs marked 'Departures'. There are elevators and ramps available if you’re carrying luggage or traveling with family.",guidance,departure
+3,English,Where is the baggage wrapping service?,The baggage wrapping service is available right beside the check-in counters. It helps protect your bags during the flight.,guidance,departure
+4,English,Is there a help desk inside the departure hall?,"Yes, there’s an information desk near the main entrance of the departure hall. They can assist you with flight schedules, gates, and directions.",guidance,departure
+5,English,Where can I find trolleys for luggage?,You can find luggage trolleys near every entrance and around the check-in counters. They’re free to use for all passengers.,guidance,departure
+6,English,How can I reach Gate 8 quickly?,"Once you pass through the security check, follow the yellow signs for Gates 5 to 10. Gate 8 will be on your left side near the coffee shop.",guidance,departure
+7,English,Where can I find a restroom near the gates?,Restrooms are available near every two gates. You’ll find clean facilities right after Gate 4 and Gate 9.,guidance,departure
+8,English,Is there a cafeteria in the departure area?,"Yes, there are several cafes and restaurants in the departure lounge. Gloria Jeans and Cinnabon are popular choices for a quick snack or coffee.",guidance,departure
+9,English,Where can I charge my phone?,Charging stations are available in all seating areas of the departure lounge. You’ll also find USB ports next to some seats.,guidance,departure
+10,English,Is Wi-Fi available in the departure hall?,"Yes, free Wi-Fi is available for all passengers. Just connect to 'IIAP-Free-WiFi' and follow the on-screen instructions.",guidance,departure
+11,English,Where can I find prayer rooms?,Prayer rooms are located near Gates 3 and 7. Both male and female prayer areas are clearly marked and easily accessible.,guidance,departure
+12,English,How do I know when boarding starts?,Boarding announcements are made through speakers and shown on the flight information screens. Make sure you’re near your gate 45 minutes before departure.,guidance,departure
+13,English,Is there a lounge for business class passengers?,"Yes, the CIP and business class lounges are available near Gate 5. They offer snacks, Wi-Fi, and comfortable seating.",guidance,departure
+14,English,Can I carry liquids in my handbag?,You can carry small liquid containers under 100ml each in a transparent plastic bag. Larger bottles must go in checked luggage.,guidance,departure
+15,English,Where can I find the immigration counters?,Immigration counters are right after the security check for international passengers. Keep your passport and ticket ready for inspection.,guidance,departure
+16,English,Is there a smoking area inside the terminal?,"Yes, there’s a designated smoking area near Gate 9. Please follow the signs marked 'Smoking Lounge'.",guidance,departure
+17,English,Where can I buy a SIM card or mobile top-up?,"There’s a mobile shop next to the main food court in the departure hall where you can buy SIM cards, top-ups, and accessories.",guidance,departure
+18,English,How do I get wheelchair assistance?,You can request wheelchair assistance at your airline’s check-in counter. A staff member will accompany you through security and boarding.,guidance,departure
+19,English,Where can I find the lost and found counter?,The lost and found counter is located beside the main information desk in the departure area. You can report or collect lost items there.,guidance,departure
+20,English,Can I bring my baby stroller to the gate?,"Yes, you can take your stroller up to the gate. Airline staff will tag it and return it when you land at your destination.",guidance,departure
+21,English,Is there a baby changing room available?,"Yes, baby changing rooms are located near the washrooms by Gates 2 and 8. They’re equipped with changing tables and sanitizer.",guidance,departure
+22,English,Where can I pay for excess baggage?,You can pay excess baggage fees at your airline’s service counter located beside the check-in area. Keep your receipt for verification.,guidance,departure
+23,English,Is there a medical help desk at the airport?,"Yes, there’s a medical help desk near Gate 4, equipped with first aid and emergency support staff.",guidance,departure
+24,English,Where can I find currency exchange services?,Currency exchange counters are available near Gates 5 and 11. You can convert PKR to foreign currency before departure.,guidance,departure
+25,English,Can I find duty-free shops before boarding?,"Yes, duty-free shops are available in the international departure lounge. You can buy perfumes, chocolates, and souvenirs before your flight.",guidance,departure
+26,English,Where is the security check area?,The security check area is right after the check-in counters. Please keep your boarding pass and ID ready for scanning.,guidance,departure
+27,English,How do I get updates about my flight gate change?,Gate change announcements are made on the loudspeakers and displayed on the digital boards. Keep an eye on your flight number.,guidance,departure
+28,English,Where can I find airline staff for help?,You can find airline staff near your airline’s check-in counters and around the boarding gates. They’re always available for assistance.,guidance,departure
+29,English,Is there a waiting area for families?,"Yes, there’s a family waiting area near Gate 6 with seating, restrooms, and snack options nearby.",guidance,departure
+30,English,How do I reach the upper departure lounge?,You can take the escalator or elevator from the main hall to reach the upper departure lounge. It’s well-signposted inside the terminal.,guidance,departure
+31,English,Can I find a place to print my ticket?,"Yes, there’s a printing and photocopy service beside the information desk on the departure level.",guidance,departure
+32,English,Where can I get information about connecting flights?,You can get details about connecting flights at the transfer information desk near Gate 10 or by asking your airline staff.,guidance,departure
+33,English,Where are the airline offices inside the terminal?,Most airline offices are located behind the check-in counters. You can visit them for ticketing or customer service.,guidance,departure
+34,English,Can I carry my pet with me on the flight?,Most airlines allow pets in the cabin or cargo area. Check with your airline at least 24 hours before your flight for pet policy details.,guidance,departure
+35,English,Where can I find drinking water?,There are water dispensers located beside every washroom and near the boarding gates. You can refill your bottles there.,guidance,departure
+36,English,Is there an ATM inside the departure terminal?,"Yes, there are ATMs from several banks located near Gates 2 and 7 in the departure hall.",guidance,departure
+37,English,Where can I find announcements for boarding?,All boarding and delay announcements are made through the terminal speakers and displayed on the large flight screens near the gates.,guidance,departure
+38,English,How do I get from domestic to international gates?,"After security, follow the blue signs that say ‘International Departures’. Domestic gates are to the left and international to the right.",guidance,departure
+39,English,Is there any shop to buy travel accessories?,"Yes, you’ll find a travel essentials shop near Gate 3 selling neck pillows, eye masks, and chargers.",guidance,departure
+40,English,Can I find a pharmacy inside the terminal?,"Yes, there’s a pharmacy near Gate 5 where you can buy medicines, pain relievers, or travel-size health products.",guidance,departure
+41,English,Is there a place to sit near Gate 11?,"Yes, there’s a large seating area near Gate 11 with charging points and snack counters close by.",guidance,departure
+42,English,Can I get food after security check?,"Yes, several cafes and snack bars are available after security. You can grab a meal while waiting for your flight.",guidance,departure
+43,English,Where can I find elevators or lifts?,Elevators are available near every gate section and beside the main escalators for easy access with luggage.,guidance,departure
+44,English,Is there a taxi or ride service counter inside?,"Yes, ride service counters like Careem and InDriver are available near the exit of the departure hall for drop-off bookings.",guidance,departure
+45,English,Where can I find airport maps?,"Printed maps are available at the information desk, and digital maps are displayed on the large touchscreens near Gate 2.",guidance,departure
+46,English,How do I find my way to the boarding gate?,Follow the overhead signs that show gate numbers and directions. The path is clearly marked and easy to navigate.,guidance,departure
+47,English,Is there a separate line for families at security?,"Yes, there’s a family-friendly lane at the security check to make the process easier for parents with kids.",guidance,departure
+48,English,Can I get assistance for elderly travelers?,"Absolutely. You can request assistance at your airline counter, and a staff member will guide the passenger through all airport steps.",guidance,departure
+49,English,Where can I relax before my flight?,You can relax in the departure lounge seating area or enjoy coffee at any of the nearby cafes until boarding starts.,guidance,departure
+50,English,Are there lockers to keep extra luggage?,"Yes, there are luggage lockers available near the main departure entrance. You can store small bags securely for a few hours.",guidance,departure
