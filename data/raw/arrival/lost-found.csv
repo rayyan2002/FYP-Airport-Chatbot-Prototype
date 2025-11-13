@@ -149,7 +149,7 @@
 148,Lost_found_info,English,What happens to unclaimed cash found at the airport?,It’s deposited with airport authorities after verification and record entry.,Arrival
 149,Lost_found_info,English,I forgot my travel pillow on the luggage trolley.,Visit Lost & Found; such comfort items are commonly turned in.,Arrival
 150,Lost_found_info,English,I lost my ring near the arrival escalator.,Inform Lost & Found; cleaning teams often recover jewelry during shift checks.,Arrival
-151,Lost-Found Info,Urdu,,براہ کرم ارائیول ہال میں بیلٹ نمبر 3 کے قریب موجود لاسٹ اینڈ فاؤنڈ کاؤنٹر پر جائیں، عملہ رپورٹ درج کرے گا اور آپ کا بیگ ٹریس کرے گا۔,Arrival
+151,Lost-Found Info,Urduراہ کرم ارائیول ہال میں بیلٹ نمبر 3 کے قریب موجود لاسٹ اینڈ فاؤنڈ کاؤنٹر پر جائیں، عملہ رپورٹ درج کرے گا اور آپ کا بیگ ٹریس کرے گا,میرا بیگ ارائیول ہال میں رہ گیا ہے، بیلٹ 3 کے پاس تھا، اب کیا کروں?,۔,Arrival
 152,Lost-Found Info,Urdu,میرا بیگ نہیں آیا، کیا کروں؟,یہ کسٹمز ایریا کے قریب بیلٹ 2 کے پاس واقع ہے، ارائیول ہال میں نیلا “Lost & Found” بورڈ لگا ہوا ہے۔,Arrival
 153,Lost-Found Info,Urdu,لاسٹ اینڈ فاؤنڈ آفس کہاں ہے؟,فوراً اپنی ایئرلائن کے کاؤنٹر یا لاسٹ اینڈ فاؤنڈ آفس سے رابطہ کریں، عملہ جہاز کے عملے سے چیز واپس دلائے گا۔,Arrival
 154,Lost-Found Info,Urdu,میرا پاسپورٹ جہاز میں رہ گیا، کیا کروں؟,جی ہاں، یہ دفتر 24 گھنٹے کھلا رہتا ہے اور تمام گمشدہ سامان کی شکایات وصول کرتا ہے۔,Arrival
@@ -449,3 +449,4 @@
 448,Lost_found_info,Roman Urdu,"Mera saman lounge mein reh gaya tha, kya staff check karega?","Haan, lounge staff aur Lost & Found dono area check karte hain aur record maintain karte hain.",Arrival
 449,Lost_found_info,Roman Urdu,Kya Lost & Found mein cash items bhi accept hote hain?,"Haan, agar cash milta hai to secure envelope mein seal karke record banaya jata hai.",Arrival
 450,Lost_found_info,Roman Urdu,"Mera boarding gate pe saman reh gaya tha, kya recover ho sakta hai?","Haan, boarding gate staff aur Lost & Found team coordinate karte hain, turant report karein.",Arrival
+
