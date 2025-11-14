@@ -1,0 +1,68 @@
+Query,Language,Intent,Terminal,Response
+baggage belt kahan hai?,Roman Urdu,Baggage,Arrival,"Zaroor, baggage belt Belt 2 par arrivals area mein hai. Seedha arrival hall se jaain aur Belt 2 ke signs follow karein."
+gum shudah samaan kahan hai?,Roman Urdu,Baggage,Arrival,"Umeed hai aap theek hain. gum shudah samaan ke liye Lost & Found counter par ja kar apna boarding pass aur tag den, wo aapki madad karenge."
+kharaab samaan kahan hai?,Roman Urdu,Baggage,Arrival,Afsos hai. kharaab samaan ke maslay ke liye airline baggage counter ya damaged desk par ja kar report karein aur tasveerain rakhein.
+zada hajm wala baggage kahan hai?,Roman Urdu,Baggage,Arrival,Oversized saman ke liye special collection point hai jo arrival hall ke door end par hota hai; staff aapko guide karega.
+baggage wrapping kahan hai?,Roman Urdu,Baggage,Arrival,"baggage wrapping ke liye service desk par jain; wahan wrapping aur protective covers milte hain, rates aur madad wahan available hain."
+gum bag kahan hai?,Roman Urdu,Baggage,Arrival,"Umeed hai aap theek hain. gum bag ke liye Lost & Found counter par ja kar apna boarding pass aur tag den, wo aapki madad karenge."
+samaan rakhne ki jagah kahan hai?,Roman Urdu,Baggage,Arrival,Luggage store ke liye left-luggage office use karein jo arrivals exit ke paas hai. Short-term lockers available hain.
+priority baggage kahan hai?,Roman Urdu,Baggage,Arrival,Priority baggage ko special pick-up counter par diya jata hai. Apni airline ki priority desk se confirm karein.
+baggage delay kahan hai?,Roman Urdu,Baggage,Arrival,"Agar baggage delay delay ho gaya hai to airline baggage office ya delayed luggage desk par report karein, wo aapka case register karenge."
+baggage inquiry desk kahan hai?,Roman Urdu,Baggage,Arrival,"baggage inquiry desk central arrivals area ke paas milta hai. Flight details dein, staff system check kar ke guide karega."
+baggage scanner kahan hai?,Roman Urdu,Baggage,Arrival,baggage scanner security/inspection zone mein hota hai; agar secondary screening chahiye to staff aapko wahan le jayega.
+customs area kahan hai?,Roman Urdu,Baggage,Arrival,Customs ke mamlaat ke liye customs area dekhein jo arrival hall ke paas hai; agar saman hold hua to customs batayenge.
+bag recheck kahan hai?,Roman Urdu,Baggage,Arrival,Recheck counter par ja kar staff se bag ko dobara tag karwayein aur check karwayein.
+chhorda hua samaan kahan hai?,Roman Urdu,Baggage,Arrival,Luggage store ke liye left-luggage office use karein jo arrivals exit ke paas hai. Short-term lockers available hain.
+baggage claim desk kahan hai?,Roman Urdu,Baggage,Arrival,baggage claim desk baggage claim hall mein hai; 'Baggage Claim' signs follow karein aur apna belt number screen se check karein.
+trolley point kahan hai?,Roman Urdu,Baggage,Arrival,Trolleys arrival doors ke qareeb aur parking area me milte hain. Aap wahan se le kar wapas kar sakte hain.
+baggage delivery service kahan hai?,Roman Urdu,Baggage,Arrival,Baggage delivery desk arrival exit ke qareeb hai; woh aapke address par delivery arrange kar sakte hain.
+tracking counter kahan hai?,Roman Urdu,Baggage,Arrival,Tracking counter par apna baggage tag number dein; wo aapko updated status bata denge.
+baggage complaint desk kahan hai?,Roman Urdu,Baggage,Arrival,Complaint ke liye baggage complaint desk par report karein; wo aapko reference number dein ge.
+fragile baggage desk kahan hai?,Roman Urdu,Baggage,Arrival,Fragile items ke liye dedicated desk hota hai; wahan ja kar apni problem aur tag dikhayein.
+arrival inspection desk kahan hai?,Roman Urdu,Baggage,Arrival,Inspection arrival inspection desk par hoti hai jo customs k paas hai; staff aapko process samjha denge.
+arrival luggage pickup kahan hai?,Roman Urdu,Baggage,Arrival,Pickup zone airline per depend karta hai; airline counter par check karein ya arrival screens dekhein.
+baggage monitoring kahan hai?,Roman Urdu,Baggage,Arrival,Baggage monitoring desk belts ko monitor karta hai; wo camera records check karke madad karte hain.
+bag pickup zone kahan hai?,Roman Urdu,Baggage,Arrival,Pickup zone airline per depend karta hai; airline counter par check karein ya arrival screens dekhein.
+duty free baggage check kahan hai?,Roman Urdu,Baggage,Arrival,duty free baggage check arrival area mein maujood hai; signs follow karein ya staff se madad lein.
+bag report counter kahan hai?,Roman Urdu,Baggage,Arrival,Report center par jakar apna case register karein; woh aage ki guidance aur compensation options batayenge.
+arrival baggage service kahan hai?,Roman Urdu,Baggage,Arrival,"arrival baggage service ke liye service desk par jain; wahan wrapping aur protective covers milte hain, rates aur madad wahan available hain."
+airline baggage counter kahan hai?,Roman Urdu,Baggage,Arrival,airline baggage counter arrival area mein maujood hai; signs follow karein ya staff se madad lein.
+baggage office kahan hai?,Roman Urdu,Baggage,Arrival,Baggage office arrival hall ke andar hota hai; wahan apni documents le kar jayein.
+luggage cart return kahan hai?,Roman Urdu,Baggage,Arrival,Trolleys arrival doors ke qareeb aur parking area me milte hain. Aap wahan se le kar wapas kar sakte hain.
+baggage help point kahan hai?,Roman Urdu,Baggage,Arrival,baggage help point arrival area mein maujood hai; signs follow karein ya staff se madad lein.
+arrival belt 1 kahan hai?,Roman Urdu,Baggage,Arrival,"Zaroor, arrival belt 1 Belt 4 par arrivals area mein hai. Seedha arrival hall se jaain aur Belt 4 ke signs follow karein."
+arrival belt 2 kahan hai?,Roman Urdu,Baggage,Arrival,"Zaroor, arrival belt 2 Belt 1 par arrivals area mein hai. Seedha arrival hall se jaain aur Belt 1 ke signs follow karein."
+arrival belt 3 kahan hai?,Roman Urdu,Baggage,Arrival,"Zaroor, arrival belt 3 Belt 5 par arrivals area mein hai. Seedha arrival hall se jaain aur Belt 5 ke signs follow karein."
+arrival belt 4 kahan hai?,Roman Urdu,Baggage,Arrival,"Zaroor, arrival belt 4 Belt 10 par arrivals area mein hai. Seedha arrival hall se jaain aur Belt 10 ke signs follow karein."
+arrival belt 5 kahan hai?,Roman Urdu,Baggage,Arrival,"Zaroor, arrival belt 5 Belt 8 par arrivals area mein hai. Seedha arrival hall se jaain aur Belt 8 ke signs follow karein."
+arrival belt 6 kahan hai?,Roman Urdu,Baggage,Arrival,"Zaroor, arrival belt 6 Belt 10 par arrivals area mein hai. Seedha arrival hall se jaain aur Belt 10 ke signs follow karein."
+arrival belt 7 kahan hai?,Roman Urdu,Baggage,Arrival,"Zaroor, arrival belt 7 Belt 10 par arrivals area mein hai. Seedha arrival hall se jaain aur Belt 10 ke signs follow karein."
+arrival belt 8 kahan hai?,Roman Urdu,Baggage,Arrival,"Zaroor, arrival belt 8 Belt 9 par arrivals area mein hai. Seedha arrival hall se jaain aur Belt 9 ke signs follow karein."
+arrival belt 9 kahan hai?,Roman Urdu,Baggage,Arrival,"Zaroor, arrival belt 9 Belt 1 par arrivals area mein hai. Seedha arrival hall se jaain aur Belt 1 ke signs follow karein."
+arrival belt 10 kahan hai?,Roman Urdu,Baggage,Arrival,"Zaroor, arrival belt 10 Belt 8 par arrivals area mein hai. Seedha arrival hall se jaain aur Belt 8 ke signs follow karein."
+lost and found baggage kahan hai?,Roman Urdu,Baggage,Arrival,lost and found baggage arrival area mein maujood hai; signs follow karein ya staff se madad lein.
+baggage reissue counter kahan hai?,Roman Urdu,Baggage,Arrival,baggage reissue counter arrival area mein maujood hai; signs follow karein ya staff se madad lein.
+baggage weight limit kahan hai?,Roman Urdu,Baggage,Arrival,baggage weight limit arrival area mein maujood hai; signs follow karein ya staff se madad lein.
+baggage scanning area kahan hai?,Roman Urdu,Baggage,Arrival,baggage scanning area security/inspection zone mein hota hai; agar secondary screening chahiye to staff aapko wahan le jayega.
+arrival customs kahan hai?,Roman Urdu,Baggage,Arrival,Customs ke mamlaat ke liye customs area dekhein jo arrival hall ke paas hai; agar saman hold hua to customs batayenge.
+bag collection point kahan hai?,Roman Urdu,Baggage,Arrival,bag collection point arrival area mein maujood hai; signs follow karein ya staff se madad lein.
+left luggage room kahan hai?,Roman Urdu,Baggage,Arrival,Luggage store ke liye left-luggage office use karein jo arrivals exit ke paas hai. Short-term lockers available hain.
+baggage pickup assistance kahan hai?,Roman Urdu,Baggage,Arrival,baggage pickup assistance arrival area mein maujood hai; signs follow karein ya staff se madad lein.
+baggage tracking office kahan hai?,Roman Urdu,Baggage,Arrival,Tracking counter par apna baggage tag number dein; wo aapko updated status bata denge.
+baggage reconciliation desk kahan hai?,Roman Urdu,Baggage,Arrival,Reconciliation desk tag aur records match karta hai; agar koi mail na khaaye toh woh madad karein ge
+arrival baggage hall kahan hai?,Roman Urdu,Baggage,Arrival,Baggage hall me multiple belts hote hain; apna belt number screen se check kar ke wahan jayein.
+arrival baggage counter kahan hai?,Roman Urdu,Baggage,Arrival,arrival baggage counter arrival area mein maujood hai; signs follow karein ya staff se madad lein.
+baggage recheck area kahan hai?,Roman Urdu,Baggage,Arrival,Recheck counter par ja kar staff se bag ko dobara tag karwayein aur check karwayein.
+baggage transfer desk kahan hai?,Roman Urdu,Baggage,Arrival,baggage transfer desk arrival area mein maujood hai; signs follow karein ya staff se madad lein.
+baggage reconciliation office kahan hai?,Roman Urdu,Baggage,Arrival,Reconciliation desk tag aur records match karta hai; agar koi mail na khaaye toh woh madad karein ge.
+fragile items area kahan hai?,Roman Urdu,Baggage,Arrival,Fragile items ke liye dedicated desk hota hai; wahan ja kar apni problem aur tag dikhayein.
+baggage complaint point kahan hai?,Roman Urdu,Baggage,Arrival,Complaint ke liye baggage complaint desk par report karein; wo aapko reference number dein ge.
+baggage customer service kahan hai?,Roman Urdu,Baggage,Arrival,"baggage customer service ke liye service desk par jain; wahan wrapping aur protective covers milte hain, rates aur madad wahan available hain."
+arrival baggage pickup counter kahan hai?,Roman Urdu,Baggage,Arrival,Pickup zone airline per depend karta hai; airline counter par check karein ya arrival screens dekhein.
+baggage coordination office kahan hai?,Roman Urdu,Baggage,Arrival,Coordination office airlines aur handlers ke darmiyan kaam karta hai; woh aap ke maslay ko escalate kar sakte hain.
+arrival baggage tracking center kahan hai?,Roman Urdu,Baggage,Arrival,Tracking counter par apna baggage tag number dein; wo aapko updated status bata denge.
+baggage delivery office kahan hai?,Roman Urdu,Baggage,Arrival,Baggage delivery desk arrival exit ke qareeb hai; woh aapke address par delivery arrange kar sakte hain.
+arrival lost item desk kahan hai?,Roman Urdu,Baggage,Arrival,"Umeed hai aap theek hain. arrival lost item desk ke liye Lost & Found counter par ja kar apna boarding pass aur tag den, wo aapki madad karenge."
+baggage claim area entrance kahan hai?,Roman Urdu,Baggage,Arrival,baggage claim area entrance baggage claim hall mein hai; 'Baggage Claim' signs follow karein aur apna belt number screen se check karein.
+arrival bag verification kahan hai?,Roman Urdu,Baggage,Arrival,Verification point par staff aapki ID aur tag check kar ke bag release karte hain.
+arrival bag report center kahan hai?,Roman Urdu,Baggage,Arrival,Report center par jakar apna case register karein; woh aage ki guidance aur compensation options batayenge.
