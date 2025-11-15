@@ -1,0 +1,160 @@
+﻿,,,,,
+SNO,Intent,Language,User Query,Chatbot Response,Context
+1,Check_in_info,English,Where is the PIA check-in counter?,The Pakistan International Airlines (PIA) check-in counters are located in Row C near Gate 4 of the departure hall.,departure
+2,Check_in_info,English,What time does check-in open for international flights?,International check-in normally opens three hours before departure and closes one hour prior.,departure
+3,Check_in_info,English,Can I check in online for Airblue?,"Yes, Airblue allows online check-in via their website or mobile app.",departure
+4,Check_in_info,English,Where can I print my boarding pass?,You can print your boarding pass at self-service kiosks near the main entrance or request a printed copy from your airline’s desk.,departure
+5,Check_in_info,English,Which row handles Serene Air check-in?,"Serene Air counters are in Row B, Counters 8-12 on the right side of the hall. ",departure
+6,Check_in_info,English,What documents do I need for domestic check-in?,"For domestic flights, please carry your original CNIC and flight booking.",departure
+7,Check_in_info,English,How early should I reach the airport for a domestic flight?,"Arrive at least two hours before departure to allow time for check-in, baggage tagging, and security scanning.",departure
+8,Check_in_info,English,Is there a family or priority lane at check-in?,"Yes, families with children and elderly passengers may use the priority counter located beside Counter 5. ",departure
+9,Check_in_info,English,Where do I pay for excess baggage?,Extra luggage payments can be made at your airline’s excess-baggage desk near Row D. Keep the receipt to show at baggage-drop.,departure
+10,Check_in_info,English,Can I use my mobile boarding pass at security?,Absolutely! Mobile boarding passes are accepted at Islamabad Airport. Make sure the QR code is visible on your screen for scanning.,departure
+11,Check_in_info,English,What is the hand-carry weight limit?,"Most airlines allow 7 kg of hand-carry per passenger, excluding laptops and small personal items. Oversized bags may be checked.",departure
+12,Check_in_info,English,Is there a self-check-in kiosk available?,"Yes, self-check-in kiosks are located near Departure Hall B. You can print your boarding pass and baggage tags in under two minutes.",departure
+13,Check_in_info,English,Where can I find baggage-wrapping service?,A 24-hour baggage-wrapping booth is available beside Gate 3. It provides protective film and labeling for your luggage.,departure
+14,Check_in_info,English,How long does the check-in process usually take?,"On average, check-in takes 15 to 25 minutes depending on passenger traffic. Business-class counters are generally faster.",departure
+15,Check_in_info,English,Which side is the Qatar Airways counter?,"Qatar Airways check-in is at Row A, Counters 1-6, facing the international section. Staff there assist with Doha and connecting flights.",departure
+16,Check_in_info,English,Can I check in sports equipment?,"Yes, sports gear can be checked at the Oversized Baggage counter near Row D. Please ensure it’s packed securely to avoid damage.",departure
+17,Check_in_info,English,What should I do if I forgot to print my ticket?,No worries! Show your e-ticket or CNIC at the airline desk and they will print a boarding pass for you.,departure
+18,Check_in_info,English,Can I check in multiple bags?,"Yes, as long as your total checked weight stays within your airline’s limit. Extra kilograms may require a small fee.",departure
+19,Check_in_info,English,Where can I weigh my luggage?,Weighing machines are installed near each airline’s counter and at the baggage-wrapping station.,departure
+20,Check_in_info,English,Is vaccination proof still required for check-in?,Some international destinations still ask for vaccination certificates. Keep a digital or printed copy handy to avoid delays.,departure
+21,Check_in_info,English,Can I upgrade to business class during check-in?,Upgrades depend on seat availability. You can request it at the counter or check online for promotional offers.,departure
+22,Check_in_info,English,What happens if I reach after check-in closes?,"If the gate has closed, the airline cannot process your luggage. You may be rebooked on the next available flight subject to policy.",departure
+23,Check_in_info,English,Is there a separate area for international passengers?,"Yes, international check-in rows (A and B) are located near immigration entry, clearly marked with blue signs.",departure
+24,Check_in_info,English,Where can I find trolley service?,Trolleys are available near entrances and around all check-in rows. A refundable coin token is required at some stations.,departure
+25,Check_in_info,English,Can I get fragile labels for my baggage?,"Yes, inform the counter staff and they will attach a “Fragile” tag to ensure careful handling.",departure
+26,Check_in_info,English,Where can I collect flight information?,"Digital screens throughout the departure area display current flight status, gate numbers, and counter assignments.",departure
+27,Check_in_info,English,Are check-in counters open 24 hours?,"Only for airlines with night operations, such as Qatar Airways or Emirates. Domestic counters open 3 hours before flights.",departure
+28,Check_in_info,English,Can I drop my luggage after online check-in?,"Yes, proceed to the Baggage Drop counter labeled for online passengers. Keep your digital boarding pass ready.",departure
+29,Check_in_info,English,Where is the Fast-Track service?,Fast-Track counters for premium passengers are beside the main check-in lanes near Row B. Access is through special passes.,departure
+30,Check_in_info,English,What items are restricted in hand luggage?,"Sharp objects, liquids over 100 ml, and flammable items are not permitted. Place them in checked baggage to avoid confiscation.",departure
+31,Check_in_info,English,How can I locate my airline counter quickly?,Look for row-wise digital boards showing airline names and counter numbers. Volunteers also assist passengers near entry points.,departure
+32,Check_in_info,English,Can I use one counter for group check-in?,"Yes, group passengers may check in together if traveling under the same booking reference. Keep all documents ready.",departure
+33,Check_in_info,English,Where can I change currency before check-in?,Currency-exchange desks are located near the main exit of the check-in hall. They operate 24 hours a day.,departure
+34,Check_in_info,English,How do I know which gate to go to after check-in?,Your boarding pass lists the gate number. Confirm on airport screens as gates may change due to traffic.,departure
+35,Check_in_info,English,Can I carry medicines in hand luggage?,"Yes, but liquids must be under 100 ml and prescribed medicines should have a doctor’s note if possible.",departure
+36,Check_in_info,English,What should I do if my name is misspelled on the ticket?,Contact the airline counter immediately. Minor corrections can often be handled before check-in closure.,departure
+37,Check_in_info,English,Is baggage wrapping mandatory?,It’s optional but recommended for fragile or high-value items to prevent tampering.,departure
+38,Check_in_info,English,Where can I charge my phone before check-in?,Charging stations are available beside Row C and near Gate 2. Bring your own cable for convenience.,departure
+39,Check_in_info,English,Can I check in without luggage?,"Yes, simply collect your boarding pass and proceed directly to security. Online check-in can save additional time.",departure
+40,Check_in_info,English,Is there assistance for passengers with disabilities?,"Yes, wheelchairs and dedicated staff are available on request at Counter 1. Inform your airline in advance if possible.",departure
+41,Check_in_info,English,How can I confirm if my flight is delayed before check-in?,Check the Flight Information Displays or ask the airline counter staff. Updates are announced over the PA system as well.,departure
+42,Check_in_info,English,Can I check in my stroller for my baby?,"Yes, you may use it until security check; it will be tagged and returned at the gate after landing.",departure
+43,Check_in_info,English,Where can I store my cabin bag temporarily?,"Temporary storage facilities are available beside Gate 3 for short durations, ideal for hand-carry items.",departure
+44,Check_in_info,English,Are there lockers at the departure terminal?,Currently no public lockers; short-term baggage storage is managed through authorized counters only.,departure
+45,Check_in_info,English,How do I reprint a lost boarding pass?,Visit your airline’s counter with CNIC or booking ID; they will reissue it instantly without extra charge.,departure
+46,Check_in_info,English,Can someone accompany me to the check-in area?,Only ticketed passengers are allowed beyond the entrance. Visitors may wait in the public concourse outside.,departure
+47,Check_in_info,English,Is there Wi-Fi at the check-in area?,"Yes, free airport Wi-Fi is available. Connect to “IIA-FreeNet” and accept terms on the browser page.",departure
+48,Check_in_info,English,What if my baggage tag tears off?,Immediately report it to the airline agent before check-in closes; they can reissue a new baggage tag.,departure
+49,Check_in_info,English,Can I pay excess baggage by card?,"Yes, all major credit and debit cards are accepted at excess-baggage counters. Keep a receipt for airline confirmation.",departure
+50,Check_in_info,English,Where can I find airline help desks?,Airline help desks are placed along each row and at the center of the departure hall. They handle ticket issues and rebookings.,departure
+51,Check_in_info,English,How can I confirm my seat preference?,Seat preferences can be requested during check-in. Window and aisle seats are subject to availability.,departure
+52,Check_in_info,English,How can I check if my baggage is overweight?,"Weighing machines are installed beside every airline row and near baggage wrapping stations. If your luggage exceeds the limit, you can adjust items or pay extra at the counter.",departure
+53,Check_in_info,English,What time does the PIA counter open in the morning?,The PIA check-in desk opens three hours before each scheduled flight. ,departure
+54,Check_in_info,English,Can I carry liquids in my hand luggage?,"You can carry small liquid containers up to 100 ml each, packed inside a transparent plastic bag. Larger bottles should be in checked baggage.",departure
+55,Check_in_info,English,Is there a dedicated counter for business class passengers?,"Yes, every major airline offers a separate business-class check-in lane. Staff provide faster processing and lounge access details there.",departure
+56,Check_in_info,English,What if my ticket shows wrong flight time?,Please visit your airline’s check-in desk immediately. They’ll verify it against the latest schedule and issue an updated boarding pass.,departure
+57,Check_in_info,English,Can I rebook my ticket at the check-in desk?,"Rebooking is handled at the airline’s main service counter, not at check-in. The desk staff can direct you to the correct window.",departure
+58,Check_in_info,English,Where can I get luggage trolleys?,Luggage trolleys are parked outside the entrance and near every row inside the hall. You can pull one without any fee.,departure
+59,Check_in_info,English,How many bags are allowed per person?,Most airlines allow one checked bag and one hand-carry item per passenger. Policies differ slightly for domestic and international flights.,departure
+60,Check_in_info,English,Can I carry fruits or liquids in my checked bag?,"Yes, but pack them securely in leak-proof containers to avoid spoilage or damage during loading.",departure
+61,Check_in_info,English,Is there a counter for unaccompanied minors?,"Yes, Counter 2 handles check-in for unaccompanied minors. Staff assist throughout the boarding process until the child is handed over to crew.",departure
+62,Check_in_info,English,Can I pay for extra baggage online?,Most airlines allow pre-purchase of excess baggage through their websites or mobile apps. It’s often cheaper than paying at the counter.,departure
+63,Check_in_info,English,Can I get a duplicate baggage tag?,"Yes, you can request a duplicate baggage tag at your airline counter before proceeding to security. Keep both copies safe.",departure
+64,Check_in_info,English,What should I do if I can’t find my airline counter?,Please check the digital screens at the terminal entrance. They list all airlines with current counter locations and flight timings.,departure
+65,Check_in_info,English,Can I check in for connecting flights together?,"For most international connections, your luggage can be tagged till the final destination. Confirm at the counter during check-in.",departure
+66,Check_in_info,English,Where do I drop baggage after online check-in?,Go directly to the Baggage Drop counter marked for online passengers. Staff will scan your boarding pass and tag your bags.,departure
+67,Check_in_info,English,How do I check my seat number before boarding?,Your boarding pass clearly mentions the seat number. You can also verify it on your airline’s app before arriving at the airport.,departure
+68,Check_in_info,English,Can I check in 5 hours early?,Usually not. Check-in opens three hours before international and two hours before domestic flights. Arriving too early may not help.,departure
+69,Check_in_info,English,What is the latest time to check in?,"Domestic check-in closes 45 minutes before flight time, while international closes one hour prior. Late passengers are not accepted.",departure
+70,Check_in_info,English,Is there any area to sit near the check-in hall?,"Yes, public seating areas and cafés are available near the main entrance and beside Row C.",departure
+71,Check_in_info,English,Where can I get flight status updates?,"Flight status boards are installed at multiple points, and airline counters display live updates. You may also check the airport’s website.",departure
+72,Check_in_info,English,Can I pay for baggage with cash?,"Yes, both cash and digital payments are accepted at all airline desks. Keep your receipt safely for reference.",departure
+73,Check_in_info,English,What if my luggage is damaged at check-in?,Immediately report it to the baggage supervisor at your airline counter. A damage report will be issued before boarding.,departure
+74,Check_in_info,English,Can I carry my drone in luggage?,Drones are usually restricted in hand-carry. Please pack them in checked baggage and inform your airline at check-in.,departure
+75,Check_in_info,English,Are there sanitization measures at counters?,"Yes, all counters are regularly sanitized and hand sanitizers are available at every row.",departure
+76,Check_in_info,English,Where can I get flight delay certificates?,Airlines issue official delay letters at their help desks. These can be used for refunds or official claims.,departure
+77,Check_in_info,English,Is there any lost item counter near check-in?,"Yes, the Lost Property Desk is beside Gate 2 before security check. Report any misplaced documents there.",departure
+78,Check_in_info,English,Can I request special meals during check-in?,"Yes, you can request vegetarian, diabetic, or baby meals if your airline supports it. Do this before check-in closes.",departure
+79,Check_in_info,English,Is there a baby-changing room near check-in?,"Yes, baby care rooms are available near Departure Hall B and beside Gate 4.",departure
+80,Check_in_info,English,Can I carry extra handbag with laptop?,"Yes, small personal bags like laptop cases are allowed in addition to standard hand-carry, depending on airline rules.",departure
+81,Check_in_info,English,How can I find my luggage belt number?,"It’s printed on your baggage tag, and staff at the counter can confirm it before you drop off your luggage.",departure
+82,Check_in_info,English,Can I bring food in hand luggage?,"Yes, dry snacks and packed food are fine. Avoid liquids or sauces above 100 ml.",departure
+83,Check_in_info,English,What should I do if I forget my CNIC?,Show your passport or digital CNIC through NADRA app. Airlines accept valid identification for check-in.,departure
+84,Check_in_info,English,Where can I confirm my visa documents?,Airlines verify visas for international flights at the counter before issuing boarding passes.,departure
+85,Check_in_info,English,Can I take my power bank in checked baggage?,Power banks must go in hand-carry bags only. They are not allowed in checked-in luggage.,departure
+86,Check_in_info,English,What are Islamabad Airport’s peak hours?,Peak hours are between 3:00 a.m. – 8:00 a.m. and 6:00 p.m. – 10:00 p.m.. Early check-in is recommended during these slots.,departure
+87,Check_in_info,English,Is there any cloakroom near check-in?,"Yes, short-term baggage storage is available for passengers beside Gate 3. Charges apply per hour.",departure
+88,Check_in_info,English,What should I do if my airline counter is closed?,"Wait for the counter to open, usually three hours before the flight. Staff may assist if you show your ticket.",departure
+89,Check_in_info,English,Can I check in through a travel agent?,"No, check-in must be done at the airport or online by passengers themselves. Agents cannot complete the process.",departure
+90,Check_in_info,English,Can I check in with only soft copy of my ticket?,"Yes, digital tickets on mobile devices are accepted at Islamabad Airport counters.",departure
+91,Check_in_info,English,What time should I reach before boarding?,Arrive at least 2 hours early for domestic and 3 hours for international flights. This ensures smooth security clearance.,departure
+92,Check_in_info,English,Is there assistance for elderly passengers?,"Yes, wheelchairs and escorts are available free of charge. Contact your airline 24 hours before your flight.",departure
+93,Check_in_info,English,How can I correct my name spelling at check-in?,Name corrections can be done only by airline staff after ID verification. Some airlines charge a small service fee.,departure
+94,Check_in_info,English,Where is the domestic departure zone?,"Domestic check-in is handled in Hall C, towards the right wing of the terminal. Signs will guide you.",departure
+95,Check_in_info,English,What happens to oversized baggage?,Oversized or special baggage like strollers and instruments are handled at the Oversize Baggage counter beside Row D.,departure
+96,Check_in_info,English,Can I use check-in kiosks for group booking?,"Yes, but you’ll need to check in each passenger individually. Group check-in is faster at the counter.",departure
+97,Check_in_info,English,Is there a currency exchange near check-in area?,"Yes, currency exchange desks are available near Gates 2 and 5, open 24/7 for international travelers.",departure
+98,Check_in_info,English,Can I keep my boarding pass on my phone?,"Yes, mobile passes are accepted at all scanning points. Ensure the QR code is visible and not damaged.",departure
+99,Check_in_info,English,Are pets allowed at check-in?,"Yes, most airlines allow pets if properly caged and with vet certificates. Confirm with your carrier before arrival.",departure
+100,Check_in_info,English,Can I carry gifts in hand luggage?,"Yes, but avoid wrapped packages as they may be opened during security scanning.",departure
+101,Check_in_info,English,Is there any assistance for first-time flyers?,"Yes, information officers at the entrance guide first-time passengers through check-in and security procedures.",departure
+102,Check_in_info,English,How can I rebook a missed flight at the airport?,"If you miss your flight, visit your airline’s ticketing or customer service counter inside the departure area. Depending on seat availability, they may rebook you for the next flight with a nominal fee.",
+103,Check_in_info,English,Are there any restaurants before check-in?,"Yes, several cafés and food stalls are located in the public concourse area before security. They serve snacks, tea, and coffee around the clock.",departure
+104,Check_in_info,English,Can I check in without printed COVID certificate?,Most airlines now accept digital vaccination proof shown on your phone. Ensure it’s readable and valid for your travel destination.,departure
+105,Check_in_info,English,What should I do if my flight is delayed after check-in?,Stay within the departure lounge area after clearing security. Flight delay announcements are made both over the speakers and on display screens.,departure
+106,Check_in_info,English,Can I check in for connecting flights from different airlines?,"If your tickets are on different airlines, you’ll need to check in separately at each airline’s counter. Multi-airline connections are not automatically linked.",departure
+107,Check_in_info,English,What should I do if my baggage is overweight but I can’t remove items?,You may purchase extra baggage allowance directly at the counter. Rates differ per airline and are calculated per kilogram.,departure
+108,Check_in_info,English,Can I check in for a friend or family member?,"No, each passenger must be physically present during check-in for ID and baggage verification. However, you can assist them up to the entrance.",departure
+109,Check_in_info,English,How do I know which terminal my flight uses?,"Islamabad Airport has a unified terminal, but international and domestic zones are separated. Check your airline confirmation or ask at information desk.",departure
+110,Check_in_info,English,Is there a pharmacy near the check-in area?,"Yes, a 24-hour pharmacy is located beside Gate 3 offering basic medicines, baby products, and travel essentials.",departure
+111,Check_in_info,English,Can I check in if my passport is expiring soon?,Airlines typically require at least six months validity for international travel. Please renew before attempting check-in.,departure
+112,Check_in_info,English,Is there a dress code for check-in?,"There is no strict dress code, but passengers are advised to dress modestly and avoid clothing with metallic accessories to ease security screening.",departure
+113,Check_in_info,English,Can I carry Zamzam water in my luggage?,"Yes, for pilgrims returning from Umrah or Hajj, airlines have dedicated packaging rules for Zamzam water. Ensure it’s sealed and labeled properly.",departure
+114,Check_in_info,English,Can I use Pakistani rupees to pay for extra luggage?,"Yes, all airlines operating in Pakistan accept PKR payments. Foreign currency is optional for international travelers.",departure
+115,Check_in_info,English,Is there a customer service counter near check-in?,"Yes, the Airport Facilitation Desk is located opposite Row C, assisting passengers with directions, forms, and lost property.",departure
+116,Check_in_info,English,Can I check in with a copy of my passport?,"No, original passports are mandatory for international travel. Photocopies are not accepted at check-in counters.",departure
+117,Check_in_info,English,Are there restrooms near the check-in area?,"Yes, restrooms are located beside every departure hall gate, kept clean and accessible for all passengers.",departure
+118,Check_in_info,English,Can I get a wheelchair on arrival at check-in?,"Yes, request one from your airline staff at the counter or call in advance. Assistance is available from check-in till boarding gate.",departure
+119,Check_in_info,English,Is it allowed to carry perfumes in hand luggage?,"Yes, you can carry perfume bottles under 100 ml in your hand luggage. Larger bottles must go in checked bags.",departure
+120,Check_in_info,English,Where can I ask for flight rescheduling?,"Rescheduling and cancellations are managed at the ticketing desk of your airline, located beside the main check-in area.",departure
+121,Check_in_info,English,Can I check in with my pet cat?,"Yes, cats and small pets can travel if placed in approved carriers and with vaccination records. Inform your airline in advance.",departure
+122,Check_in_info,English,What should I do if my luggage lock is broken?,Inform the counter agent immediately. The damaged lock will be noted on your baggage record to avoid disputes on arrival.,departure
+123,Check_in_info,English,How can I track my luggage after check-in?,"Keep your baggage tag receipt. In case of loss, your airline can trace your bag using this number.",departure
+124,Check_in_info,English,Can I check in baby stroller for free?,"Yes, strollers are checked in free of charge and returned at the aircraft door upon landing.",departure
+125,Check_in_info,English,What happens if I lose my boarding pass before boarding?,Immediately report it to your airline counter before security. They can reissue it after verifying your ID.,departure
+126,Check_in_info,English,Can I ask for window seat at check-in?,"Yes, you may request a window or aisle seat at the counter. Allocation depends on availability.",departure
+127,Check_in_info,English,Is there a prayer room near check-in?,"Yes, prayer rooms for men and women are located near Gate 5 inside the departure hall.",departure
+128,Check_in_info,English,Can I carry my camera equipment as hand-carry?,"Yes, cameras and lenses can be carried as hand luggage if they meet size and weight limits. Handle carefully during screening.",departure
+129,Check_in_info,English,Is Wi-Fi free during check-in process?,"Yes, free Wi-Fi is available throughout the terminal. Connect to IIA-FreeNet and follow on-screen instructions.",departure
+130,Check_in_info,English,How early should I check in for a group flight?,"For groups over 5 passengers, it’s best to arrive at least 3.5 hours before departure to ensure everyone is processed together.",departure
+131,Check_in_info,English,Are face masks still required at check-in?,Masks are optional but recommended in crowded areas. Sanitizer dispensers are placed throughout the hall for public use.,departure
+132,Check_in_info,English,Can I check in with damaged luggage?,"Yes, but inform the airline staff to mark the condition on your baggage receipt to avoid confusion later.",departure
+133,Check_in_info,English,Can I bring sealed liquids like juice bottles?,"Only if they’re under 100 ml in carry-on or sealed properly in checked bags. Otherwise, they may be discarded at security.",departure
+134,Check_in_info,English,Are there ATMs near check-in?,"Yes, multiple ATMs are available near the entrance and beside Row B for passenger convenience.",departure
+135,Check_in_info,English,What happens if my printed ticket is blurred?,Staff can verify your booking using the PNR or CNIC number and issue a new boarding pass instantly.,departure
+136,Check_in_info,English,Is there a separate check-in counter for VIPs?,"Yes, diplomatic and VIP passengers are assisted at dedicated counters with private waiting areas.",departure
+137,Check_in_info,English,Can I check in power banks in luggage?,"No, power banks must be in your hand luggage due to airline safety regulations.",departure
+138,Check_in_info,English,Can I check in sharp items like scissors?,"No, sharp items are prohibited in hand luggage. Place them in checked baggage.",departure
+139,Check_in_info,English,Is there an emergency medical service near check-in?,"Yes, an airport medical unit operates 24/7 near Gate 3 for emergencies and first aid.",departure
+140,Check_in_info,English,Can I keep extra bags in storage before check-in?,"Yes, you can store items temporarily at the baggage service counter beside Row C for a small hourly charge.",departure
+141,Check_in_info,English,Are there smoking areas before check-in?,Smoking zones are available outside the terminal building only. The inside is a smoke-free area.,departure
+142,Check_in_info,English,Can I check in fragile glass items?,"Yes, but label them clearly and request a “FRAGILE” tag from the counter staff.",departure
+143,Check_in_info,English,Can I bring electronics like laptops and tablets?,"Yes, but remove them from your bags during security screening. Carry them in hand luggage.",departure
+144,Check_in_info,English,Is there any charge for reissuing a lost boarding pass?,"Generally no, but some airlines charge a small administrative fee. Confirm with your airline staff.",departure
+145,Check_in_info,English,Can I use digital payment apps to pay baggage fees?,"Yes, most airlines accept debit/credit cards and Pakistani digital wallets like Easypaisa or JazzCash for baggage payments.",departure
+146,Check_in_info,English,How do I identify international vs domestic counters?,"International counters are marked in blue boards, while domestic are shown in green. Both have visible airline logos overhead.",departure
+147,Check_in_info,English,Is check-in available for transit passengers?,"Yes, passengers arriving on connecting flights can recheck baggage at the Transit Help Desk near Gate 6.",departure
+148,Check_in_info,English,Can I carry gifts wrapped in boxes?,"Avoid wrapping gifts before check-in. Security might need to inspect inside, so it’s better to wrap them after screening.",departure
+149,Check_in_info,English,Can I check in a bicycle?,"Yes, bicycles must be partially dismantled and packed in boxes. Check your airline’s sports equipment policy for charges.",departure
+150,Check_in_info,English,Can I check in without showing my ticket?,"No, you must show either a printed or digital ticket along with CNIC or passport at the counter.",departure
+,,,,,departure
+,,,,,departure
+,,,,,departure
+,,,,,departure
+,,,,,departure
+,,,,,departure
+,,,,,departure
+,,,,,departure

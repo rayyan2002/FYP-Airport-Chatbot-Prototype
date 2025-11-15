@@ -1,0 +1,153 @@
+﻿#,Intent,Language,User Query,Chatbot Response,Context
+1,Check_in_info,Roman Urdu,Mera check-in counter kahan hai?,"Apni airline ke check-in counter pe chalein, departure hall mein boards lage hue hain.",Departure
+2,Check_in_info,Roman Urdu,PIA ka counter kis row mein hai?,PIA ka counter Row C mein Gate 4 ke paas hai.,Departure
+3,Check_in_info,Roman Urdu,Serene Air ka check-in kahan hota hai?,"Serene Air ka counter Row B mein hai, staff wahan maujood hota hai.",Departure
+4,Check_in_info,Roman Urdu,Kya online check-in ke baad bag drop kar sakta hoon?,"Haan, “Online Check-In” likhe counter pe bag jama kar dein.",Departure
+5,Check_in_info,Roman Urdu,Mobile boarding pass chalega ya print zaroori hai?,"Mobile boarding pass chal jata hai, print optional hai.",Departure
+6,Check_in_info,Roman Urdu,Check-in kab khulta hai?,International flights ke liye 3 ghante pehle aur domestic ke liye 2 ghante pehle khulta hai.,Departure
+7,Check_in_info,Roman Urdu,Check-in kab band hota hai?,Domestic flights ke liye 45 minutes pehle aur international ke liye 1 ghanta pehle band hota hai.,Departure
+8,Check_in_info,Roman Urdu,Kya Islamabad Airport pe self check-in machine hai?,"Haan, hall B ke entrance pe self check-in kiosks lagi hui hain.",Departure
+9,Check_in_info,Roman Urdu,Boarding pass kahan milta hai?,Airline ke counter se check-in complete karne ke baad milta hai.,Departure
+10,Check_in_info,Roman Urdu,Extra baggage ka paisa kahan jama hota hai?,Row D ke paas Extra Baggage desk pe payment hoti hai.,Departure
+11,Check_in_info,Roman Urdu,Kya families ke liye alag counter hota hai?,"Haan, families aur bachon ke liye priority lane hoti hai.",Departure
+12,Check_in_info,Roman Urdu,Special assistance passengers kahan jaate hain?,Counter number 1 special assistance passengers ke liye hai.,Departure
+13,Check_in_info,Roman Urdu,Fast track check-in kya hota hai?,Ye service business class ya premium passengers ke liye hoti hai.,Departure
+14,Check_in_info,Roman Urdu,Kya do bags check-in kar sakta hoon?,"Haan, agar total weight airline limit ke andar ho to.",Departure
+15,Check_in_info,Roman Urdu,Hand carry ka maximum weight kitna hota hai?,"Normally 7 kg tak allowed hota hai, airline se confirm kar lein.",Departure
+16,Check_in_info,Roman Urdu,Baggage wrapping kahan hoti hai?,Gate 3 ke paas wrapping service available hai.,Departure
+17,Check_in_info,Roman Urdu,Kya ek din pehle bag drop kar sakta hoon?,"Nahi, sirf flight ke din hi bag drop hota hai.",Departure
+18,Check_in_info,Roman Urdu,Kya return flight ka check-in bhi karwa sakta hoon?,"Nahi, sirf current flight ka check-in hota hai.",Departure
+19,Check_in_info,Roman Urdu,Boarding pass pe kya likha hota hai?,"Is pe gate number, seat number aur boarding time likha hota hai.",Departure
+20,Check_in_info,Roman Urdu,Kya bag plastic mein wrap karwana zaroori hai?,"Zaroori nahi, lekin safety ke liye acha hai.",Departure
+21,Check_in_info,Roman Urdu,Agar flight delay ho jaye to counter khula rehta hai?,"Haan, flight schedule ke mutabiq counter open rehta hai.",Departure
+22,Check_in_info,Roman Urdu,"Boarding pass gum gaya hai, kya dobara mil sakta hai?","Haan, airline counter se naya pass mil jata hai.",Departure
+23,Check_in_info,Roman Urdu,Kya kisi aur ka bag check-in karwa sakta hoon?,"Nahi, har passenger apna bag khud jama karta hai.",Departure
+24,Check_in_info,Roman Urdu,E-ticket print karna zaroori hai kya?,"Nahi, mobile pe dikhana kaafi hai.",Departure
+25,Check_in_info,Roman Urdu,International passengers ke counters kahan hain?,"Row A mein, immigration entry ke paas.",Departure
+26,Check_in_info,Roman Urdu,Domestic flights ke liye kaunsa hall hai?,Departure Hall B domestic flights ke liye hai.,Departure
+27,Check_in_info,Roman Urdu,Kya seat change karwa sakta hoon?,"Haan, agar airline allow kare to check-in pe possible hai.",Departure
+28,Check_in_info,Roman Urdu,"Meri flight PK301 hai, kahan jaoon?",PK301 ka counter Row C mein hai.,Departure
+29,Check_in_info,Roman Urdu,Kya wheelchair mil sakti hai?,"Haan, request dene pe staff wheelchair provide karta hai.",Departure
+30,Check_in_info,Roman Urdu,Kya check-in ke liye passport zaroori hai?,"Haan, international flights ke liye lazmi hai.",Departure
+31,Check_in_info,Roman Urdu,Airport ka staff kitne bajay aata hai?,Counters flight se 3 ghante pehle open ho jaate hain.,Departure
+32,Check_in_info,Roman Urdu,Agar late ho jaoon to kya boarding ho sakti hai?,Agar counter band na hua ho to staff help karega.,Departure
+33,Check_in_info,Roman Urdu,Kya check-in free hota hai?,"Haan, koi extra charges nahi lagte.",Departure
+34,Check_in_info,Roman Urdu,Online check-in cancel kar sakta hoon?,"Haan, airline ki website se cancel kar sakte ho.",Departure
+35,Check_in_info,Roman Urdu,Islamabad Airport 24 ghante khula rehta hai kya?,"Haan, international flights ke liye 24/7 open hai.",Departure
+36,Check_in_info,Roman Urdu,Kya check-in ke baad main bahar ja sakta hoon?,"Nahi, security check ke baad dobara entry allowed nahi hoti.",Departure
+37,Check_in_info,Roman Urdu,Hand carry mein kitni liquid allowed hai?,Sirf 100 ml tak liquid allowed hai.,Departure
+38,Check_in_info,Roman Urdu,Kya weight check karne ki machine lagi hai?,"Haan, har row ke paas scale available hai.",Departure
+39,Check_in_info,Roman Urdu,Agar bag kho jaye to kya karna hai?,Airline ke baggage claim counter pe report kar dein.,Departure
+40,Check_in_info,Roman Urdu,Trolley kahan milti hai?,Entrance ke paas trolleys available hoti hain.,Departure
+41,Check_in_info,Roman Urdu,Kya check-in se pehle khana khaya ja sakta hai?,"Haan, food court entrance ke paas hai.",Departure
+42,Check_in_info,Roman Urdu,Kya Islamabad Airport pe business lounge hai?,"Haan, Hall A ke paas lounge available hai.",Departure
+43,Check_in_info,Roman Urdu,Agar system band ho jaye to check-in kaise hoga?,Staff manual process se help karega.,Departure
+44,Check_in_info,Roman Urdu,Kya main apne dost ke sath ja sakta hoon?,Sirf passengers ko hi andar jane ki ijazat hai.,Departure
+45,Check_in_info,Roman Urdu,Medicine bag mein rakh sakta hoon?,"Haan, lekin hand bag mein rakhna behtar hai.",Departure
+46,Check_in_info,Roman Urdu,Check-in ke baad gate kahan hota hai?,Gate number boarding pass pe likha hota hai.,Departure
+47,Check_in_info,Roman Urdu,Islamabad se Dubai flight ke liye kaunsa hall hai?,Hall A se Dubai flights depart karti hain.,Departure
+48,Check_in_info,Roman Urdu,Kya wrapping zaroori hai?,"Nahi, lekin protection ke liye useful hai.",Departure
+49,Check_in_info,Roman Urdu,Kya check-in ke baad phir se entry mil sakti hai?,"Nahi, ek dafa bahar nikalne ke baad dobara entry nahi hoti.",Departure
+50,Check_in_info,Roman Urdu,Kya power bank bag mein rakh sakta hoon?,"Nahi, sirf hand carry mein rakhein.",Departure
+51,Check_in_info,Roman Urdu,Kya boarding ke baad khana milta hai?,"Haan, airlines in-flight meal deti hain agar ticket mein shamil ho.",Departure
+52,Check_in_info,Roman Urdu,Kya main flight ka time yahan check kar sakta hoon?,"Haan, flight information screens pe departure time likha hota hai.",Departure
+53,Check_in_info,Roman Urdu,Check-in ke dauran mobile use kar sakta hoon?,"Haan, lekin security aur scanning ke waqt use na karein.",Departure
+54,Check_in_info,Roman Urdu,Kya check-in se pehle security check hota hai?,"Nahi, pehle check-in hota hai phir security screening.",Departure
+55,Check_in_info,Roman Urdu,Kya visa copy pe travel kar sakta hoon?,"Nahi, asli passport zaroori hota hai.",Departure
+56,Check_in_info,Roman Urdu,Agar check-in miss ho jaye to kya karun?,"Turant apni airline ke counter pe jao, staff help karega.",Departure
+57,Check_in_info,Roman Urdu,Kya koi baggage help service hai?,"Haan, porter service available hai, choti si fee deni hoti hai.",Departure
+58,Check_in_info,Roman Urdu,Bachay ke liye check-in pe kya chahiye hota hai?,Birth certificate ya passport dikhana hota hai.,Departure
+59,Check_in_info,Roman Urdu,Pet le kar travel kar sakta hoon?,"Haan, airline ke rules ke mutabiq cage aur ticket required hota hai.",Departure
+60,Check_in_info,Roman Urdu,Laptop hand carry mein le ja sakta hoon?,"Haan, laptop hand carry mein allowed hota hai.",Departure
+61,Check_in_info,Roman Urdu,"Mera bag khul gaya hai, kya complaint kar sakta hoon?","Haan, baggage claim pe report kar dein.",Departure
+62,Check_in_info,Roman Urdu,Kya Islamabad Airport pe free WiFi hai?,"Haan, “IIAP Free WiFi” naam se available hai.",Departure
+63,Check_in_info,Roman Urdu,Kya main kisi aur flight ka check-in karwa sakta hoon?,"Nahi, sirf apni flight ka hi check-in hota hai.",Departure
+64,Check_in_info,Roman Urdu,Business class ke liye alag counter hai kya?,"Haan, business class passengers ke liye dedicated counter hota hai.",Departure
+65,Check_in_info,Roman Urdu,"Main ghar se check-in kar chuka hoon, ab kya karun?",Sirf baggage drop counter pe bag jama kar dein.,Departure
+66,Check_in_info,Roman Urdu,Kya staff English bolta hai?,"Haan, Urdu aur English dono bolte hain.",Departure
+67,Check_in_info,Roman Urdu,Main apne dost ke sath line mein khara ho sakta hoon?,Sirf agar dono ek hi flight ke passenger hoon.,Departure
+68,Check_in_info,Roman Urdu,Agar gate change ho jaye to kaise pata chalega?,Flight screen aur announcement se maloom ho jata hai.,Departure
+69,Check_in_info,Roman Urdu,Kya main dollars sath le ja sakta hoon?,"Haan, State Bank limit ke andar allowed hai.",Departure
+70,Check_in_info,Roman Urdu,Kya currency exchange available hai?,"Haan, hall ke andar exchange counters lage hue hain.",Departure
+71,Check_in_info,Roman Urdu,Kya food bag mein rakh sakta hoon?,"Haan, agar restricted items na hon to allowed hai.",Departure
+72,Check_in_info,Roman Urdu,Kya do airlines ki flight ek din mein le sakta hoon?,"Haan, lekin har flight ka alag check-in hoga.",Departure
+73,Check_in_info,Roman Urdu,Power bank kaha rakhna chahiye?,"Sirf hand carry mein rakhein, checked bag mein nahi.",Departure
+74,Check_in_info,Roman Urdu,Kya stroller ya wheelchair check-in pe milti hai?,"Haan, staff request pe provide karta hai.",Departure
+75,Check_in_info,Roman Urdu,Kya kisi aur ka boarding pass le sakta hoon?,"Nahi, har passenger ko apna pass khud lena hota hai.",Departure
+76,Check_in_info,Roman Urdu,Tax refund counter kahan hai?,Islamabad Airport pe tax refund facility nahi hai.,Departure
+77,Check_in_info,Roman Urdu,Kya bag lock karna allowed hai?,"Haan, apni safety ke liye kar sakte ho.",Departure
+78,Check_in_info,Roman Urdu,Agar baggage tag gum jaye to kya hoga?,Airline staff flight info se bag trace kar leta hai.,Departure
+79,Check_in_info,Roman Urdu,Agar bag delay ho to koi compensation milta hai?,Airline ki policy ke mutabiq mil sakta hai.,Departure
+80,Check_in_info,Roman Urdu,Check-in ke baad shopping kar sakta hoon?,"Haan, duty free shops security ke baad available hain.",Departure
+81,Check_in_info,Roman Urdu,Kya trolley gate tak le ja sakta hoon?,"Nahi, trolley allowed area tak hi ja sakti hai.",Departure
+82,Check_in_info,Roman Urdu,Kya bag pe sticker lagana allowed hai?,"Haan, identification ke liye achha idea hai.",Departure
+83,Check_in_info,Roman Urdu,Security scanning ke dauran bag kholte hain kya?,"Haan, agar zarurat ho to staff check karta hai.",Departure
+84,Check_in_info,Roman Urdu,Perfume le ja sakta hoon?,"Haan, 100 ml tak allowed hai.",Departure
+85,Check_in_info,Roman Urdu,Boarding pass change kar sakta hoon?,"Nahi, ek dafa issue hone ke baad change nahi hota.",Departure
+86,Check_in_info,Roman Urdu,Parking available hai kya?,"Haan, departure hall ke samne parking area hai.",Departure
+87,Check_in_info,Roman Urdu,Kya bag receipt dobara mil sakti hai?,"Haan, airline ke customer desk se milti hai.",Departure
+88,Check_in_info,Roman Urdu,Kya bachon ke liye alag line hoti hai?,"Haan, family lane hoti hai.",Departure
+89,Check_in_info,Roman Urdu,Islamabad Airport pe lounge available hai kya?,"Haan, PIA lounge gate 5 ke paas hai.",Departure
+90,Check_in_info,Roman Urdu,Knife hand carry mein le ja sakta hoon?,"Nahi, ye allowed nahi hai.",Departure
+91,Check_in_info,Roman Urdu,Passport scan karwana hota hai kya?,"Haan, counter pe staff scan karta hai.",Departure
+92,Check_in_info,Roman Urdu,Bag jama karne ke baad washroom use kar sakta hoon?,"Haan, washrooms hall ke andar available hain.",Departure
+93,Check_in_info,Roman Urdu,Drinking water available hai kya?,"Haan, har hall mein paani ke dispenser lage hue hain.",Departure
+94,Check_in_info,Roman Urdu,Extra bag le ja sakta hoon?,Airline charges de kar possible hai.,Departure
+95,Check_in_info,Roman Urdu,Gate pe seat change karwa sakta hoon?,"Nahi, sirf check-in pe hoti hai.",Departure
+96,Check_in_info,Roman Urdu,Porter service available hai kya?,"Haan, entrance ke paas milti hai.",Departure
+97,Check_in_info,Roman Urdu,Kya photos le sakte hain?,"Haan, lekin security zone mein mana hai.",Departure
+98,Check_in_info,Roman Urdu,Help desk kahan hai?,Departure hall ke beech mein information counter hai.,Departure
+99,Check_in_info,Roman Urdu,Check-in ke dauran details badal sakta hoon?,"Nahi, airline office se hi change hoti hain.",Departure
+100,Check_in_info,Roman Urdu,Bag ka weight kam kar sakta hoon?,"Haan, extra cheezein nikal ke.",Departure
+101,Check_in_info,Roman Urdu,ATM kahan milta hai?,Hall ke entrance ke paas ATM machine lagi hai.,Departure
+102,Check_in_info,Roman Urdu,Flight ka time delay hua to kya counter khula rahega?,"Haan, agar flight delay ho to airline staff counter pe rehta hai taake passengers ko update de sake.",Departure
+103,Check_in_info,Roman Urdu,Agar meri flight cancel ho jaye to kya karun?,"Apni airline ke counter pe report karein, wo aapko next available flight pe adjust karte hain.",Departure
+104,Check_in_info,Roman Urdu,Kya overweight bag ke liye extra payment on spot hoti hai?,"Haan, Extra Baggage desk pe turant payment kar sakte hain, card aur cash dono chalte hain.",Departure
+105,Check_in_info,Roman Urdu,Kya main apna hand bag bhi weigh karwana hota hai?,"Usually nahi, lekin kuch airlines randomly check karti hain.",Departure
+106,Check_in_info,Roman Urdu,Kya Islamabad Airport pe baggage trolley free hoti hai?,"Haan, entrance aur departure hall mein free trolleys available hoti hain.",Departure
+107,Check_in_info,Roman Urdu,Kya check-in pe CNIC chal jata hai passport ki jagah?,"Haan, sirf domestic flights ke liye CNIC chalta hai.",Departure
+108,Check_in_info,Roman Urdu,Kya online check-in ke baad gate change ho sakta hai?,"Haan, gate kabhi kabhi change hota hai, flight screens pe update mil jata hai.",Departure
+109,Check_in_info,Roman Urdu,Kya boarding time aur flight time alag hotay hain?,"Haan, boarding usually flight time se 30-40 minutes pehle start hoti hai.",Departure
+110,Check_in_info,Roman Urdu,Kya koi jagah hai jahan main betth kar wait kar sakta hoon?,"Haan, departure hall mein comfortable seating aur cafes available hain.",Departure
+111,Check_in_info,Roman Urdu,Kya airport pe prayer room hai?,"Haan, har terminal ke paas namaz ke liye separate area bana hua hai.",Departure
+112,Check_in_info,Roman Urdu,Kya hand carry mein laptop aur charger allowed hain?,"Haan, allowed hain, lekin scanning ke dauran alag tray mein rakhna hota hai.",Departure
+113,Check_in_info,Roman Urdu,Kya check-in staff documents verify karta hai?,"Haan, staff ticket aur ID dono verify karta hai pehle.",Departure
+114,Check_in_info,Roman Urdu,Agar meri flight international hai to kitne bajay pohchun?,Kam az kam 3 ghante pehle airport pohchna best hota hai.,Departure
+115,Check_in_info,Roman Urdu,Kya check-in ke dauran staff luggage tag lagata hai?,"Haan, har bag pe tag lagaya jata hai jisme flight aur name details hoti hain.",Departure
+116,Check_in_info,Roman Urdu,Agar main pehli dafa travel kar raha hoon to kaun help karega?,"Information desk aur airline staff har step pe madad karte hain, bas ticket aur ID sath rakhein.",Departure
+117,Check_in_info,Roman Urdu,Kya check-in ke liye hard copy ticket zaroori hai?,"Nahi, digital ticket mobile pe dikhai ja sakti hai.",Departure
+118,Check_in_info,Roman Urdu,Agar system down ho jaye to kya hoga?,"Staff manual process se boarding pass issue karta hai, aapko bas thoda wait karna hota hai.",Departure
+119,Check_in_info,Roman Urdu,Kya fragile items alag check-in hote hain?,"Haan, unke liye special “Fragile” tag lagaya jata hai taake handle carefully ho.",Departure
+120,Check_in_info,Roman Urdu,Kya koi separate counter hai late passengers ke liye?,"Nahi, lekin agar staff ko inform karein to wo aapko priority de sakte hain.",Departure
+121,Check_in_info,Roman Urdu,Kya luggage wrapping charge hota hai?,"Haan, wrapping service paid hoti hai, Rs. 300-500 tak lagta hai.",Departure
+122,Check_in_info,Roman Urdu,Kya Islamabad Airport pe volunteer staff hota hai?,"Haan, assistance desk pe helpers maujood hote hain jo guidance dete hain.",Departure
+123,Check_in_info,Roman Urdu,Kya boarding ke baad main shop se kuch khareed sakta hoon?,"Haan, duty free aur cafes gate ke paas available hain.",Departure
+124,Check_in_info,Roman Urdu,Kya check-in ke time pe luggage open karte hain?,"Nahi, sirf suspicious item hone pe security staff kholta hai.",Departure
+125,Check_in_info,Roman Urdu,Kya main ID ki photocopy se travel kar sakta hoon?,"Nahi, original CNIC ya passport hi valid hota hai.",Departure
+126,Check_in_info,Roman Urdu,Kya power outlets near counters available hain?,"Haan, har row ke side pe charging sockets lagi hoti hain.",Departure
+127,Check_in_info,Roman Urdu,Kya food items hand carry mein allowed hain?,"Haan, solid food jaise biscuits allowed hain, liquid items restricted hain.",Departure
+128,Check_in_info,Roman Urdu,Kya main security se pehle coffee le sakta hoon?,"Bilkul, coffee shops entrance ke paas hain.",Departure
+129,Check_in_info,Roman Urdu,Kya hand sanitizer le ja sakta hoon?,"Haan, 100 ml tak allowed hai.",Departure
+130,Check_in_info,Roman Urdu,Kya overweight luggage home deliver hota hai?,"Nahi, passenger ko khud collect karna hota hai ya fee de kar adjust karna hota hai.",Departure
+131,Check_in_info,Roman Urdu,Agar boarding gate door mil jaye to kya karun?,"Airport staff se poochein, wo direction aur guidance de dete hain.",Departure
+132,Check_in_info,Roman Urdu,Kya Islamabad Airport pe elevators hain?,"Haan, sab terminals pe lifts aur escalators lage hue hain.",Departure
+133,Check_in_info,Roman Urdu,Kya staff baggage handle karta hai ya passenger khud?,"Passenger khud counter tak le kar jata hai, phir staff load karta hai.",Departure
+134,Check_in_info,Roman Urdu,Kya pets ke liye alag area hai?,"Haan, cargo ke paas pets handling area hota hai.",Departure
+135,Check_in_info,Roman Urdu,Kya boarding ke baad WiFi milta hai?,"Haan, gate ke area mein free WiFi available hota hai.",Departure
+136,Check_in_info,Roman Urdu,Kya ID aur ticket alag-alag dikhani hoti hain?,"Haan, dono documents verify kiye jaate hain.",Departure
+137,Check_in_info,Roman Urdu,Kya koi separate counter hai female passengers ke liye?,"Kuch airlines ladies counter rakhti hain, staff se confirm karein.",Departure
+138,Check_in_info,Roman Urdu,Kya luggage belt departure pe bhi hoti hai?,"Nahi, luggage belt sirf arrival area mein hoti hai.",Departure
+139,Check_in_info,Roman Urdu,Kya main boarding ke baad phone use kar sakta hoon?,"Haan, jab tak flight boarding start na kare.",Departure
+140,Check_in_info,Roman Urdu,Kya check-in counters subha jaldi khul jaate hain?,"Haan, first flights ke liye subha 4 bajay tak open hote hain.",Departure
+141,Check_in_info,Roman Urdu,Kya koi baggage size limit hoti hai?,"Haan, 158 cm se zyada size allowed nahi hota.",Departure
+142,Check_in_info,Roman Urdu,Kya late night flights ke liye staff available hota hai?,"Haan, international flights ke liye 24 ghante staff maujood hota hai.",Departure
+143,Check_in_info,Roman Urdu,Kya check-in ke dauran selfie le sakta hoon?,"Haan, lekin staff aur system ke paas photo lena avoid karein.",Departure
+144,Check_in_info,Roman Urdu,Kya check-in ke time boarding gate assign hota hai?,"Haan, gate number aapke boarding pass pe likha hota hai.",Departure
+145,Check_in_info,Roman Urdu,Kya check-in ke waqt vaccination certificate zaroori hai?,"Kuch countries ke liye required hota hai, better hai sath rakhein.",Departure
+146,Check_in_info,Roman Urdu,Kya fragile items ke liye extra charge hota hai?,"Nahi, lekin handling careful hoti hai aur fragile tag lagta hai.",Departure
+147,Check_in_info,Roman Urdu,Kya Islamabad Airport pe baggage scale free hai?,"Haan, weight check karne ke liye machines free hain.",Departure
+148,Check_in_info,Roman Urdu,Kya boarding gate tak wheelchairs jati hain?,"Haan, staff help karta hai wheelchair ko gate tak le jane mein.",Departure
+149,Check_in_info,Roman Urdu,Kya duty free shop departure pe hai?,"Haan, immigration ke baad duty free outlets milte hain.",Departure
+150,Check_in_info,Roman Urdu,Kya koi area hai jahan se flights dekh sakte hain?,"Haan, departure lounge ke glass area se flights visible hoti hain.",Departure
+,,,,,
+,,,,,
