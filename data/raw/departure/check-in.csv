@@ -150,11 +150,3 @@ SNO,Intent,Language,User Query,Chatbot Response,Context
 148,Check_in_info,English,Can I carry gifts wrapped in boxes?,"Avoid wrapping gifts before check-in. Security might need to inspect inside, so it’s better to wrap them after screening.",departure
 149,Check_in_info,English,Can I check in a bicycle?,"Yes, bicycles must be partially dismantled and packed in boxes. Check your airline’s sports equipment policy for charges.",departure
 150,Check_in_info,English,Can I check in without showing my ticket?,"No, you must show either a printed or digital ticket along with CNIC or passport at the counter.",departure
-,,,,,departure
-,,,,,departure
-,,,,,departure
-,,,,,departure
-,,,,,departure
-,,,,,departure
-,,,,,departure
-,,,,,departure
