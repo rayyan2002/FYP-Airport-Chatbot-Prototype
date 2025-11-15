@@ -1,0 +1,168 @@
+﻿#,Intent,Language,User Query,Chatbot Response,Context
+1,Lost_found_info,Roman Urdu,"Mera bag nahi aya, kya karun?",Aap Lost & Found counter pe chalein jo Belt 3 ke paas hai. Wahan staff aapka complaint register karega aur bag trace karega.,Arrival
+2,Lost_found_info,Roman Urdu,Lost and Found counter kahan hai?,Ye Arrival Hall ke andar Customs area ke paas Belt 2 ke side pe hai.,Arrival
+3,Lost_found_info,Roman Urdu,"Mera passport plane mein reh gaya hai, ab kya karun?","Apni airline ke counter pe turant report karein, wo crew se contact karke passport retrieve karte hain.",Arrival
+4,Lost_found_info,Roman Urdu,Kya Islamabad Airport pe Lost & Found service available hai?,"Haan, ye 24 ghante chalu rehti hai Arrival Hall mein Customs ke paas.",Arrival
+5,Lost_found_info,Roman Urdu,"Mera saman kahin ghum gaya hai, report kaise karun?",Aap Lost & Found counter pe form bhar ke report kar sakte hain ya helpline pe call karen.,Arrival
+6,Lost_found_info,Roman Urdu,"Mera suitcase damage ho gaya hai, kahan jaoon?","Apni airline ke baggage claim desk pe ja kar complaint likhwa dein, wo claim process start karenge.",Arrival
+7,Lost_found_info,Roman Urdu,"Mujhe kisi ka bag mila hai, kya karun?",Us bag ko nearest security guard ya Lost & Found counter pe jama kara dein.,Arrival
+8,Lost_found_info,Roman Urdu,Ghumshuda saman milne mein kitna time lagta hai?,Aksar 24 se 48 ghante lagte hain depending flight aur tracing details par.,Arrival
+9,Lost_found_info,Roman Urdu,Lost & Found ka timing kya hai?,"Ye office 24 hours open rehta hai, har waqt staff available hota hai.",Arrival
+10,Lost_found_info,Roman Urdu,Kya koi helpline number hai lost items ke liye?,"Haan, aap +92-51-111-786-787 pe call karke report kar sakte hain.",Arrival
+11,Lost_found_info,Roman Urdu,"Mera wallet immigration area mein gir gaya, kya karun?","Aap security ya Lost & Found office ko inform karein, wo turant CCTV se trace karte hain.",Arrival
+12,Lost_found_info,Roman Urdu,Kya main email se complaint bhej sakta hoon?,"Haan, lostfound@islamabadairport.com pe apni flight aur item details bhej dein.",Arrival
+13,Lost_found_info,Roman Urdu,"Mera bag Dubai se nahi aya, kahan complain karun?",Airline ke arrival counter ya Lost & Found desk pe report karein. Airline aur staff dono milkar trace karenge.,Arrival
+14,Lost_found_info,Roman Urdu,Lost item lene ke liye kya documents chahiye?,CNIC ya passport aur item ka proof of ownership dikhana zaroori hai.,Arrival
+15,Lost_found_info,Roman Urdu,"Mera phone washroom mein reh gaya hai, kya karun?","Lost & Found counter pe ja kar detail dein, agar mila hoga to wahan deposit hoga.",Arrival
+16,Lost_found_info,Roman Urdu,Kya koi aur mera saman receive kar sakta hai?,"Haan, agar uske paas aapka authorization letter aur ID copy ho to le sakta hai.",Arrival
+17,Lost_found_info,Roman Urdu,Baggage area mein CCTV hota hai kya?,"Haan, poora area cameras se monitor hota hai safety aur tracing ke liye.",Arrival
+18,Lost_found_info,Roman Urdu,Ghumshuda cheezein kitne din tak rakhi jati hain?,"90 din tak rakhi jati hain, uske baad authorities ko de di jati hain.",Arrival
+19,Lost_found_info,Roman Urdu,"Mujhe kisi ka passport mila hai, kya karun?",Usse immediately Immigration ya Lost & Found office ko de dein.,Arrival
+20,Lost_found_info,Roman Urdu,"Mera baggage tag kho gaya hai, kya trace ho sakta hai?","Haan, flight number aur bag ka detail dene par staff trace kar lega.",Arrival
+21,Lost_found_info,Roman Urdu,Kya domestic flights ke liye alag Lost & Found hai?,"Haan, Belt 1 ke paas Domestic Arrival section mein alag counter hai.",Arrival
+22,Lost_found_info,Roman Urdu,"Mera gold jewelry kho gaya hai, kya recover ho sakta hai?","Haan, immediately report karein taake item secure kiya ja sake.",Arrival
+23,Lost_found_info,Roman Urdu,Kya online check kar sakte hain lost items list?,"Filhal online list available nahi, phone ya visit karke inquire karein.",Arrival
+24,Lost_found_info,Roman Urdu,Agar koi saman claim na kare to kya hota hai?,90 din ke baad saman authorities ko handover kar diya jata hai.,Arrival
+25,Lost_found_info,Roman Urdu,"Mera baby stroller nahi aya, kya karun?","Airline counter pe report karein, wo next flight se deliver karenge.",Arrival
+26,Lost_found_info,Roman Urdu,Lost & Found ka zimma kis department ka hai?,Airport Facilitation Department iska operation handle karta hai.,Arrival
+27,Lost_found_info,Roman Urdu,Kya lost baggage ka compensation milta hai?,Airline policy ke mutabiq aapko compensation mil sakta hai.,Arrival
+28,Lost_found_info,Roman Urdu,Agar mera bag mil jaye to kaise verify hoga?,"Staff aapse bag ka color, brand aur tag number confirm karega.",Arrival
+29,Lost_found_info,Roman Urdu,Kya lost item lene ki koi fees hoti hai?,"Nahi, Lost & Found service bilkul free hai.",Arrival
+30,Lost_found_info,Roman Urdu,"Mera saman taxi area mein kho gaya, kya karun?",Airport police ya Lost & Found counter pe turant report karein.,Arrival
+31,Lost_found_info,Roman Urdu,"Mera smartwatch arrival pe kho gaya hai, kya wo mil sakta hai?",Agar koi deliver kare to staff aapke registered contact pe call karega.,Arrival
+32,Lost_found_info,Roman Urdu,"Mujhe ek phone mila baggage area mein, kya karun?","Use Lost & Found counter pe jama kara dein, staff record karega.",Arrival
+33,Lost_found_info,Roman Urdu,"Mera bag late aya, kya wo ghar deliver hoga?","Kuch airlines home delivery karti hain, apni airline se confirm karein.",Arrival
+34,Lost_found_info,Roman Urdu,"Mera laptop plane mein reh gaya, kya karun?","Airline ke counter pe ja kar report karein, crew se coordinate karke retrieve kiya jata hai.",Arrival
+35,Lost_found_info,Roman Urdu,Lost & Found office andar hai ya bahar?,Ye Arrival Hall ke andar Customs exit ke paas hai.,Arrival
+36,Lost_found_info,Roman Urdu,Kya phone karke report ka status check kar sakte hain?,"Haan, apna case number de kar helpline pe update le sakte hain.",Arrival
+37,Lost_found_info,Roman Urdu,"Mera gold ring kal ghum gaya tha, kya mil sakta hai?","Agar mila hoga to safe locker mein rakha gaya hoga, office se confirm karein.",Arrival
+38,Lost_found_info,Roman Urdu,"Mera luggage lock toot gaya hai, kya complaint kar sakta hoon?","Haan, airline ke baggage claim counter pe complaint karein.",Arrival
+39,Lost_found_info,Roman Urdu,Kya main kisi aur ka saman claim kar sakta hoon?,"Nahi, sirf asli owner ya uska authorized person le sakta hai.",Arrival
+40,Lost_found_info,Roman Urdu,"Mera bag kisi aur ne galti se le liya, kya karun?","Lost & Found ko inform karein, CCTV footage se check kiya jata hai.",Arrival
+41,Lost_found_info,Roman Urdu,"Mera jacket belt pe reh gaya, kaise wapas loon?",Flight aur belt details ke sath Lost & Found pe report karein.,Arrival
+42,Lost_found_info,Roman Urdu,Kya staff har roz found items check karta hai?,"Haan, rozana list update hoti hai aur secure storage mein rakha jata hai.",Arrival
+43,Lost_found_info,Roman Urdu,"Mera file waiting area mein reh gaya, kya mil sakta hai?",Agar kisi ne jama karaya hoga to Lost & Found se mil jayega.,Arrival
+44,Lost_found_info,Roman Urdu,Kya WhatsApp pe contact kar sakte hain Lost & Found se?,"Nahi, sirf phone aur email communication available hai.",Arrival
+45,Lost_found_info,Roman Urdu,"Mera dost mera saman kal lene aayega, chalega?","Haan, authorization letter aur ID copies ke sath le sakta hai.",Arrival
+46,Lost_found_info,Roman Urdu,"Mera book trolley pe reh gaya, kya milega?","Lost & Found pe daily trolleys check hoti hain, zarur mil sakta hai.",Arrival
+47,Lost_found_info,Roman Urdu,Complaint track karne ka system hai kya?,"Filhal manual tracking hai, phone se update mil sakta hai.",Arrival
+48,Lost_found_info,Roman Urdu,Ghumshuda bag turant report karna zaroori hai kya?,"Haan, exit se pehle hi Lost & Found pe report karein taake jaldi trace ho.",Arrival
+49,Lost_found_info,Roman Urdu,"Mera CNIC airport pe kho gaya hai, kya karun?",Lost & Found aur police desk dono pe inform karein taake record ban sake.,Arrival
+50,Lost_found_info,Roman Urdu,"Mera baggage delay ho gaya tha, ab kahan se collect karun?","Agar aapne complaint register karayi thi, to Lost & Found counter pe ja kar reference number se saman le sakte hain.",Arrival
+51,Lost_found_info,Roman Urdu,"Mera charger kho gaya hai, kaise check karun?","Lost & Found office pe ja kar detail dein, staff daily electronics list check karta hai.",Arrival
+52,Lost_found_info,Roman Urdu,Kya Lost & Found 24 ghante khula rehta hai?,"Haan, Islamabad Airport ka Lost & Found 24/7 open rehta hai passenger facility ke liye.",Arrival
+53,Lost_found_info,Roman Urdu,"Mujhe kisi aur ka passport mila hai, kya karun?",Usse immigration desk ya Lost & Found counter pe jama kara dein.,Arrival
+54,Lost_found_info,Roman Urdu,Kya koi online form hota hai lost items ke liye?,Filhal sirf manual form available hai jo counter pe fill karna hota hai.,Arrival
+55,Lost_found_info,Roman Urdu,Kya main kisi aur ke behalf pe complaint kar sakta hoon?,"Haan, agar aapke paas uska CNIC aur authorization letter ho to kar sakte hain.",Arrival
+56,Lost_found_info,Roman Urdu,"Mera power bank bag mein tha, aur bag nahi aya, kya karun?","Airline aur Lost & Found dono ko inform karein, unko battery items ka record maintain karna hota hai.",Arrival
+57,Lost_found_info,Roman Urdu,Kya koi email confirmation milti hai jab complaint register hoti hai?,"Haan, agar aap email address dete hain to confirmation mail bheja jata hai.",Arrival
+58,Lost_found_info,Roman Urdu,"Mera camera kho gaya hai, koi chance hai mil jaye?",Agar koi deliver kare to Lost & Found office aapko contact karega. Unka record regularly update hota hai.,Arrival
+59,Lost_found_info,Roman Urdu,Mujhe lost item claim karte waqt proof dena hoga?,"Haan, CNIC aur item ka description dena zaroori hai. Verification ke baad item diya jata hai.",Arrival
+60,Lost_found_info,Roman Urdu,Kya CCTV footage dekhi ja sakti hai mere bag ke liye?,"Sirf authorized staff dekh sakta hai, lekin aap written request de sakte hain.",Arrival
+61,Lost_found_info,Roman Urdu,"Mera jewelry pouch kho gaya hai, kya valuable items alag handle hotay hain?","Haan, high-value items secure locker mein rakhe jate hain aur special approval se milte hain.",Arrival
+62,Lost_found_info,Roman Urdu,Kya kisi aur ka saman le jana allowed hai?,"Nahi, sirf owner ya authorized person hi claim kar sakta hai.",Arrival
+63,Lost_found_info,Roman Urdu,"Mujhe bag mil gaya hai, lekin lock khula tha.","Ye incident apni airline ko batayein, taake verification aur complaint record ho.",Arrival
+64,Lost_found_info,Roman Urdu,"Mera child stroller arrival pe nahi aya, kya karun?","Airline se verify karein, kuch strollers next flight se deliver hote hain.",Arrival
+65,Lost_found_info,Roman Urdu,Lost & Found staff kis department ke under hota hai?,Ye Airport Facilitation Department ke under kaam karta hai.,Arrival
+66,Lost_found_info,Roman Urdu,"Mera headphone waiting area mein reh gaya, kya mil sakta hai?",Agar kisi ne jama karaya hoga to Lost & Found list mein zaroor hoga.,Arrival
+67,Lost_found_info,Roman Urdu,"Mera bag kisi aur ne galti se le liya hai, kya CCTV se check ho sakta hai?","Haan, staff footage dekh kar identify karta hai aur contact karta hai.",Arrival
+68,Lost_found_info,Roman Urdu,"Mera saman do din pehle kho gaya tha, kya ab bhi mil sakta hai?","Haan, lost items 90 din tak store rehte hain, report number se verify karein.",Arrival
+69,Lost_found_info,Roman Urdu,"Mera identity card ghum gaya, police report zaroori hai kya?","Haan, CNIC ke liye police report aur Lost & Found record dono required hote hain.",Arrival
+70,Lost_found_info,Roman Urdu,"Mera perfume bag se missing hai, kya karun?",Airline aur baggage claim counter pe missing item report karwaein.,Arrival
+71,Lost_found_info,Roman Urdu,Kya koi list mil sakti hai daily found items ki?,"Haan, Lost & Found office pe daily updated list available hoti hai.",Arrival
+72,Lost_found_info,Roman Urdu,"Mera friend ka saman missing hai, main report kar sakta hoon?","Haan, agar aapke paas flight aur passenger details hain to kar sakte hain.",Arrival
+73,Lost_found_info,Roman Urdu,"Mera bag damage hua aur saman missing hai, dono report kahan karun?",Airline aur Lost & Found dono pe complaint file karni hoti hai.,Arrival
+74,Lost_found_info,Roman Urdu,"Mera toy bag arrival belt pe nahi mila, kya koi help karega?","Staff ko bataiye, wo CCTV aur unclaimed area check karte hain.",Arrival
+75,Lost_found_info,Roman Urdu,Mera earpod gir gaya hai baggage belt ke paas.,"Lost & Found pe report karein, small electronics alag section mein rakhe jate hain.",Arrival
+76,Lost_found_info,Roman Urdu,Mujhe lost item pick karne ka time milta hai kya?,"Haan, aap 24/7 kisi bhi waqt le sakte hain ID ke sath.",Arrival
+77,Lost_found_info,Roman Urdu,"Mera luggage open tha jab mila, kya karun?",Airline staff ko batayein aur Lost & Found pe bhi note kara dein.,Arrival
+78,Lost_found_info,Roman Urdu,Kya koi WhatsApp number hai Lost & Found ka?,"Nahi, abhi sirf phone aur email communication available hai.",Arrival
+79,Lost_found_info,Roman Urdu,Mera saman report karne ke baad kitne din mein milta hai?,Usually 24-48 ghante lagte hain trace hone mein.,Arrival
+80,Lost_found_info,Roman Urdu,Agar mera saman kisi ne galti se le liya ho toh kya hota hai?,Staff unse contact karta hai aur saman secure return kar diya jata hai.,Arrival
+81,Lost_found_info,Roman Urdu,"Mera phone belt ke paas gir gaya tha, kya wo mil sakta hai?",Agar kisi ne jama karaya ho to Lost & Found list mein hota hai.,Arrival
+82,Lost_found_info,Roman Urdu,"Mera saman 3 din pehle kho gaya, ab kya karun?",Complaint reference number ke sath follow-up karein.,Arrival
+83,Lost_found_info,Roman Urdu,Kya koi fees hoti hai claim karne ki?,"Nahi, ye service bilkul free hai.",Arrival
+84,Lost_found_info,Roman Urdu,"Mera wristwatch missing hai, kya wo valuable list mein hota hai?","Haan, valuable items secure locker mein rakhe jate hain.",Arrival
+85,Lost_found_info,Roman Urdu,"Mera bag galat belt pe gaya tha, kya staff madad karega?","Haan, wo flight aur bag code se trace kar lete hain.",Arrival
+86,Lost_found_info,Roman Urdu,Kya Lost & Found office arrivals hall ke andar hai?,"Haan, ye Customs exit ke paas located hai.",Arrival
+87,Lost_found_info,Roman Urdu,"Mera jacket kal reh gaya tha, kya ab mil sakta hai?","Haan, 90 din tak items store hote hain, zaroor check karein.",Arrival
+88,Lost_found_info,Roman Urdu,"Mera bag mil gaya par lock broken hai, kya karun?","Ye issue airline ke claim counter pe batayein, wo compensation handle karte hain.",Arrival
+89,Lost_found_info,Roman Urdu,"Mera CNIC kal airport pe reh gaya tha, kaise milega?",Lost & Found pe visit karein aur ID details verify karein.,Arrival
+90,Lost_found_info,Roman Urdu,"Mera hand carry belt pe nahi aya, kya wo alag belt pe gaya hoga?","Haan, staff check karega aur correct belt number batayega.",Arrival
+91,Lost_found_info,Roman Urdu,"Mujhe kisi ka mobile mila hai, kya main de sakta hoon?","Haan, Lost & Found ya security desk pe jama kara dein.",Arrival
+92,Lost_found_info,Roman Urdu,"Mera saman galti se domestic belt pe gaya, kya wapas milega?",Staff trace kar leta hai aur same din return kar diya jata hai.,Arrival
+93,Lost_found_info,Roman Urdu,Kya koi delivery service hoti hai lost bags ke liye?,"Haan, kuch airlines home delivery offer karti hain.",Arrival
+94,Lost_found_info,Roman Urdu,Mujhe lost item ka tracking number kaise milta hai?,Complaint register karte waqt staff aapko reference ID deta hai.,Arrival
+95,Lost_found_info,Roman Urdu,Mera passport recovery mein kitna time lagta hai?,Usually 1-2 din lagte hain airline aur security se verify hone mein.,Arrival
+96,Lost_found_info,Roman Urdu,Kya main kisi aur ka bag report kar sakta hoon jo mil gaya hai?,"Bilkul, Lost & Found pe ja kar detail dein taake owner tak pohch sake.",Arrival
+97,Lost_found_info,Roman Urdu,Mujhe koi contact form online mil sakta hai kya?,Abhi ke liye sirf manual form available hai counter pe.,Arrival
+98,Lost_found_info,Roman Urdu,"Mera CNIC airport pe kho gaya hai, kya karun?",Lost & Found aur police desk dono pe inform karein taake record ban sake.,Arrival
+99,Lost_found_info,Roman Urdu,"Mera baggage delay ho gaya tha, ab kahan se collect karun?",Complaint register karayi thi to Lost & Found counter pe reference number se saman lein.,Arrival
+100,Lost_found_info,Roman Urdu,"Mera charger kho gaya hai, kaise check karun?","Lost & Found office pe ja kar detail dein, staff daily electronics list check karta hai.",Arrival
+101,Lost_found_info,Roman Urdu,Kya Lost & Found 24 ghante khula rehta hai?,"Haan, Islamabad Airport ka Lost & Found 24/7 open rehta hai passenger facility ke liye.",Arrival
+102,Lost_found_info,Roman Urdu,"Mujhe kisi aur ka passport mila hai, kya karun?",Usse immigration desk ya Lost & Found counter pe jama kara dein.,Arrival
+103,Lost_found_info,Roman Urdu,Kya koi online form hota hai lost items ke liye?,Filhal sirf manual form available hai jo counter pe fill karna hota hai.,Arrival
+104,Lost_found_info,Roman Urdu,Kya main kisi aur ke behalf pe complaint kar sakta hoon?,"Haan, agar aapke paas uska CNIC aur authorization letter ho to kar sakte hain.",Arrival
+105,Lost_found_info,Roman Urdu,"Mera power bank bag mein tha, aur bag nahi aya, kya karun?","Airline aur Lost & Found dono ko inform karein, battery items ka record maintain hota hai.",Arrival
+106,Lost_found_info,Roman Urdu,Kya koi email confirmation milti hai jab complaint hoti hai?,"Haan, agar aap email address dete hain to confirmation mail bheja jata hai.",Arrival
+107,Lost_found_info,Roman Urdu,"Mera camera kho gaya hai, koi chance hai mil jaye?",Agar koi deliver kare to Lost & Found office aapko contact karega.,Arrival
+108,Lost_found_info,Roman Urdu,Mujhe lost item claim karte waqt proof dena hoga?,"Haan, CNIC aur item ka description dena zaroori hai. Verification ke baad item diya jata hai.",Arrival
+109,Lost_found_info,Roman Urdu,Kya CCTV footage dekhi ja sakti hai mere bag ke liye?,"Sirf authorized staff dekh sakta hai, lekin aap written request de sakte hain.",Arrival
+110,Lost_found_info,Roman Urdu,"Mera jewelry pouch kho gaya hai, kya valuable items alag hain?","Haan, high-value items secure locker mein rakhe jate hain aur special approval se milte hain.",Arrival
+111,Lost_found_info,Roman Urdu,Kya kisi aur ka saman le jana allowed hai?,"Nahi, sirf owner ya authorized person hi claim kar sakta hai.",Arrival
+112,Lost_found_info,Roman Urdu,"Mujhe bag mil gaya hai, lekin lock khula tha.","Ye incident apni airline ko batayein, taake verification aur complaint record ho.",Arrival
+113,Lost_found_info,Roman Urdu,"Mera child stroller arrival pe nahi aya, kya karun?","Airline se verify karein, kuch strollers next flight se deliver hote hain.",Arrival
+114,Lost_found_info,Roman Urdu,Lost & Found staff kis department ke under hota hai?,Ye Airport Facilitation Department ke under kaam karta hai.,Arrival
+115,Lost_found_info,Roman Urdu,"Mera headphone waiting area mein reh gaya, kya mil sakta hai?",Agar kisi ne jama karaya hoga to Lost & Found list mein zaroor hoga.,Arrival
+116,Lost_found_info,Roman Urdu,"Mera bag kisi aur ne galti se le liya hai, kya CCTV se check?","Haan, staff footage dekh kar identify karta hai aur contact karta hai.",Arrival
+117,Lost_found_info,Roman Urdu,"Mera saman do din pehle kho gaya tha, kya ab bhi mil sakta hai?","Haan, lost items 90 din tak store rehte hain, report number se verify karein.",Arrival
+118,Lost_found_info,Roman Urdu,"Mera identity card ghum gaya, police report zaroori hai kya?","Haan, CNIC ke liye police report aur Lost & Found record dono required hote hain.",Arrival
+119,Lost_found_info,Roman Urdu,"Mera perfume bag se missing hai, kya karun?",Airline aur baggage claim counter pe missing item report karwaein.,Arrival
+120,Lost_found_info,Roman Urdu,Kya koi list mil sakti hai daily found items ki?,"Haan, Lost & Found office pe daily updated list available hoti hai.",Arrival
+121,Lost_found_info,Roman Urdu,"Mera friend ka saman missing hai, main report kar sakta hoon?","Haan, agar aapke paas flight aur passenger details hain to kar sakte hain.",Arrival
+122,Lost_found_info,Roman Urdu,"Mera bag damage hua aur saman missing hai, dono report kahan?",Airline aur Lost & Found dono pe complaint file karni hoti hai.,Arrival
+123,Lost_found_info,Roman Urdu,"Mera toy bag arrival belt pe nahi mila, kya koi help karega?","Staff ko bataiye, wo CCTV aur unclaimed area check karte hain.",Arrival
+124,Lost_found_info,Roman Urdu,Mera earpod gir gaya hai baggage belt ke paas.,"Lost & Found pe report karein, small electronics alag section mein rakhe jate hain.",Arrival
+125,Lost_found_info,Roman Urdu,Mujhe lost item pick karne ka time milta hai kya?,"Haan, aap 24/7 kisi bhi waqt le sakte hain ID ke sath.",Arrival
+126,Lost_found_info,Roman Urdu,"Mera luggage open tha jab mila, kya karun?",Airline staff ko batayein aur Lost & Found pe bhi note kara dein.,Arrival
+127,Lost_found_info,Roman Urdu,Kya koi WhatsApp number hai Lost & Found ka?,"Nahi, abhi sirf phone aur email communication available hai.",Arrival
+128,Lost_found_info,Roman Urdu,Mera saman report karne ke baad kitne din mein milta hai?,Usually 24-48 ghante lagte hain trace hone mein.,Arrival
+129,Lost_found_info,Roman Urdu,Agar mera saman kisi ne galti se le liya ho toh kya hota hai?,Staff unse contact karta hai aur saman secure return kar diya jata hai.,Arrival
+130,Lost_found_info,Roman Urdu,"Mera phone belt ke paas gir gaya tha, kya wo mil sakta hai?",Agar kisi ne jama karaya ho to Lost & Found list mein hota hai.,Arrival
+131,Lost_found_info,Roman Urdu,"Mera saman 3 din pehle kho gaya, ab kya karun?",Complaint reference number ke sath follow-up karein.,Arrival
+132,Lost_found_info,Roman Urdu,Kya koi fees hoti hai claim karne ki?,"Nahi, ye service bilkul free hai.",Arrival
+133,Lost_found_info,Roman Urdu,"Mera wristwatch missing hai, kya wo valuable list mein hota hai?","Haan, valuable items secure locker mein rakhe jate hain.",Arrival
+134,Lost_found_info,Roman Urdu,"Mera bag galat belt pe gaya tha, kya staff madad karega?","Haan, wo flight aur bag code se trace kar lete hain.",Arrival
+135,Lost_found_info,Roman Urdu,Kya Lost & Found office arrivals hall ke andar hai?,"Haan, ye Customs exit ke paas located hai.",Arrival
+136,Lost_found_info,Roman Urdu,"Mera jacket kal reh gaya tha, kya ab mil sakta hai?","Haan, 90 din tak items store hote hain, zaroor check karein.",Arrival
+137,Lost_found_info,Roman Urdu,"Mera bag mil gaya par lock broken hai, kya karun?","Ye issue airline ke claim counter pe batayein, wo compensation handle karte hain.",Arrival
+138,Lost_found_info,Roman Urdu,"Mera CNIC kal airport pe reh gaya tha, kaise milega?",Lost & Found pe visit karein aur ID details verify karein.,Arrival
+139,Lost_found_info,Roman Urdu,"Mera hand carry belt pe nahi aya, kya wo alag belt pe gaya hoga?","Haan, staff check karega aur correct belt number batayega.",Arrival
+140,Lost_found_info,Roman Urdu,"Mujhe kisi ka mobile mila hai, kya main de sakta hoon?","Haan, Lost & Found ya security desk pe jama kara dein.",Arrival
+141,Lost_found_info,Roman Urdu,"Mera saman galti se domestic belt pe gaya, kya wapas milega?",Staff trace kar leta hai aur same din return kar diya jata hai.,Arrival
+142,Lost_found_info,Roman Urdu,Kya koi delivery service hoti hai lost bags ke liye?,"Haan, kuch airlines home delivery offer karti hain.",Arrival
+143,Lost_found_info,Roman Urdu,Mujhe lost item ka tracking number kaise milta hai?,Complaint register karte waqt staff aapko reference ID deta hai.,Arrival
+144,Lost_found_info,Roman Urdu,Mera passport recovery mein kitna time lagta hai?,Usually 1-2 din lagte hain airline aur security se verify hone mein.,Arrival
+145,Lost_found_info,Roman Urdu,Kya main kisi aur ka bag report kar sakta hoon jo mil gaya hai?,"Bilkul, Lost & Found pe ja kar detail dein taake owner tak pohch sake.",Arrival
+146,Lost_found_info,Roman Urdu,Mujhe koi contact form online mil sakta hai kya?,Abhi ke liye sirf manual form available hai counter pe.,Arrival
+147,Lost_found_info,Roman Urdu,"Mera boarding pass kho gaya hai, kya duplicate mil sakta hai?","Haan, airline counter pe ja kar ID aur flight details dein, duplicate issue ho jata hai.",Arrival
+148,Lost_found_info,Roman Urdu,"Mera saman lounge mein reh gaya tha, kya staff check karega?","Haan, lounge staff aur Lost & Found dono area check karte hain aur record maintain karte hain.",Arrival
+149,Lost_found_info,Roman Urdu,Kya Lost & Found mein cash items bhi accept hote hain?,"Haan, agar cash milta hai to secure envelope mein seal karke record banaya jata hai.",Arrival
+150,Lost_found_info,Roman Urdu,"Mera boarding gate pe saman reh gaya tha, kya recover ho sakta hai?","Haan, boarding gate staff aur Lost & Found team coordinate karte hain, turant report karein.",Arrival
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
