@@ -1,0 +1,268 @@
+Query,Language,Intent,Terminal,Response
+Where is the baggage belt?,English,Baggage,Arrival,"You can find the baggage belt in the Arrival terminal near Belt 1. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the lost luggage?,English,Baggage,Arrival,"You can find the lost luggage in the Arrival terminal near Belt 2. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the oversized baggage?,English,Baggage,Arrival,"You can find the oversized baggage in the Arrival terminal near Belt 3. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the baggage claim?,English,Baggage,Arrival,"You can find the baggage claim in the Arrival terminal near Belt 4. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the trolley?,English,Baggage,Arrival,"You can find the trolley in the Arrival terminal near Belt 5. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the baggage wrapping?,English,Baggage,Arrival,"You can find the baggage wrapping in the Arrival terminal near Belt 6. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the damaged bag?,English,Baggage,Arrival,"You can find the damaged bag in the Arrival terminal near Belt 7. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the missing bag?,English,Baggage,Arrival,"You can find the missing bag in the Arrival terminal near Belt 8. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the baggage inquiry desk?,English,Baggage,Arrival,"You can find the baggage inquiry desk in the Arrival terminal near Belt 1. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the luggage storage?,English,Baggage,Arrival,"You can find the luggage storage in the Arrival terminal near Belt 2. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the priority baggage?,English,Baggage,Arrival,"You can find the priority baggage in the Arrival terminal near Belt 3. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the baggage weight limit?,English,Baggage,Arrival,"You can find the baggage weight limit in the Arrival terminal near Belt 4. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the baggage delay?,English,Baggage,Arrival,"You can find the baggage delay in the Arrival terminal near Belt 5. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the customs area?,English,Baggage,Arrival,"You can find the customs area in the Arrival terminal near Belt 6. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the baggage scanner?,English,Baggage,Arrival,"You can find the baggage scanner in the Arrival terminal near Belt 7. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the security check?,English,Baggage,Arrival,"You can find the security check in the Arrival terminal near Belt 8. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the bag drop?,English,Baggage,Arrival,"You can find the bag drop in the Arrival terminal near Belt 1. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the bag collection?,English,Baggage,Arrival,"You can find the bag collection in the Arrival terminal near Belt 2. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the left luggage?,English,Baggage,Arrival,"You can find the left luggage in the Arrival terminal near Belt 3. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the bag recheck?,English,Baggage,Arrival,"You can find the bag recheck in the Arrival terminal near Belt 4. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the customs officer?,English,Baggage,Arrival,"You can find the customs officer in the Arrival terminal near Belt 5. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the arrival inspection desk?,English,Baggage,Arrival,"You can find the arrival inspection desk in the Arrival terminal near Belt 6. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the bag report counter?,English,Baggage,Arrival,"You can find the bag report counter in the Arrival terminal near Belt 7. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the luggage cart return?,English,Baggage,Arrival,"You can find the luggage cart return in the Arrival terminal near Belt 8. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the lost and found baggage?,English,Baggage,Arrival,"You can find the lost and found baggage in the Arrival terminal near Belt 1. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the baggage complaint desk?,English,Baggage,Arrival,"You can find the baggage complaint desk in the Arrival terminal near Belt 2. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the baggage assistance?,English,Baggage,Arrival,"You can find the baggage assistance in the Arrival terminal near Belt 3. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the baggage office?,English,Baggage,Arrival,"You can find the baggage office in the Arrival terminal near Belt 4. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the airline baggage counter?,English,Baggage,Arrival,"You can find the airline baggage counter in the Arrival terminal near Belt 5. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the arrival luggage service?,English,Baggage,Arrival,"You can find the arrival luggage service in the Arrival terminal near Belt 6. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the tracking counter?,English,Baggage,Arrival,"You can find the tracking counter in the Arrival terminal near Belt 7. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the baggage center?,English,Baggage,Arrival,"You can find the baggage center in the Arrival terminal near Belt 8. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the oversized bag claim?,English,Baggage,Arrival,"You can find the oversized bag claim in the Arrival terminal near Belt 1. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the duty free luggage check?,English,Baggage,Arrival,"You can find the duty free luggage check in the Arrival terminal near Belt 2. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the arrival belt 1?,English,Baggage,Arrival,"You can find the arrival belt 1 in the Arrival terminal near Belt 3. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the arrival belt 2?,English,Baggage,Arrival,"You can find the arrival belt 2 in the Arrival terminal near Belt 4. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the baggage monitoring?,English,Baggage,Arrival,"You can find the baggage monitoring in the Arrival terminal near Belt 5. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the arrival customs?,English,Baggage,Arrival,"You can find the arrival customs in the Arrival terminal near Belt 6. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the scanner area?,English,Baggage,Arrival,"You can find the scanner area in the Arrival terminal near Belt 7. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the fragile baggage desk?,English,Baggage,Arrival,"You can find the fragile baggage desk in the Arrival terminal near Belt 8. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the baggage help point?,English,Baggage,Arrival,"You can find the baggage help point in the Arrival terminal near Belt 1. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the luggage pickup zone?,English,Baggage,Arrival,"You can find the luggage pickup zone in the Arrival terminal near Belt 2. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the report lost bag?,English,Baggage,Arrival,"You can find the report lost bag in the Arrival terminal near Belt 3. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the baggage complaint point?,English,Baggage,Arrival,"You can find the baggage complaint point in the Arrival terminal near Belt 4. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the arrival belt counter?,English,Baggage,Arrival,"You can find the arrival belt counter in the Arrival terminal near Belt 5. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the baggage claim desk?,English,Baggage,Arrival,"You can find the baggage claim desk in the Arrival terminal near Belt 6. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the baggage delivery?,English,Baggage,Arrival,"You can find the baggage delivery in the Arrival terminal near Belt 7. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the baggage hall?,English,Baggage,Arrival,"You can find the baggage hall in the Arrival terminal near Belt 8. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the arrival belt 3?,English,Baggage,Arrival,"You can find the arrival belt 3 in the Arrival terminal near Belt 1. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where is the arrival belt 4?,English,Baggage,Arrival,"You can find the arrival belt 4 in the Arrival terminal near Belt 2. Please follow the 'Baggage Claim' signs for assistance. If your bag is delayed or missing, visit the nearest baggage help desk."
+Where do I collect my luggage?,en,Find_Baggage_Belt,Arrival,Please check the flight information display screens for your flight's assigned baggage belt number. They are located throughout the arrivals hall.
+Can you tell me the belt for flight QR604?,en,Find_Baggage_Belt,Arrival,Please check the flight information display screens for your flight's assigned baggage belt number. They are located throughout the arrivals hall.
+Baggage claim location?,en,Find_Baggage_Belt,Arrival,The baggage claim area is located directly after you pass through immigration. Please look for the signs.
+Which carousel has the bags from the London flight?,en,Find_Baggage_Belt,Arrival,Flight-specific belt information is displayed on the screens above the carousels. Please find your flight number.
+Where will our suitcases come out?,en,Find_Baggage_Belt,Arrival,Your suitcases will arrive on the belt assigned to your flight. Please check the information screens for the correct number.
+I need to know my baggage belt number.,en,Find_Baggage_Belt,Arrival,Please check the flight information display screens for your flight's assigned baggage belt number. They are located throughout the arrivals hall.
+Is there a screen showing luggage belts?,en,Find_Baggage_Belt,Arrival,"Yes, flight information display screens are located throughout the arrivals hall showing baggage belt assignments."
+"My flight has landed, where are the bags?",en,Find_Baggage_Belt,Arrival,Your baggage will be on the assigned belt shortly. Please check the screens for the correct belt number.
+My suitcase hasn't arrived.,en,Report_Lost_Baggage,Arrival,I am sorry to hear that. Please proceed to the Baggage Services counter for immediate assistance. They will help you file a report.
+I can't find my bag.,en,Report_Lost_Baggage,Arrival,"If your bag is not on the belt, please go to the Baggage Services office to report it missing."
+What do I do if my luggage is missing?,en,Report_Lost_Baggage,Arrival,"For any missing luggage, please contact the staff at the Baggage Services counter immediately."
+The conveyor belt is empty but my bag is not here.,en,Report_Lost_Baggage,Arrival,I am sorry to hear that. Please proceed to the Baggage Services counter for immediate assistance. They will help you file a report.
+Who should I talk to about a lost suitcase?,en,Report_Lost_Baggage,Arrival,The Baggage Services desk is the correct place to report a lost suitcase. Please have your luggage tag receipt ready.
+My bag from flight EK201 is lost.,en,Report_Lost_Baggage,Arrival,Please proceed to the Baggage Services counter to file a report for your missing bag from flight EK201.
+How do I file a report for a missing bag?,en,Report_Lost_Baggage,Arrival,The staff at the Baggage Services counter will provide you with a form to file a missing baggage report.
+My suitcase is damaged.,en,Report_Damaged_Baggage,Arrival,Please report any damaged luggage at the Baggage Services counter before leaving the airport. They will assist you with the claim process.
+The wheel of my bag is broken.,en,Report_Damaged_Baggage,Arrival,I am sorry about that. Please go to the Baggage Services counter to file a damage report.
+How can I claim for a broken suitcase?,en,Report_Damaged_Baggage,Arrival,"To make a claim, please report the damage at the Baggage Services desk. Make sure to do this before you exit the airport."
+"My bag is cracked, what's the procedure?",en,Report_Damaged_Baggage,Arrival,Please show the damaged bag to the staff at the Baggage Services counter to start the claim procedure.
+Where to report damaged luggage?,en,Report_Damaged_Baggage,Arrival,The Baggage Services counter is the designated area for reporting any damage to your luggage.
+Where can I find a luggage trolley?,en,Find_Trolley,Arrival,Baggage trolleys are available free of charge near all baggage claim belts and at various points in the arrivals hall.
+Are there any baggage carts here?,en,Find_Trolley,Arrival,"Yes, you can find baggage carts located conveniently near the baggage carousels."
+I need a trolley for my bags.,en,Find_Trolley,Arrival,Baggage trolleys are available for your use. You can find them near the entrance of the baggage claim hall.
+Do I have to pay for the luggage cart?,en,Find_Trolley,Arrival,"No, the luggage carts in the arrivals hall are complimentary for all passengers."
+Where are the trolleys?,en,Find_Trolley,Arrival,You can find trolleys located all around the baggage claim area.
+How long until the bags start arriving?,en,Query_Wait_Time,Arrival,Baggage typically starts arriving 20-30 minutes after the flight has landed. Please keep an eye on the information screens.
+What is the waiting time for luggage?,en,Query_Wait_Time,Arrival,"The wait time is usually between 20 to 40 minutes, depending on the aircraft. Thank you for your patience."
+Any update on the baggage for flight SV700?,en,Query_Wait_Time,Arrival,Please check the flight information display screen for the status. It will show 'Bags on Belt' when they start arriving.
+How long do I have to wait for my suitcase?,en,Query_Wait_Time,Arrival,Baggage delivery usually begins shortly. The typical wait time is around 20-30 minutes after landing.
+When will baggage claim start?,en,Query_Wait_Time,Arrival,Baggage should be on the belt soon. Thank you for your patience.
+Where is the collection point for oversized baggage?,en,Find_Oversized_Baggage,Arrival,Oversized items can be collected from the special baggage handling counter. Please look for signs or ask ground staff for directions.
+"I have a stroller, where do I pick it up?",en,Find_Oversized_Baggage,Arrival,Items like strollers are considered oversized baggage. Please check the special handling counter.
+Where can I get my sports equipment?,en,Find_Oversized_Baggage,Arrival,"Large sports equipment is delivered to the oversized baggage area, not the regular belt."
+Collection for large items?,en,Find_Oversized_Baggage,Arrival,Please proceed to the oversized baggage counter to collect your large items.
+Where is the baggage services desk?,en,Baggage_Services_Location,Arrival,The Baggage Services counter is located near the main baggage claim area. Look for signs that say 'Baggage Services' or 'Lost & Found'.
+I need to find the lost luggage office.,en,Baggage_Services_Location,Arrival,"The lost luggage office, also called Baggage Services, is situated at the end of the baggage claim hall."
+Where is the help desk for baggage issues?,en,Baggage_Services_Location,Arrival,"For any baggage issues, please go to the Baggage Services counter located within the baggage claim area."
+Location of the baggage office please.,en,Baggage_Services_Location,Arrival,You can find the baggage office near the carousels. Please look for the 'Baggage Services' sign.
+I think someone took my bag by mistake.,en,Mistaken_Baggage,Arrival,"If you believe someone has taken your bag, please report it to the Baggage Services counter immediately for assistance."
+"This is not my suitcase, it just looks like mine.",en,Mistaken_Baggage,Arrival,Please return the incorrect suitcase to the Baggage Services counter and report that you have picked up the wrong bag.
+What if I accidentally took the wrong luggage?,en,Mistaken_Baggage,Arrival,Please bring the luggage to the Baggage Services counter immediately so we can help you find your correct bag.
+I have someone else's bag.,en,Mistaken_Baggage,Arrival,Please do not leave the airport. Report this at the Baggage Services desk right away.
+Can I leave my bags somewhere?,en,General_Inquiry,Arrival,"For security reasons, please keep your bags with you at all times. There are no storage facilities in the arrivals area."
+Is there a baggage wrapping service here?,en,General_Inquiry,Arrival,"Baggage wrapping services are typically available in the departures hall, not in arrivals."
+How many bags am I allowed to have?,en,General_Inquiry,Arrival,Your baggage allowance is determined by your airline. The airport does not set these limits.
+Help with my luggage please.,en,General_Inquiry,Arrival,Porter services are available to help you with your luggage. You can find them in the arrivals hall.
+Can I get help carrying my bags?,en,General_Inquiry,Arrival,"Yes, porter services are available for a fee to assist you with your luggage."
+Are there customs checks after baggage claim?,en,General_Inquiry,Arrival,"Yes, after collecting your bags, you must proceed through customs inspection before exiting the airport."
+I left something on the plane.,en,General_Inquiry,Arrival,"For items left on the aircraft, please contact your airline's counter, which is located in the arrivals hall."
+Is there a porter service?,en,General_Inquiry,Arrival,"Yes, you can hire a porter to assist you with your luggage. They are located near the baggage claim exit."
+Where is the baggage belt?,English,Baggage,Arrival,The baggage belt is located near the arrival baggage area at Belt 1.
+Where is the lost luggage?,English,Baggage,Arrival,The lost luggage is located near the arrival baggage area at Belt 2.
+Where is the oversized baggage?,English,Baggage,Arrival,The oversized baggage is located near the arrival baggage area at Belt 3.
+Where is the baggage claim?,English,Baggage,Arrival,The baggage claim is located near the arrival baggage area at Belt 4.
+Where is the trolley?,English,Baggage,Arrival,The trolley is located near the arrival baggage area at Belt 5.
+Where is the baggage wrapping?,English,Baggage,Arrival,The baggage wrapping is located near the arrival baggage area at Belt 6.
+Where is the damaged bag?,English,Baggage,Arrival,The damaged bag is located near the arrival baggage area at Belt 7.
+Where is the missing bag?,English,Baggage,Arrival,The missing bag is located near the arrival baggage area at Belt 8.
+Where is the baggage inquiry desk?,English,Baggage,Arrival,The baggage inquiry desk is located near the arrival baggage area at Belt 1.
+Where is the luggage storage?,English,Baggage,Arrival,The luggage storage is located near the arrival baggage area at Belt 2.
+Where is the priority baggage?,English,Baggage,Arrival,The priority baggage is located near the arrival baggage area at Belt 3.
+Where is the baggage weight limit?,English,Baggage,Arrival,The baggage weight limit is located near the arrival baggage area at Belt 4.
+Where is the baggage delay?,English,Baggage,Arrival,The baggage delay is located near the arrival baggage area at Belt 5.
+Where is the customs area?,English,Baggage,Arrival,The customs area is located near the arrival baggage area at Belt 6.
+Where is the baggage scanner?,English,Baggage,Arrival,The baggage scanner is located near the arrival baggage area at Belt 7.
+Where is the security check?,English,Baggage,Arrival,The security check is located near the arrival baggage area at Belt 8.
+Where is the bag drop?,English,Baggage,Arrival,The bag drop is located near the arrival baggage area at Belt 1.
+Where is the bag collection?,English,Baggage,Arrival,The bag collection is located near the arrival baggage area at Belt 2.
+Where is the left luggage?,English,Baggage,Arrival,The left luggage is located near the arrival baggage area at Belt 3.
+Where is the bag recheck?,English,Baggage,Arrival,The bag recheck is located near the arrival baggage area at Belt 4.
+Where is the baggage belt?,English,Baggage,Arrival,The baggage belt is located near the arrival baggage area at Belt 5.
+Where is the lost luggage?,English,Baggage,Arrival,The lost luggage is located near the arrival baggage area at Belt 6.
+Where is the oversized baggage?,English,Baggage,Arrival,The oversized baggage is located near the arrival baggage area at Belt 7.
+Where is the baggage claim?,English,Baggage,Arrival,The baggage claim is located near the arrival baggage area at Belt 8.
+Where is the trolley?,English,Baggage,Arrival,The trolley is located near the arrival baggage area at Belt 1.
+Where is the baggage wrapping?,English,Baggage,Arrival,The baggage wrapping is located near the arrival baggage area at Belt 2.
+Where is the damaged bag?,English,Baggage,Arrival,The damaged bag is located near the arrival baggage area at Belt 3.
+Where is the missing bag?,English,Baggage,Arrival,The missing bag is located near the arrival baggage area at Belt 4.
+Where is the baggage inquiry desk?,English,Baggage,Arrival,The baggage inquiry desk is located near the arrival baggage area at Belt 5.
+Where is the luggage storage?,English,Baggage,Arrival,The luggage storage is located near the arrival baggage area at Belt 6.
+Where is the priority baggage?,English,Baggage,Arrival,The priority baggage is located near the arrival baggage area at Belt 7.
+Where is the baggage weight limit?,English,Baggage,Arrival,The baggage weight limit is located near the arrival baggage area at Belt 8.
+Where is the baggage delay?,English,Baggage,Arrival,The baggage delay is located near the arrival baggage area at Belt 1.
+Where is the customs area?,English,Baggage,Arrival,The customs area is located near the arrival baggage area at Belt 2.
+Where is the baggage scanner?,English,Baggage,Arrival,The baggage scanner is located near the arrival baggage area at Belt 3.
+Where is the security check?,English,Baggage,Arrival,The security check is located near the arrival baggage area at Belt 4.
+Where is the bag drop?,English,Baggage,Arrival,The bag drop is located near the arrival baggage area at Belt 5.
+Where is the bag collection?,English,Baggage,Arrival,The bag collection is located near the arrival baggage area at Belt 6.
+Where is the left luggage?,English,Baggage,Arrival,The left luggage is located near the arrival baggage area at Belt 7.
+Where is the bag recheck?,English,Baggage,Arrival,The bag recheck is located near the arrival baggage area at Belt 8.
+Where is the baggage belt?,English,Baggage,Arrival,The baggage belt is located near the arrival baggage area at Belt 1.
+Where is the lost luggage?,English,Baggage,Arrival,The lost luggage is located near the arrival baggage area at Belt 2.
+Where is the oversized baggage?,English,Baggage,Arrival,The oversized baggage is located near the arrival baggage area at Belt 3.
+Where is the baggage claim?,English,Baggage,Arrival,The baggage claim is located near the arrival baggage area at Belt 4.
+Where is the trolley?,English,Baggage,Arrival,The trolley is located near the arrival baggage area at Belt 5.
+Where is the baggage wrapping?,English,Baggage,Arrival,The baggage wrapping is located near the arrival baggage area at Belt 6.
+Where is the damaged bag?,English,Baggage,Arrival,The damaged bag is located near the arrival baggage area at Belt 7.
+Where is the missing bag?,English,Baggage,Arrival,The missing bag is located near the arrival baggage area at Belt 8.
+Where is the baggage inquiry desk?,English,Baggage,Arrival,The baggage inquiry desk is located near the arrival baggage area at Belt 1.
+Where is the luggage storage?,English,Baggage,Arrival,The luggage storage is located near the arrival baggage area at Belt 2.
+Where is the priority baggage?,English,Baggage,Arrival,The priority baggage is located near the arrival baggage area at Belt 3.
+Where is the baggage weight limit?,English,Baggage,Arrival,The baggage weight limit is located near the arrival baggage area at Belt 4.
+Where is the baggage delay?,English,Baggage,Arrival,The baggage delay is located near the arrival baggage area at Belt 5.
+Where is the customs area?,English,Baggage,Arrival,The customs area is located near the arrival baggage area at Belt 6.
+Where is the baggage scanner?,English,Baggage,Arrival,The baggage scanner is located near the arrival baggage area at Belt 7.
+Where is the security check?,English,Baggage,Arrival,The security check is located near the arrival baggage area at Belt 8.
+Where is the bag drop?,English,Baggage,Arrival,The bag drop is located near the arrival baggage area at Belt 1.
+Where is the bag collection?,English,Baggage,Arrival,The bag collection is located near the arrival baggage area at Belt 2.
+Where is the left luggage?,English,Baggage,Arrival,The left luggage is located near the arrival baggage area at Belt 3.
+Where is the bag recheck?,English,Baggage,Arrival,The bag recheck is located near the arrival baggage area at Belt 4.
+Where is the baggage belt?,English,Baggage,Arrival,The baggage belt is located near the arrival baggage area at Belt 5.
+Where is the lost luggage?,English,Baggage,Arrival,The lost luggage is located near the arrival baggage area at Belt 6.
+Where is the oversized baggage?,English,Baggage,Arrival,The oversized baggage is located near the arrival baggage area at Belt 7.
+Where is the baggage claim?,English,Baggage,Arrival,The baggage claim is located near the arrival baggage area at Belt 8.
+Where is the trolley?,English,Baggage,Arrival,The trolley is located near the arrival baggage area at Belt 1.
+Where is the baggage wrapping?,English,Baggage,Arrival,The baggage wrapping is located near the arrival baggage area at Belt 2.
+Where is the damaged bag?,English,Baggage,Arrival,The damaged bag is located near the arrival baggage area at Belt 3.
+Where is the missing bag?,English,Baggage,Arrival,The missing bag is located near the arrival baggage area at Belt 4.
+Where is the baggage inquiry desk?,English,Baggage,Arrival,The baggage inquiry desk is located near the arrival baggage area at Belt 5.
+Where is the luggage storage?,English,Baggage,Arrival,The luggage storage is located near the arrival baggage area at Belt 6.
+Where is the priority baggage?,English,Baggage,Arrival,The priority baggage is located near the arrival baggage area at Belt 7.
+Where is the baggage weight limit?,English,Baggage,Arrival,The baggage weight limit is located near the arrival baggage area at Belt 8.
+Where is the baggage delay?,English,Baggage,Arrival,The baggage delay is located near the arrival baggage area at Belt 1.
+Where is the customs area?,English,Baggage,Arrival,The customs area is located near the arrival baggage area at Belt 2.
+Where is the baggage scanner?,English,Baggage,Arrival,The baggage scanner is located near the arrival baggage area at Belt 3.
+Where is the security check?,English,Baggage,Arrival,The security check is located near the arrival baggage area at Belt 4.
+Where is the bag drop?,English,Baggage,Arrival,The bag drop is located near the arrival baggage area at Belt 5.
+Where is the bag collection?,English,Baggage,Arrival,The bag collection is located near the arrival baggage area at Belt 6.
+Where is the left luggage?,English,Baggage,Arrival,The left luggage is located near the arrival baggage area at Belt 7.
+Where is the bag recheck?,English,Baggage,Arrival,The bag recheck is located near the arrival baggage area at Belt 8.
+Where is the baggage belt?,English,Baggage,Arrival,The baggage belt is located near the arrival baggage area at Belt 1.
+Where is the lost luggage?,English,Baggage,Arrival,The lost luggage is located near the arrival baggage area at Belt 2.
+Where is the oversized baggage?,English,Baggage,Arrival,The oversized baggage is located near the arrival baggage area at Belt 3.
+Where is the baggage claim?,English,Baggage,Arrival,The baggage claim is located near the arrival baggage area at Belt 4.
+Where is the trolley?,English,Baggage,Arrival,The trolley is located near the arrival baggage area at Belt 5.
+Where is the baggage wrapping?,English,Baggage,Arrival,The baggage wrapping is located near the arrival baggage area at Belt 6.
+Where is the damaged bag?,English,Baggage,Arrival,The damaged bag is located near the arrival baggage area at Belt 7.
+Where is the missing bag?,English,Baggage,Arrival,The missing bag is located near the arrival baggage area at Belt 8.
+Where is the baggage inquiry desk?,English,Baggage,Arrival,The baggage inquiry desk is located near the arrival baggage area at Belt 1.
+Where is the luggage storage?,English,Baggage,Arrival,The luggage storage is located near the arrival baggage area at Belt 2.
+Where is the priority baggage?,English,Baggage,Arrival,The priority baggage is located near the arrival baggage area at Belt 3.
+Where is the baggage weight limit?,English,Baggage,Arrival,The baggage weight limit is located near the arrival baggage area at Belt 4.
+Where is the baggage delay?,English,Baggage,Arrival,The baggage delay is located near the arrival baggage area at Belt 5.
+Where is the customs area?,English,Baggage,Arrival,The customs area is located near the arrival baggage area at Belt 6.
+Where is the baggage scanner?,English,Baggage,Arrival,The baggage scanner is located near the arrival baggage area at Belt 7.
+Where is the security check?,English,Baggage,Arrival,The security check is located near the arrival baggage area at Belt 8.
+Where is the bag drop?,English,Baggage,Arrival,The bag drop is located near the arrival baggage area at Belt 1.
+Where is the bag collection?,English,Baggage,Arrival,The bag collection is located near the arrival baggage area at Belt 2.
+Where is the left luggage?,English,Baggage,Arrival,The left luggage is located near the arrival baggage area at Belt 3.
+Where is the bag recheck?,English,Baggage,Arrival,The bag recheck is located near the arrival baggage area at Belt 4.
+Where can I find the baggage belt?,English,Baggage,Arrival,"Sure, the baggage belt is at Belt 2 in the arrival baggage area. Walk straight from the arrival hall and follow the signs to Belt 2. If you need help, staff at the belt can assist you."
+Where can I find the lost luggage?,English,Baggage,Arrival,"I'm sorry to hear that. For lost luggage, please visit the Lost & Found counter near the arrival hall. Bring your boarding pass and baggage tag â€” they will help trace your luggage."
+Where can I find the damaged luggage?,English,Baggage,Arrival,"Sorry about that. For damaged luggage, go to the airline's baggage counter or the damaged luggage desk. Keep photos and your baggage tag handy, the staff will start a damage report."
+Where can I find the oversized baggage?,English,Baggage,Arrival,Oversized items are usually handled at a special collection point. Head to the oversized baggage zone near the far end of the arrival hall; staff there will tell you how to collect it.
+Where can I find the baggage wrapping?,English,Baggage,Arrival,"You can get baggage wrapping at the service desk near arrivals. They offer wrapping and protective covers, ask them for rates and assistance."
+Where can I find the missing bag?,English,Baggage,Arrival,"I'm sorry to hear that. For missing bag, please visit the Lost & Found counter near the arrival hall. Bring your boarding pass and baggage tag, they will help trace your luggage."
+Where can I find the luggage storage?,English,Baggage,Arrival,"If you want to store luggage temporarily, use the left-luggage storage office near the arrivals exit. They provide short-term storage and secure lockers."
+Where can I find the priority baggage?,English,Baggage,Arrival,Priority baggage is delivered to a special pick-up counter. Check with your airline's priority desk inside the arrival hall for the exact location and assistance.
+Where can I find the baggage delay?,English,Baggage,Arrival,"If your baggage delay is delayed, report it at the airline's baggage service office or the delayed luggage desk, they will register your case and offer tracking options."
+Where can I find the baggage inquiry desk?,English,Baggage,Arrival,The baggage inquiry desk is located near the central arrivals information area. Approach the desk and provide your flight details â€” the staff will check the system and advise you.
+Where can I find the baggage scanner?,English,Baggage,Arrival,"The baggage scanner is in the security/inspection zone near arrivals. If a bag requires secondary screening, staff will direct you to that area."
+Where can I find the customs area?,English,Baggage,Arrival,"For customs-related issues, head to the customs area beside the arrival hall. If your baggage is held, customs officers will tell you the procedure."
+Where can I find the bag recheck?,English,Baggage,Arrival,"For bag recheck, proceed to the recheck counter where staff will re-check and tag your bag again before handover."
+Where can I find the left luggage?,English,Baggage,Arrival,"If you want to store luggage temporarily, use the left-luggage storage office near the arrivals exit. They provide short-term storage and secure lockers."
+Where can I find the baggage claim desk?,English,Baggage,Arrival,The baggage claim desk is at the baggage claim hall; follow signs for 'Baggage Claim' and proceed to the designated belt. Staff at the claim area can assist with immediate queries.
+Where can I find the trolley point?,English,Baggage,Arrival,Trolleys are available near the arrivals doors and at the trolley return point by the parking area. You can collect and return them there.
+Where can I find the baggage delivery service?,English,Baggage,Arrival,The baggage delivery service desk is near the arrivals exit; they can arrange delivery to your address if needed. Expect to provide ID and baggage tags.
+Where can I find the tracking counter?,English,Baggage,Arrival,There is a tracking counter where you can check your luggage status using your tag number. Visit the tracking office in the arrivals corridor for an update.
+Where can I find the baggage complaint desk?,English,Baggage,Arrival,"For complaints, visit the baggage complaint desk; they will register your complaint and provide a reference number for follow-up."
+Where can I find the fragile baggage desk?,English,Baggage,Arrival,"Fragile items are handled at a dedicated desk, explain the issue at the fragile baggage desk and show your baggage tag for quicker processing."
+Where can I find the arrival inspection desk?,English,Baggage,Arrival,"Inspection takes place at the arrival inspection desk near customs. If required, staff will guide you through the inspection process."
+Where can I find the arrival luggage pickup?,English,Baggage,Arrival,Pickup points vary; your airline will usually specify the pickup zone. Check with your airline counter or the arrival information screens for exact pickup details.
+Where can I find the baggage monitoring?,English,Baggage,Arrival,The baggage monitoring desk monitors belt operations and lost items. They can check cameras and records to help locate missing items.
+Where can I find the arrival bag pickup zone?,English,Baggage,Arrival,Pickup points vary; your airline will usually specify the pickup zone. Check with your airline counter or the arrival information screens for exact pickup details.
+Where can I find the duty free luggage check?,English,Baggage,Arrival,The duty free luggage check is located in the arrivals area; please follow signage or ask staff for exact location.
+Where can I find the bag report counter?,English,Baggage,Arrival,"To report issues, visit the bag report center; they will log the incident and advise next steps including tracking and compensation options."
+Where can I find the arrival luggage service?,English,Baggage,Arrival,You can get arrival luggage service at the service desk near arrivals. They offer wrapping and protective covers â€” ask them for rates and assistance.
+Where can I find the airline baggage counter?,English,Baggage,Arrival,The airline baggage counter is located in the arrivals area; please follow signage or ask staff for exact location.
+Where can I find the baggage office?,English,Baggage,Arrival,The baggage office is located inside the arrival hall and handles official baggage procedures. Stop by with your documents for assistance.
+Where can I find the luggage cart return?,English,Baggage,Arrival,Trolleys are available near the arrivals doors and at the trolley return point by the parking area. You can collect and return them there.
+Where can I find the baggage help point?,English,Baggage,Arrival,The baggage help point is located in the arrivals area; please follow signage or ask staff for exact location.
+Where can I find the arrival belt 1?,English,Baggage,Arrival,"Sure, the arrival belt 1 is at Belt 1 in the arrival baggage area. Walk straight from the arrival hall and follow the signs to Belt 1. If you need help, staff at the belt can assist you."
+Where can I find the arrival belt 2?,English,Baggage,Arrival,"Sure, the arrival belt 2 is at Belt 8 in the arrival baggage area. Walk straight from the arrival hall and follow the signs to Belt 8. If you need help, staff at the belt can assist you."
+Where can I find the arrival belt 3?,English,Baggage,Arrival,"Sure, the arrival belt 3 is at Belt 6 in the arrival baggage area. Walk straight from the arrival hall and follow the signs to Belt 6. If you need help, staff at the belt can assist you."
+Where can I find the arrival belt 4?,English,Baggage,Arrival,"Sure, the arrival belt 4 is at Belt 5 in the arrival baggage area. Walk straight from the arrival hall and follow the signs to Belt 5. If you need help, staff at the belt can assist you."
+Where can I find the arrival belt 5?,English,Baggage,Arrival,"Sure, the arrival belt 5 is at Belt 9 in the arrival baggage area. Walk straight from the arrival hall and follow the signs to Belt 9. If you need help, staff at the belt can assist you."
+Where can I find the arrival belt 6?,English,Baggage,Arrival,"Sure, the arrival belt 6 is at Belt 8 in the arrival baggage area. Walk straight from the arrival hall and follow the signs to Belt 8. If you need help, staff at the belt can assist you."
+Where can I find the arrival belt 7?,English,Baggage,Arrival,"Sure, the arrival belt 7 is at Belt 4 in the arrival baggage area. Walk straight from the arrival hall and follow the signs to Belt 4. If you need help, staff at the belt can assist you."
+Where can I find the arrival belt 8?,English,Baggage,Arrival,"Sure, the arrival belt 8 is at Belt 5 in the arrival baggage area. Walk straight from the arrival hall and follow the signs to Belt 5. If you need help, staff at the belt can assist you."
+Where can I find the arrival belt 9?,English,Baggage,Arrival,"Sure, the arrival belt 9 is at Belt 8 in the arrival baggage area. Walk straight from the arrival hall and follow the signs to Belt 8. If you need help, staff at the belt can assist you."
+Where can I find the arrival belt 10?,English,Baggage,Arrival,"Sure, the arrival belt 10 is at Belt 1 in the arrival baggage area. Walk straight from the arrival hall and follow the signs to Belt 1. If you need help, staff at the belt can assist you."
+Where can I find the lost and found baggage?,English,Baggage,Arrival,The lost and found baggage is located in the arrivals area; please follow signage or ask staff for exact location.
+Where can I find the baggage reissue counter?,English,Baggage,Arrival,The baggage reissue counter is located in the arrivals area; please follow signage or ask staff for exact location.
+Where can I find the baggage weight limit?,English,Baggage,Arrival,The baggage weight limit is located in the arrivals area; please follow signage or ask staff for exact location.
+Where can I find the baggage scanning area?,English,Baggage,Arrival,"The baggage scanning area is in the security/inspection zone near arrivals. If a bag requires secondary screening, staff will direct you to that area."
+Where can I find the arrival customs?,English,Baggage,Arrival,"For customs-related issues, head to the customs area beside the arrival hall. If your baggage is held, customs officers will tell you the procedure."
+Where can I find the bag collection point?,English,Baggage,Arrival,The bag collection point is located in the arrivals area; please follow signage or ask staff for exact location.
+Where can I find the left luggage room?,English,Baggage,Arrival,"If you want to store luggage temporarily, use the left-luggage storage office near the arrivals exit. They provide short-term storage and secure lockers."
+Where can I find the baggage pickup assistance?,English,Baggage,Arrival,The baggage pickup assistance is located in the arrivals area; please follow signage or ask staff for exact location.
+Where can I find the baggage tracking office?,English,Baggage,Arrival,There is a tracking counter where you can check your luggage status using your tag number. Visit the tracking office in the arrivals corridor for an update.
+Where can I find the baggage reconciliation desk?,English,Baggage,Arrival,"Reconciliation is done at a specialist desk, they match records and assist when tags are mismatched or bags are unclaimed."
+Where can I find the arrival baggage hall?,English,Baggage,Arrival,The baggage hall houses multiple belts and service desks. Follow the signs to the baggage hall and look for your belt number on the display screens.
+Where can I find the arrival baggage counter?,English,Baggage,Arrival,The arrival baggage counter is located in the arrivals area; please follow signage or ask staff for exact location.
+Where can I find the baggage recheck area?,English,Baggage,Arrival,"For baggage recheck area, proceed to the recheck counter where staff will re-check and tag your bag again before handover."
+Where can I find the baggage transfer desk?,English,Baggage,Arrival,The baggage transfer desk is located in the arrivals area; please follow signage or ask staff for exact location.
+Where can I find the baggage reconciliation office?,English,Baggage,Arrival,"Reconciliation is done at a specialist desk, they match records and assist when tags are mismatched or bags are unclaimed."
+Where can I find the arrival fragile items?,English,Baggage,Arrival,"Fragile items are handled at a dedicated desk, explain the issue at the fragile baggage desk and show your baggage tag for quicker processing."
+Where can I find the arrival baggage complaint point?,English,Baggage,Arrival,"For complaints, visit the baggage complaint desk; they will register your complaint and provide a reference number for follow-up."
+Where can I find the baggage customer service?,English,Baggage,Arrival,"You can get baggage customer service at the service desk near arrivals. They offer wrapping and protective covers, ask them for rates and assistance."
+Where can I find the arrival baggage pickup counter?,English,Baggage,Arrival,Pickup points vary; your airline will usually specify the pickup zone. Check with your airline counter or the arrival information screens for exact pickup details.
+Where can I find the baggage coordination office?,English,Baggage,Arrival,The baggage coordination office liaises between airlines and handling agents. They can escalate tracking or delivery issues if needed.
+Where can I find the arrival baggage tracking center?,English,Baggage,Arrival,There is a tracking counter where you can check your luggage status using your tag number. Visit the tracking office in the arrivals corridor for an update.
+Where can I find the baggage delivery office?,English,Baggage,Arrival,The baggage delivery service desk is near the arrivals exit; they can arrange delivery to your address if needed. Expect to provide ID and baggage tags.
+Where can I find the arrival lost item desk?,English,Baggage,Arrival,"I'm sorry to hear that. For arrival lost item desk, please visit the Lost & Found counter near the arrival hall. Bring your boarding pass and baggage tag, they will help trace your luggage."
+Where can I find the baggage claim area entrance?,English,Baggage,Arrival,The baggage claim area entrance is at the baggage claim hall; follow signs for 'Baggage Claim' and proceed to the designated belt. Staff at the claim area can assist with immediate queries.
+Where can I find the arrival bag verification?,English,Baggage,Arrival,"For verification, go to the bag verification point where staff will check tags and IDs before releasing the baggage."
+Where can I find the arrival bag report center?,English,Baggage,Arrival,"To report issues, visit the bag report center; they will log the incident and advise next steps including tracking and compensation options."
