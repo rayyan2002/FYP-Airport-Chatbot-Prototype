@@ -993,7 +993,7 @@ ID,Question,Answer,intent,terminal,language
 188,Kya main apne saath ghar ka khana le ja sakta hoon?,"Haan, solid food le ja sakte hain, lekin liquid items pe pabandi hai.",Check_in_info,departure,roman
 189,"Boarding pass pe SSSS likha hai, iska kya matlab hai?",Iska matlab hai ke aapki extra security screening hogi.,Check_in_info,departure,roman
 190,Kya main do hand carry bags le ja sakta hoon?,Aam tor par sirf ek hand carry aur ek personal item (laptop bag) allowed hota hai.,Check_in_info,departure,roman
-191,Flight se pehle information desk kahan milega?,Departure hall ke center mein "Information" likha hua counter hai.,Check_in_info,departure,roman
+191,Flight se pehle information desk kahan milega?,"Departure hall ke center mein 'Information' likha hua counter hai.",Check_in_info,departure,roman
 192,"Main ne online check-in kiya hai, lekin seat number nahi mila.",Iska matlab hai seat aapko counter pe hi assign ki jayegi.,Check_in_info,departure,roman
 193,Kya check-in staff se window seat request kar sakta hoon?,"Haan, agar available ho to wo zaroor de dete hain.",Check_in_info,departure,roman
 194,Check-in ke baad duty-free shop tak jane mein kitna time lagta hai?,Immigration ke baad 5-10 minute lagte hain.,Check_in_info,departure,roman
@@ -1204,3 +1204,4 @@ ID,Question,Answer,intent,terminal,language
 198,Kya samaan milne par koi delivery charges hain?,Agar airline home delivery kar rahi hai to unki policy ke mutabiq charges ho sakte hain.,Lost_Found,Arrival,roman
 199,"Mera bag ajeeb (weird) shakal ka tha, kya main tasveer dikha sakta hun?","Haan, bilkul. Tasveer se aapka samaan dhoondne mein aasani hogi.",Lost_Found,Arrival,roman
 200,"Food court mein mera khane ka parcel reh gaya, kahan milega?","Food court management aur Lost & Found counter, dono jagah maloom karein.",Lost_Found,Arrival,roman
+
