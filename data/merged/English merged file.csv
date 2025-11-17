@@ -974,7 +974,7 @@ id,question,answer,intent,terminal,language
 167,Can I check-in and then exit the terminal building to meet someone?,"No, once you enter the check-in hall, you are not permitted to exit and re-enter for security reasons.",Check_in_info,departure,English
 168,Are there any post office or mailing services available before security?,"Currently, there are no post office facilities available in the departure check-in hall.",Check_in_info,departure,English
 169,Can I check in a child's car seat for free?,"Yes, most airlines allow you to check in one car seat or stroller per infant free of charge. Confirm with your airline for their specific policy.",Check_in_info,departure,English
-170,What does the "SEQ NO" on my boarding pass mean?,"It stands for ""Sequence Number,"" which indicates the order in which you checked in for that flight.",Check_in_info,departure,English
+170,What does the 'SEQ NO' on my boarding pass mean?,"It stands for 'Sequence Number' which indicates the order in which you checked in for that flight.",Check_in_info,departure,English
 171,"If I am denied boarding, where can I get assistance?",The airline check-in supervisor will assist you. They are required to provide you with an explanation and information on compensation or rebooking options.,Check_in_info,departure,English
 172,Can I check in perishable food items like frozen meat?,"Yes, but they must be properly packed in a sealed, leak-proof container. The airline is not responsible for spoilage.",Check_in_info,departure,English
 173,My QR code for the mobile boarding pass is not scanning. What should I do?,Don't worry. The airline staff can manually enter your booking reference (PNR) or scan your passport to issue you a printed boarding pass.,Check_in_info,departure,English
@@ -1186,3 +1186,4 @@ id,question,answer,intent,terminal,language
 178,Can I report a lost item on behalf of my elderly parent who isn't feeling well?,"Yes, you can file the initial report. However, for collection, your parent will either need to come in person or provide you with a signed authorization letter and their ID copy.",Lost_found_info,Arrival,English
 179,I lost a musical instrument (a violin). Is there a climate-controlled storage for such items?,"While there is no special climate-controlled storage, such items are kept indoors in the main storage area, protected from extreme temperatures.",Lost_found_info,Arrival,English
 180,Are there translators available at the Lost & Found desk if I don't speak English or Urdu?,"The staff primarily speaks English and Urdu. For other languages, they will try to assist, but it's helpful to have a translation app or a companion who can translate.",Lost_found_info,Arrival,English
+
