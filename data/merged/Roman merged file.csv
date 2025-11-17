@@ -995,7 +995,7 @@ id,query,expected_response,intent,terminal,language
 186,Kya sim card airport pe mil sakta hai?,"Haan, departure hall mein mobile companies ke counters lage hote hain.",Check_in_info,departure,roman
 187,"Check-in line bohat lambi hai, kya karun?","Agar flight ka time qareeb hai to staff ko inform karein, wo aapko aage bhej sakte hain.",Check_in_info,departure,roman
 188,Kya main apne saath ghar ka khana le ja sakta hoon?,"Haan, solid food le ja sakte hain, lekin liquid items pe pabandi hai.",Check_in_info,departure,roman
-189,"Boarding pass pe 'SSSS' likha hai, iska kya matlab hai?",Iska matlab hai ke aapki extra security screening hogi.,Check_in_info,departure,roman
+189,"Boarding pass pe SSSS likha hai, iska kya matlab hai?",Iska matlab hai ke aapki extra security screening hogi.,Check_in_info,departure,roman
 190,Kya main do hand carry bags le ja sakta hoon?,Aam tor par sirf ek hand carry aur ek personal item (laptop bag) allowed hota hai.,Check_in_info,departure,roman
 191,Flight se pehle information desk kahan milega?,Departure hall ke center mein "Information" likha hua counter hai.,Check_in_info,departure,roman
 192,"Main ne online check-in kiya hai, lekin seat number nahi mila.",Iska matlab hai seat aapko counter pe hi assign ki jayegi.,Check_in_info,departure,roman
