@@ -6,3 +6,4 @@
     url = gdrive://1lOmYHzpfBMBXI6un5mUGidTft6iDTD9G
 ['remote "s3remote"']
     url = s3://fyp-dvc-storage-rayyan/dvc
+    sse = AES256
